@@ -48,18 +48,18 @@ To develop a robust, interpretable labeling system and use it to analyze **demog
 - Gender  
 - Age  
 - Disability Status  
-- Education Level  
-- Income  
-- Marital Status  
-- Race  
-- Religion  
-- Nationality  
-- Profession  
-- Language  
-- Sexual Orientation  
-- Veteran Status  
-- Employment Status  
-- Household Composition
+- Race
+- Country 
+- State
+- Region 
+- Languages spoken
+- Education level
+- Social media usage 
+- Religion
+- Marital status 
+- Profession
+- Household income classification
+- Housing situation
 
 
 
