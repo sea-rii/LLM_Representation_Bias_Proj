@@ -80,15 +80,13 @@ The final output is evaluated against known ground truth labels to uncover bias 
 
 ## 🔍 Key Findings
 
-- ✅ **High performance** in predicting:  
-  `Gender`, `Education Level`, `Marital Status`
+- ✅ **Two-stage pipeline**
+    *high performance*: household income, marital status, education level
+    *low performance*: country, race
 
-- ⚠️ **Low performance** in predicting:  
-  `Household Income`, `Disability Status`  
-  *→ These require subtle understanding or inference beyond surface-level cues.*
 
-- 📈 **QA Agent** improved recall significantly in underrepresented or ambiguous cases.
+- 📈 **QA Agent** 100% accuracy in state and 86.8% in education—but had limited overall impact due to infrequent triggering.
 
-- 🤖 **Direct GPT-4 agent** performed well but inconsistently, especially on nuanced categories.
+- 🤖 **Direct GPT-4 agent** 100% accuracy in gender, state, and social media usage, though it struggled with disability status.
 
 
