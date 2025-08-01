@@ -1,79 +1,98 @@
-# 🧠 Unmaskind Demographic Bias in Large Language Models
+# 🧠 Unmasking Demographic Bias in Large Language Models
 
-**Author:** Sai Siri Chittineni  
-**Advisor:** Dr. Ke Yang  
-**Affiliation:** University of Texas at San Antonio
-**Fellowship:** SDS Undergraduate Research Fellowship  
-**Timeline:** January - August 2025
+**👩‍💻 Author:** Sai Siri Chittineni  
+**🧑‍🏫 Advisor:** Dr. Ke Yang  
+**🏫 Affiliation:** University of Texas at San Antonio  
+**📅 Fellowship:** SDS Undergraduate Research Fellowship  
+**📆 Timeline:** January – August 2025  
 
+---
 
+## 🔎 Overview
 
-## 📌 Overview
+This project investigates **representation bias** in large language models (LLMs) when labeling **demographic information** from medical patient descriptions.
 
-This repository presents my research on identifying and evaluating **representation bias in large language models (LLMs)** when labeling demographic information from medical patient descriptions.
+It introduces a **multi-stage labeling pipeline** that combines:
 
-The project implements a **multi-stage labeling pipeline** combining rule-based methods and GPT-4-based QA to compare generated labels with known ground truth. The goal is to assess how well LLMs represent diverse demographic attributes across 15 categories and to expose patterns of bias or misrepresentation.
+- 🔍 **Rule-based keyword matching**
+- 💬 **GPT-4-powered question answering (QA)**
+- 🤖 **Direct LLM-based labeling**
 
+The final output is evaluated against known ground truth labels to uncover bias in demographic predictions across **15 distinct categories**.
 
+---
 
 ## 🎯 Objective
 
-To develop a robust, interpretable labeling system and use it to analyze **demographic bias** in LLMs across synthetic medical texts.
+> To design an **interpretable**, **accurate**, and **scalable** labeling pipeline and use it to analyze **demographic bias** in LLMs using synthetic medical descriptions.
 
-
+---
 
 ## 🧪 Methodology
 
-### 📁 Dataset
+### 🗃️ Dataset
 
-- **Type:** Synthetic patient descriptions with embedded demographic traits.
-- **Format:** CSV files with free-text descriptions and corresponding ground-truth demographic labels.
+- **Type:** Synthetic patient descriptions
+- **Includes:** Embedded demographic traits
+- **Format:** `.csv` with free-text + structured ground-truth labels
 
-### 🛠️ Labeling Pipeline Components
+---
 
-- **Keyword Matching Agent**  
-  Rule-based extractor using a hierarchical dictionary of keywords per category.
+### 🔁 Labeling Pipeline
 
-- **QA Agent (Fallback)**  
-  Invoked only when keyword matching returns `'n/a'`. Prompts GPT-4 to answer questions about missing demographic attributes.
+| Stage | Component | Description |
+|-------|-----------|-------------|
+| 🧩 Step 1 | **Keyword Matching Agent** | Rule-based matcher using a nested keyword hierarchy |
+| 🧠 Step 2 | **QA Agent (Fallback)** | Triggered when keyword output is `'n/a'`; asks GPT-4 directly |
+| 🤖 Step 3 | **AI Matching Agent** | End-to-end GPT-4 agent that labels all categories |
+| 🏷️ Step 4 | **Truth Generator** | Simulated ground-truth generator for benchmarking accuracy |
 
-- **AI Matching Agent**  
-  End-to-end GPT-4 labeling of all 15 categories from scratch.
-
-- **Truth Generator**  
-  Generates ground truth labels for each patient description for benchmarking.
+---
 
 ### 🧬 Demographic Categories (15)
 
-- Gender  
-- Age  
-- Disability Status  
-- Race
-- Country 
-- State
-- Region 
-- Languages spoken
-- Education level
-- Social media usage 
-- Religion
-- Marital status 
-- Profession
-- Household income classification
-- Housing situation
+- 🧑 Gender  
+- 🎂 Age  
+- ♿ Disability Status  
+- 🌍 Race  
+- 🗺️ Country  
+- 🏙️ State  
+- 🧭 Region  
+- 🗣️ Languages Spoken  
+- 🎓 Education Level  
+- 📱 Social Media Usage  
+- 🕊️ Religion  
+- 💍 Marital Status  
+- 👩‍🔧 Profession  
+- 💵 Household Income Classification  
+- 🏡 Housing Situation  
 
-
+---
 
 ## 📊 Evaluation Metrics
 
-- **Pipeline Accuracy:** Final accuracy of keyword + QA system.
-- **QA Accuracy:** Accuracy when the fallback GPT QA was triggered.
-- **ChatGPT Accuracy:** Performance of GPT-4 when used standalone to extract all labels.
+| Metric | Description |
+|--------|-------------|
+| ✅ **Pipeline Accuracy** | Accuracy of the combined keyword + QA approach |
+| 🧠 **QA Accuracy** | Accuracy when GPT QA was triggered (fallback mode) |
+| 🤖 **ChatGPT Accuracy** | Performance of GPT-4 when labeling directly without scaffolding |
 
+---
 
 ## 🔍 Key Findings
 
-- ✅ Highest performance in labeling **gender**, **education level**, and **marital status**.
-- ⚠️ Lowest performance in **income** and **disability status**, suggesting GPT struggles with nuance or implicit references.
-- 📈 The QA Agent significantly improved recall, especially for underrepresented categories.
-- 🤖 Direct GPT-4 (AI Matching Agent) showed strong performance but was inconsistent across sensitive categories.
+- ✅ **High performance** in predicting:  
+  `Gender`, `Education Level`, `Marital Status`
+
+- ⚠️ **Low performance** in predicting:  
+  `Household Income`, `Disability Status`  
+  *→ These require subtle understanding or inference beyond surface-level cues.*
+
+- 📈 **QA Agent** improved recall significantly in underrepresented or ambiguous cases.
+
+- 🤖 **Direct GPT-4 agent** performed well but inconsistently, especially on nuanced categories.
+
+---
+
+## 📁 Project Structure
 
