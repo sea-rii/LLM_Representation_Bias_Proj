@@ -6,7 +6,7 @@
 **Fellowship:** SDS Undergraduate Research Fellowship  
 **Timeline:** January - August 2025
 
----
+
 
 ## 📌 Overview
 
