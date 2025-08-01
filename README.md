@@ -81,8 +81,8 @@ The final output is evaluated against known ground truth labels to uncover bias 
 ## 🔍 Key Findings
 
 - ✅ **Two-stage pipeline**
-    *high performance*: household income, marital status, education level
-    *low performance*: country, race
+    - high performance*: household income, marital status, education level
+    - low performance*: country, race
 
 
 - 📈 **QA Agent** 100% accuracy in state and 86.8% in education—but had limited overall impact due to infrequent triggering.
