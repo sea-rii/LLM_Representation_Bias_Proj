@@ -14,13 +14,13 @@ This repository presents my research on identifying and evaluating **representat
 
 The project implements a **multi-stage labeling pipeline** combining rule-based methods and GPT-4-based QA to compare generated labels with known ground truth. The goal is to assess how well LLMs represent diverse demographic attributes across 15 categories and to expose patterns of bias or misrepresentation.
 
----
+
 
 ## 🎯 Objective
 
 To develop a robust, interpretable labeling system and use it to analyze **demographic bias** in LLMs across synthetic medical texts.
 
----
+
 
 ## 🧪 Methodology
 
@@ -61,7 +61,7 @@ To develop a robust, interpretable labeling system and use it to analyze **demog
 - Employment Status  
 - Household Composition
 
----
+
 
 ## 📊 Evaluation Metrics
 
@@ -69,4 +69,11 @@ To develop a robust, interpretable labeling system and use it to analyze **demog
 - **QA Accuracy:** Accuracy when the fallback GPT QA was triggered.
 - **ChatGPT Accuracy:** Performance of GPT-4 when used standalone to extract all labels.
 
----
+
+## 🔍 Key Findings
+
+- ✅ Highest performance in labeling **gender**, **education level**, and **marital status**.
+- ⚠️ Lowest performance in **income** and **disability status**, suggesting GPT struggles with nuance or implicit references.
+- 📈 The QA Agent significantly improved recall, especially for underrepresented categories.
+- 🤖 Direct GPT-4 (AI Matching Agent) showed strong performance but was inconsistent across sensitive categories.
+
