@@ -1,0 +1,1336 @@
+entity1,entity2,relationship_type,question1,question2,question3
+pulmonary embolism,shortness of breath,disease-symptom,Is pulmonary embolism a disease?,Is shortness of breath a symptom?,Is shortness of breath a symptom of pulmonary embolism?
+pulmonary embolism,chest pain,disease-symptom,Is pulmonary embolism a disease?,Is chest pain a symptom?,Is chest pain a symptom of pulmonary embolism?
+chiari 1,difficulty swallowing,disease-symptom,Is chiari 1 a disease?,Is difficulty swallowing a symptom?,Is difficulty swallowing a symptom of chiari 1?
+chiari 1,hoarseness,disease-symptom,Is chiari 1 a disease?,Is hoarseness a symptom?,Is hoarseness a symptom of chiari 1?
+chiari 1,loss sensation,disease-symptom,Is chiari 1 a disease?,Is loss sensation a symptom?,Is loss sensation a symptom of chiari 1?
+shortness of breath,pulmonary embolism,symptom-disease,Is shortness of breath a symptom?,Is pulmonary embolism a disease?,Is shortness of breath a symptom of pulmonary embolism?
+chest pain,pulmonary embolism,symptom-disease,Is chest pain a symptom?,Is pulmonary embolism a disease?,Is chest pain a symptom of pulmonary embolism?
+difficulty swallowing,chiari 1,symptom-disease,Is difficulty swallowing a symptom?,Is chiari 1 a disease?,Is difficulty swallowing a symptom of chiari 1?
+hoarseness,chiari 1,symptom-disease,Is hoarseness a symptom?,Is chiari 1 a disease?,Is hoarseness a symptom of chiari 1?
+loss sensation,chiari 1,symptom-disease,Is loss sensation a symptom?,Is chiari 1 a disease?,Is loss sensation a symptom of chiari 1?
+knee pain,radial tear of the medial meniscus,symptom-disease,Is knee pain a symptom?,Is radial tear of the medial meniscus a disease?,Is knee pain a symptom of radial tear of the medial meniscus?
+radial tear of the medial meniscus,joint effusion,disease-symptom,Is radial tear of the medial meniscus a disease?,Is joint effusion a symptom?,Is joint effusion a symptom of radial tear of the medial meniscus?
+heart fluttering,Cardiology Issues,symptom-disease,Is heart fluttering a symptom?,Is Cardiology Issues a disease?,Is heart fluttering a symptom of Cardiology Issues?
+chest pains,Cardiology Issues,symptom-disease,Is chest pains a symptom?,Is Cardiology Issues a disease?,Is chest pains a symptom of Cardiology Issues?
+burning in chest,Cardiology Issues,symptom-disease,Is burning in chest a symptom?,Is Cardiology Issues a disease?,Is burning in chest a symptom of Cardiology Issues?
+allergy,sneezing,disease-symptom,Is allergy a disease?,Is sneezing a symptom?,Is sneezing a symptom of allergy?
+allergy,running nose,disease-symptom,Is allergy a disease?,Is running nose a symptom?,Is running nose a symptom of allergy?
+schizoaffective disorder,psychotic/schizophrenic tendencies,disease-symptom,Is schizoaffective disorder a disease?,Is psychotic/schizophrenic tendencies a symptom?,Is psychotic/schizophrenic tendencies a symptom of schizoaffective disorder?
+depression,lethargy,disease-symptom,Is depression a disease?,Is lethargy a symptom?,Is lethargy a symptom of depression?
+depression,tired,disease-symptom,Is depression a disease?,Is tired a symptom?,Is tired a symptom of depression?
+Ativan,withdrawal symptoms,drug-disease,Is Ativan a drug?,Is withdrawal symptoms a disease?,Is Ativan used to treat withdrawal symptoms?
+withdrawal symptoms,shaking,disease-symptom,Is withdrawal symptoms a disease?,Is shaking a symptom?,Is shaking a symptom of withdrawal symptoms?
+withdrawal symptoms,hot/cold flashes,disease-symptom,Is withdrawal symptoms a disease?,Is hot/cold flashes a symptom?,Is hot/cold flashes a symptom of withdrawal symptoms?
+withdrawal symptoms,jaw pain,disease-symptom,Is withdrawal symptoms a disease?,Is jaw pain a symptom?,Is jaw pain a symptom of withdrawal symptoms?
+withdrawal symptoms,brain fog,disease-symptom,Is withdrawal symptoms a disease?,Is brain fog a symptom?,Is brain fog a symptom of withdrawal symptoms?
+withdrawal symptoms,zero appetite,disease-symptom,Is withdrawal symptoms a disease?,Is zero appetite a symptom?,Is zero appetite a symptom of withdrawal symptoms?
+nasal congestion,difficulty breathing,disease-symptom,Is nasal congestion a disease?,Is difficulty breathing a symptom?,Is difficulty breathing a symptom of nasal congestion?
+nasal congestion,sleep disturbance,disease-symptom,Is nasal congestion a disease?,Is sleep disturbance a symptom?,Is sleep disturbance a symptom of nasal congestion?
+varicoceles,fertility,disease-symptom,Is varicoceles a disease?,Is fertility a symptom?,Is fertility a symptom of varicoceles?
+prolactin,gynecomastia,symptom-disease,Is prolactin a symptom?,Is gynecomastia a disease?,Is prolactin a symptom of gynecomastia?
+clomid,mens fertility,drug-disease,Is clomid a drug?,Is mens fertility a disease?,Is clomid used to treat mens fertility?
+escitalopram,depression,drug-disease,Is escitalopram a drug?,Is depression a disease?,Is escitalopram used to treat depression?
+flu,fever,disease-symptom,Is flu a disease?,Is fever a symptom?,Is fever a symptom of flu?
+flu,runny nose,disease-symptom,Is flu a disease?,Is runny nose a symptom?,Is runny nose a symptom of flu?
+flu,coughing,disease-symptom,Is flu a disease?,Is coughing a symptom?,Is coughing a symptom of flu?
+flu,sore throat,disease-symptom,Is flu a disease?,Is sore throat a symptom?,Is sore throat a symptom of flu?
+covid,fever,disease-symptom,Is covid a disease?,Is fever a symptom?,Is fever a symptom of covid?
+covid,runny nose,disease-symptom,Is covid a disease?,Is runny nose a symptom?,Is runny nose a symptom of covid?
+covid,coughing,disease-symptom,Is covid a disease?,Is coughing a symptom?,Is coughing a symptom of covid?
+covid,sore throat,disease-symptom,Is covid a disease?,Is sore throat a symptom?,Is sore throat a symptom of covid?
+heat rash,rash,disease-symptom,Is heat rash a disease?,Is rash a symptom?,Is rash a symptom of heat rash?
+nicotine gum,nicotine poisoning,drug-disease,Is nicotine gum a drug?,Is nicotine poisoning a disease?,Is nicotine gum used to treat nicotine poisoning?
+nicotine poisoning,stomach pain,disease-symptom,Is nicotine poisoning a disease?,Is stomach pain a symptom?,Is stomach pain a symptom of nicotine poisoning?
+stomach pain,nicotine poisoning,symptom-disease,Is stomach pain a symptom?,Is nicotine poisoning a disease?,Is stomach pain a symptom of nicotine poisoning?
+ALS,muscle twitching,disease-symptom,Is ALS a disease?,Is muscle twitching a symptom?,Is muscle twitching a symptom of ALS?
+ALS,weakness,disease-symptom,Is ALS a disease?,Is weakness a symptom?,Is weakness a symptom of ALS?
+atrophy,ALS,symptom-disease,Is atrophy a symptom?,Is ALS a disease?,Is atrophy a symptom of ALS?
+yeast infection,rash,disease-symptom,Is yeast infection a disease?,Is rash a symptom?,Is rash a symptom of yeast infection?
+clobetasol,autoeczematization,drug-disease,Is clobetasol a drug?,Is autoeczematization a disease?,Is clobetasol used to treat autoeczematization?
+autoeczematization,rash,disease-symptom,Is autoeczematization a disease?,Is rash a symptom?,Is rash a symptom of autoeczematization?
+prednisone,autoeczematization,drug-disease,Is prednisone a drug?,Is autoeczematization a disease?,Is prednisone used to treat autoeczematization?
+gastritis,upper abdominal pain,disease-symptom,Is gastritis a disease?,Is upper abdominal pain a symptom?,Is upper abdominal pain a symptom of gastritis?
+Effexor,anxiety,drug-disease,Is Effexor a drug?,Is anxiety a disease?,Is Effexor used to treat anxiety?
+heart condition,lightheaded,disease-symptom,Is heart condition a disease?,Is lightheaded a symptom?,Is lightheaded a symptom of heart condition?
+heart condition,breathless,disease-symptom,Is heart condition a disease?,Is breathless a symptom?,Is breathless a symptom of heart condition?
+skipped beat,heart condition,symptom-disease,Is skipped beat a symptom?,Is heart condition a disease?,Is skipped beat a symptom of heart condition?
+lightheaded,heart condition,symptom-disease,Is lightheaded a symptom?,Is heart condition a disease?,Is lightheaded a symptom of heart condition?
+breathless,heart condition,symptom-disease,Is breathless a symptom?,Is heart condition a disease?,Is breathless a symptom of heart condition?
+hyperprolactinemia,erection problems,disease-symptom,Is hyperprolactinemia a disease?,Is erection problems a symptom?,Is erection problems a symptom of hyperprolactinemia?
+seborrhic dermatitis,dry skin,disease-symptom,Is seborrhic dermatitis a disease?,Is dry skin a symptom?,Is dry skin a symptom of seborrhic dermatitis?
+ingrown fingernail,pain,disease-symptom,Is ingrown fingernail a disease?,Is pain a symptom?,Is pain a symptom of ingrown fingernail?
+antibiotic cream,ingrown fingernail,drug-disease,Is antibiotic cream a drug?,Is ingrown fingernail a disease?,Is antibiotic cream used to treat ingrown fingernail?
+sebaceous cyst,pain,disease-symptom,Is sebaceous cyst a disease?,Is pain a symptom?,Is pain a symptom of sebaceous cyst?
+sebaceous cyst,swelling,disease-symptom,Is sebaceous cyst a disease?,Is swelling a symptom?,Is swelling a symptom of sebaceous cyst?
+morphine,pain,drug-disease,Is morphine a drug?,Is pain a disease?,Is morphine used to treat pain?
+anorexia,bradycardia,disease-symptom,Is anorexia a disease?,Is bradycardia a symptom?,Is bradycardia a symptom of anorexia?
+anorexia,low blood pressure,disease-symptom,Is anorexia a disease?,Is low blood pressure a symptom?,Is low blood pressure a symptom of anorexia?
+anorexia,low BMI,disease-symptom,Is anorexia a disease?,Is low BMI a symptom?,Is low BMI a symptom of anorexia?
+burn,redness,disease-symptom,Is burn a disease?,Is redness a symptom?,Is redness a symptom of burn?
+road rash,redness,disease-symptom,Is road rash a disease?,Is redness a symptom?,Is redness a symptom of road rash?
+antibiotic cream,infection,drug-disease,Is antibiotic cream a drug?,Is infection a disease?,Is antibiotic cream used to treat infection?
+antibiotics,infection,drug-disease,Is antibiotics a drug?,Is infection a disease?,Is antibiotics used to treat infection?
+abscessed tooth,throbbing pain,disease-symptom,Is abscessed tooth a disease?,Is throbbing pain a symptom?,Is throbbing pain a symptom of abscessed tooth?
+carpal tunnel,tingling,disease-symptom,Is carpal tunnel a disease?,Is tingling a symptom?,Is tingling a symptom of carpal tunnel?
+carpal tunnel,numbness,disease-symptom,Is carpal tunnel a disease?,Is numbness a symptom?,Is numbness a symptom of carpal tunnel?
+carpal tunnel,shooting pain,disease-symptom,Is carpal tunnel a disease?,Is shooting pain a symptom?,Is shooting pain a symptom of carpal tunnel?
+cubital tunnel,tingling,disease-symptom,Is cubital tunnel a disease?,Is tingling a symptom?,Is tingling a symptom of cubital tunnel?
+cubital tunnel,numbness,disease-symptom,Is cubital tunnel a disease?,Is numbness a symptom?,Is numbness a symptom of cubital tunnel?
+cubital tunnel,shooting pain,disease-symptom,Is cubital tunnel a disease?,Is shooting pain a symptom?,Is shooting pain a symptom of cubital tunnel?
+sciatica,tingling,disease-symptom,Is sciatica a disease?,Is tingling a symptom?,Is tingling a symptom of sciatica?
+sciatica,numbness,disease-symptom,Is sciatica a disease?,Is numbness a symptom?,Is numbness a symptom of sciatica?
+sciatica,shooting pain,disease-symptom,Is sciatica a disease?,Is shooting pain a symptom?,Is shooting pain a symptom of sciatica?
+amitriptyline,migraines,drug-disease,Is amitriptyline a drug?,Is migraines a disease?,Is amitriptyline used to treat migraines?
+imitrex,migraines,drug-disease,Is imitrex a drug?,Is migraines a disease?,Is imitrex used to treat migraines?
+tingling,carpal tunnel,symptom-disease,Is tingling a symptom?,Is carpal tunnel a disease?,Is tingling a symptom of carpal tunnel?
+numbness,carpal tunnel,symptom-disease,Is numbness a symptom?,Is carpal tunnel a disease?,Is numbness a symptom of carpal tunnel?
+shooting pain,carpal tunnel,symptom-disease,Is shooting pain a symptom?,Is carpal tunnel a disease?,Is shooting pain a symptom of carpal tunnel?
+tingling,cubital tunnel,symptom-disease,Is tingling a symptom?,Is cubital tunnel a disease?,Is tingling a symptom of cubital tunnel?
+numbness,cubital tunnel,symptom-disease,Is numbness a symptom?,Is cubital tunnel a disease?,Is numbness a symptom of cubital tunnel?
+shooting pain,cubital tunnel,symptom-disease,Is shooting pain a symptom?,Is cubital tunnel a disease?,Is shooting pain a symptom of cubital tunnel?
+tingling,sciatica,symptom-disease,Is tingling a symptom?,Is sciatica a disease?,Is tingling a symptom of sciatica?
+numbness,sciatica,symptom-disease,Is numbness a symptom?,Is sciatica a disease?,Is numbness a symptom of sciatica?
+shooting pain,sciatica,symptom-disease,Is shooting pain a symptom?,Is sciatica a disease?,Is shooting pain a symptom of sciatica?
+basilar stenosis,headaches,disease-symptom,Is basilar stenosis a disease?,Is headaches a symptom?,Is headaches a symptom of basilar stenosis?
+blood thinners,stroke,drug-disease,Is blood thinners a drug?,Is stroke a disease?,Is blood thinners used to treat stroke?
+anti-stroke medication,stroke,drug-disease,Is anti-stroke medication a drug?,Is stroke a disease?,Is anti-stroke medication used to treat stroke?
+headaches,basilar stenosis,symptom-disease,Is headaches a symptom?,Is basilar stenosis a disease?,Is headaches a symptom of basilar stenosis?
+long covid,sensitive to heat,disease-symptom,Is long covid a disease?,Is sensitive to heat a symptom?,Is sensitive to heat a symptom of long covid?
+Lovan,depression,drug-disease,Is Lovan a drug?,Is depression a disease?,Is Lovan used to treat depression?
+depression,tired,disease-symptom,Is depression a disease?,Is tired a symptom?,Is tired a symptom of depression?
+tired,depression,symptom-disease,Is tired a symptom?,Is depression a disease?,Is tired a symptom of depression?
+cauda equina syndrome,bowel/bladder incontinence,disease-symptom,Is cauda equina syndrome a disease?,Is bowel/bladder incontinence a symptom?,Is bowel/bladder incontinence a symptom of cauda equina syndrome?
+cauda equina syndrome,numbness,disease-symptom,Is cauda equina syndrome a disease?,Is numbness a symptom?,Is numbness a symptom of cauda equina syndrome?
+cauda equina syndrome,tingling,disease-symptom,Is cauda equina syndrome a disease?,Is tingling a symptom?,Is tingling a symptom of cauda equina syndrome?
+cauda equina syndrome,back pain,disease-symptom,Is cauda equina syndrome a disease?,Is back pain a symptom?,Is back pain a symptom of cauda equina syndrome?
+bowel/bladder incontinence,cauda equina syndrome,symptom-disease,Is bowel/bladder incontinence a symptom?,Is cauda equina syndrome a disease?,Is bowel/bladder incontinence a symptom of cauda equina syndrome?
+numbness,cauda equina syndrome,symptom-disease,Is numbness a symptom?,Is cauda equina syndrome a disease?,Is numbness a symptom of cauda equina syndrome?
+tingling,cauda equina syndrome,symptom-disease,Is tingling a symptom?,Is cauda equina syndrome a disease?,Is tingling a symptom of cauda equina syndrome?
+back pain,cauda equina syndrome,symptom-disease,Is back pain a symptom?,Is cauda equina syndrome a disease?,Is back pain a symptom of cauda equina syndrome?
+Lorazepam,liver injury,drug-disease,Is Lorazepam a drug?,Is liver injury a disease?,Is Lorazepam used to treat liver injury?
+liver injury,elevated ALT,disease-symptom,Is liver injury a disease?,Is elevated ALT a symptom?,Is elevated ALT a symptom of liver injury?
+liver injury,elevated AST,disease-symptom,Is liver injury a disease?,Is elevated AST a symptom?,Is elevated AST a symptom of liver injury?
+GAD,anxiety,disease-symptom,Is GAD a disease?,Is anxiety a symptom?,Is anxiety a symptom of GAD?
+Panic Disorder,extreme distress,disease-symptom,Is Panic Disorder a disease?,Is extreme distress a symptom?,Is extreme distress a symptom of Panic Disorder?
+intrusive thoughts,OCD,symptom-disease,Is intrusive thoughts a symptom?,Is OCD a disease?,Is intrusive thoughts a symptom of OCD?
+flu,fever,disease-symptom,Is flu a disease?,Is fever a symptom?,Is fever a symptom of flu?
+flu,cough,disease-symptom,Is flu a disease?,Is cough a symptom?,Is cough a symptom of flu?
+flu,chills,disease-symptom,Is flu a disease?,Is chills a symptom?,Is chills a symptom of flu?
+fever,flu,symptom-disease,Is fever a symptom?,Is flu a disease?,Is fever a symptom of flu?
+cough,flu,symptom-disease,Is cough a symptom?,Is flu a disease?,Is cough a symptom of flu?
+chills,flu,symptom-disease,Is chills a symptom?,Is flu a disease?,Is chills a symptom of flu?
+bronchitis,slight cough,disease-symptom,Is bronchitis a disease?,Is slight cough a symptom?,Is slight cough a symptom of bronchitis?
+inner ear infection,pressure,disease-symptom,Is inner ear infection a disease?,Is pressure a symptom?,Is pressure a symptom of inner ear infection?
+amoxicillin,bronchitis,drug-disease,Is amoxicillin a drug?,Is bronchitis a disease?,Is amoxicillin used to treat bronchitis?
+azithromycin,inner ear infection,drug-disease,Is azithromycin a drug?,Is inner ear infection a disease?,Is azithromycin used to treat inner ear infection?
+pulmonary embolism,chest pain,disease-symptom,Is pulmonary embolism a disease?,Is chest pain a symptom?,Is chest pain a symptom of pulmonary embolism?
+pulmonary embolism,breathlessness,disease-symptom,Is pulmonary embolism a disease?,Is breathlessness a symptom?,Is breathlessness a symptom of pulmonary embolism?
+amoxicillin,sinus infection,drug-disease,Is amoxicillin a drug?,Is sinus infection a disease?,Is amoxicillin used to treat sinus infection?
+Alprazolam ER,chronic insomnia,drug-disease,Is Alprazolam ER a drug?,Is chronic insomnia a disease?,Is Alprazolam ER used to treat chronic insomnia?
+Ambien,chronic insomnia,drug-disease,Is Ambien a drug?,Is chronic insomnia a disease?,Is Ambien used to treat chronic insomnia?
+Dozepin,chronic insomnia,drug-disease,Is Dozepin a drug?,Is chronic insomnia a disease?,Is Dozepin used to treat chronic insomnia?
+Lamotrigine,seizure,drug-disease,Is Lamotrigine a drug?,Is seizure a disease?,Is Lamotrigine used to treat seizure?
+Melatonin,chronic insomnia,drug-disease,Is Melatonin a drug?,Is chronic insomnia a disease?,Is Melatonin used to treat chronic insomnia?
+Amitriptyline,chronic insomnia,drug-disease,Is Amitriptyline a drug?,Is chronic insomnia a disease?,Is Amitriptyline used to treat chronic insomnia?
+Trazodone,chronic insomnia,drug-disease,Is Trazodone a drug?,Is chronic insomnia a disease?,Is Trazodone used to treat chronic insomnia?
+PTSD,shouts,disease-symptom,Is PTSD a disease?,Is shouts a symptom?,Is shouts a symptom of PTSD?
+Holiday Heart,Afib,disease-symptom,Is Holiday Heart a disease?,Is Afib a symptom?,Is Afib a symptom of Holiday Heart?
+Candersartin,high blood pressure,drug-disease,Is Candersartin a drug?,Is high blood pressure a disease?,Is Candersartin used to treat high blood pressure?
+Clopidegral,stroke,drug-disease,Is Clopidegral a drug?,Is stroke a disease?,Is Clopidegral used to treat stroke?
+Gastritis,nausea,disease-symptom,Is Gastritis a disease?,Is nausea a symptom?,Is nausea a symptom of Gastritis?
+ulcer,vomiting,disease-symptom,Is ulcer a disease?,Is vomiting a symptom?,Is vomiting a symptom of ulcer?
+cancer,weight loss,disease-symptom,Is cancer a disease?,Is weight loss a symptom?,Is weight loss a symptom of cancer?
+toothpaste allergy,allergic reaction,disease-symptom,Is toothpaste allergy a disease?,Is allergic reaction a symptom?,Is allergic reaction a symptom of toothpaste allergy?
+eczema,sensitive skin,disease-symptom,Is eczema a disease?,Is sensitive skin a symptom?,Is sensitive skin a symptom of eczema?
+toothpaste allergy,mouth peels,disease-symptom,Is toothpaste allergy a disease?,Is mouth peels a symptom?,Is mouth peels a symptom of toothpaste allergy?
+toothpaste allergy,tongue coated in thick white goop,disease-symptom,Is toothpaste allergy a disease?,Is tongue coated in thick white goop a symptom?,Is tongue coated in thick white goop a symptom of toothpaste allergy?
+slurred speech,neurological disease,symptom-disease,Is slurred speech a symptom?,Is neurological disease a disease?,Is slurred speech a symptom of neurological disease?
+hallucinating,neurological disease,symptom-disease,Is hallucinating a symptom?,Is neurological disease a disease?,Is hallucinating a symptom of neurological disease?
+liver damage,nausea,disease-symptom,Is liver damage a disease?,Is nausea a symptom?,Is nausea a symptom of liver damage?
+liver damage,fatigue,disease-symptom,Is liver damage a disease?,Is fatigue a symptom?,Is fatigue a symptom of liver damage?
+liver damage,jaundice,disease-symptom,Is liver damage a disease?,Is jaundice a symptom?,Is jaundice a symptom of liver damage?
+nausea,liver damage,symptom-disease,Is nausea a symptom?,Is liver damage a disease?,Is nausea a symptom of liver damage?
+fatigue,liver damage,symptom-disease,Is fatigue a symptom?,Is liver damage a disease?,Is fatigue a symptom of liver damage?
+jaundice,liver damage,symptom-disease,Is jaundice a symptom?,Is liver damage a disease?,Is jaundice a symptom of liver damage?
+lexapro,anxiety,drug-disease,Is lexapro a drug?,Is anxiety a disease?,Is lexapro used to treat anxiety?
+buspar,anxiety,drug-disease,Is buspar a drug?,Is anxiety a disease?,Is buspar used to treat anxiety?
+Zoloft,anxiety,drug-disease,Is Zoloft a drug?,Is anxiety a disease?,Is Zoloft used to treat anxiety?
+anxiety,dizziness,disease-symptom,Is anxiety a disease?,Is dizziness a symptom?,Is dizziness a symptom of anxiety?
+anxiety,panic attacks,disease-symptom,Is anxiety a disease?,Is panic attacks a symptom?,Is panic attacks a symptom of anxiety?
+LPR,trouble swallowing,disease-symptom,Is LPR a disease?,Is trouble swallowing a symptom?,Is trouble swallowing a symptom of LPR?
+GERD,trouble swallowing,disease-symptom,Is GERD a disease?,Is trouble swallowing a symptom?,Is trouble swallowing a symptom of GERD?
+shortness of breath,anxiety,symptom-disease,Is shortness of breath a symptom?,Is anxiety a disease?,Is shortness of breath a symptom of anxiety?
+giardiasis,egg burps,disease-symptom,Is giardiasis a disease?,Is egg burps a symptom?,Is egg burps a symptom of giardiasis?
+strangulated hernia,pain,disease-symptom,Is strangulated hernia a disease?,Is pain a symptom?,Is pain a symptom of strangulated hernia?
+strangulated hernia,visible bulge,disease-symptom,Is strangulated hernia a disease?,Is visible bulge a symptom?,Is visible bulge a symptom of strangulated hernia?
+Duloxetine,Depression,drug-disease,Is Duloxetine a drug?,Is Depression a disease?,Is Duloxetine used to treat Depression?
+Venlafaxine,Depression,drug-disease,Is Venlafaxine a drug?,Is Depression a disease?,Is Venlafaxine used to treat Depression?
+Fluoxetine,Depression,drug-disease,Is Fluoxetine a drug?,Is Depression a disease?,Is Fluoxetine used to treat Depression?
+Sertraline,Depression,drug-disease,Is Sertraline a drug?,Is Depression a disease?,Is Sertraline used to treat Depression?
+Depression,Anhedonia/emotional blunting,disease-symptom,Is Depression a disease?,Is Anhedonia/emotional blunting a symptom?,Is Anhedonia/emotional blunting a symptom of Depression?
+Depression,Suicidal ideation,disease-symptom,Is Depression a disease?,Is Suicidal ideation a symptom?,Is Suicidal ideation a symptom of Depression?
+Suicidal ideation,Depression,symptom-disease,Is Suicidal ideation a symptom?,Is Depression a disease?,Is Suicidal ideation a symptom of Depression?
+eczema,rash,disease-symptom,Is eczema a disease?,Is rash a symptom?,Is rash a symptom of eczema?
+pulled muscle,pain,disease-symptom,Is pulled muscle a disease?,Is pain a symptom?,Is pain a symptom of pulled muscle?
+tramadol,seizure,drug-disease,Is tramadol a drug?,Is seizure a disease?,Is tramadol used to treat seizure?
+Amitriptyline,serotonin syndrome,drug-disease,Is Amitriptyline a drug?,Is serotonin syndrome a disease?,Is Amitriptyline used to treat serotonin syndrome?
+Citalopram,serotonin syndrome,drug-disease,Is Citalopram a drug?,Is serotonin syndrome a disease?,Is Citalopram used to treat serotonin syndrome?
+refeeding syndrome,dizzy,disease-symptom,Is refeeding syndrome a disease?,Is dizzy a symptom?,Is dizzy a symptom of refeeding syndrome?
+diabetes,super hungry,disease-symptom,Is diabetes a disease?,Is super hungry a symptom?,Is super hungry a symptom of diabetes?
+diabetes,thirst,disease-symptom,Is diabetes a disease?,Is thirst a symptom?,Is thirst a symptom of diabetes?
+diabetes,fatigue,disease-symptom,Is diabetes a disease?,Is fatigue a symptom?,Is fatigue a symptom of diabetes?
+tingling,diabetes,symptom-disease,Is tingling a symptom?,Is diabetes a disease?,Is tingling a symptom of diabetes?
+asthma attack,coughing/trouble breathing,disease-symptom,Is asthma attack a disease?,Is coughing/trouble breathing a symptom?,Is coughing/trouble breathing a symptom of asthma attack?
+singulair,allergic asthma,drug-disease,Is singulair a drug?,Is allergic asthma a disease?,Is singulair used to treat allergic asthma?
+albuterol,asthma attack,drug-disease,Is albuterol a drug?,Is asthma attack a disease?,Is albuterol used to treat asthma attack?
+respiratory depression,coma,disease-symptom,Is respiratory depression a disease?,Is coma a symptom?,Is coma a symptom of respiratory depression?
+Pepcid,heartburn,drug-disease,Is Pepcid a drug?,Is heartburn a disease?,Is Pepcid used to treat heartburn?
+Gaviscon,heartburn,drug-disease,Is Gaviscon a drug?,Is heartburn a disease?,Is Gaviscon used to treat heartburn?
+asian flush,redness,disease-symptom,Is asian flush a disease?,Is redness a symptom?,Is redness a symptom of asian flush?
+Pendred syndrome,inner ear malformation,disease-symptom,Is Pendred syndrome a disease?,Is inner ear malformation a symptom?,Is inner ear malformation a symptom of Pendred syndrome?
+Perioral Dermatitis,red rash,disease-symptom,Is Perioral Dermatitis a disease?,Is red rash a symptom?,Is red rash a symptom of Perioral Dermatitis?
+Digenta,wet eczema,drug-disease,Is Digenta a drug?,Is wet eczema a disease?,Is Digenta used to treat wet eczema?
+wet eczema,itchy,disease-symptom,Is wet eczema a disease?,Is itchy a symptom?,Is itchy a symptom of wet eczema?
+wet eczema,watery,disease-symptom,Is wet eczema a disease?,Is watery a symptom?,Is watery a symptom of wet eczema?
+wet eczema,ulceration,disease-symptom,Is wet eczema a disease?,Is ulceration a symptom?,Is ulceration a symptom of wet eczema?
+throat infection,sore throat,disease-symptom,Is throat infection a disease?,Is sore throat a symptom?,Is sore throat a symptom of throat infection?
+throat infection,fever,disease-symptom,Is throat infection a disease?,Is fever a symptom?,Is fever a symptom of throat infection?
+throat infection,headache,disease-symptom,Is throat infection a disease?,Is headache a symptom?,Is headache a symptom of throat infection?
+Amoxicillin,throat infection,drug-disease,Is Amoxicillin a drug?,Is throat infection a disease?,Is Amoxicillin used to treat throat infection?
+fentanyl,overdose,drug-disease,Is fentanyl a drug?,Is overdose a disease?,Is fentanyl used to treat overdose?
+neurodevelopmental problems,cognitive problems,disease-symptom,Is neurodevelopmental problems a disease?,Is cognitive problems a symptom?,Is cognitive problems a symptom of neurodevelopmental problems?
+STD,small bumps,disease-symptom,Is STD a disease?,Is small bumps a symptom?,Is small bumps a symptom of STD?
+STD,itchy,disease-symptom,Is STD a disease?,Is itchy a symptom?,Is itchy a symptom of STD?
+anorexia,weight,disease-symptom,Is anorexia a disease?,Is weight a symptom?,Is weight a symptom of anorexia?
+sertraline,anxiety,drug-disease,Is sertraline a drug?,Is anxiety a disease?,Is sertraline used to treat anxiety?
+birth control,period,drug-disease,Is birth control a drug?,Is period a disease?,Is birth control used to treat period?
+endometrial cancer,Abnormal vaginal bleeding,disease-symptom,Is endometrial cancer a disease?,Is Abnormal vaginal bleeding a symptom?,Is Abnormal vaginal bleeding a symptom of endometrial cancer?
+endometrial cancer,brown discharge,disease-symptom,Is endometrial cancer a disease?,Is brown discharge a symptom?,Is brown discharge a symptom of endometrial cancer?
+endometrial cancer,chronic pelvic pains,disease-symptom,Is endometrial cancer a disease?,Is chronic pelvic pains a symptom?,Is chronic pelvic pains a symptom of endometrial cancer?
+endometrial cancer,pelvic pains,disease-symptom,Is endometrial cancer a disease?,Is pelvic pains a symptom?,Is pelvic pains a symptom of endometrial cancer?
+albuterol,asthma,drug-disease,Is albuterol a drug?,Is asthma a disease?,Is albuterol used to treat asthma?
+painful urination,urinary tract infection,symptom-disease,Is painful urination a symptom?,Is urinary tract infection a disease?,Is painful urination a symptom of urinary tract infection?
+urinary tract infection,pain,disease-symptom,Is urinary tract infection a disease?,Is pain a symptom?,Is pain a symptom of urinary tract infection?
+Diabetes Type 1,DKA,disease-symptom,Is Diabetes Type 1 a disease?,Is DKA a symptom?,Is DKA a symptom of Diabetes Type 1?
+shingles,pain,disease-symptom,Is shingles a disease?,Is pain a symptom?,Is pain a symptom of shingles?
+shingles,rash,disease-symptom,Is shingles a disease?,Is rash a symptom?,Is rash a symptom of shingles?
+shingles,blisters,disease-symptom,Is shingles a disease?,Is blisters a symptom?,Is blisters a symptom of shingles?
+shingles,itch,disease-symptom,Is shingles a disease?,Is itch a symptom?,Is itch a symptom of shingles?
+acyclovir cream,shingles,drug-disease,Is acyclovir cream a drug?,Is shingles a disease?,Is acyclovir cream used to treat shingles?
+herpes,rash,disease-symptom,Is herpes a disease?,Is rash a symptom?,Is rash a symptom of herpes?
+HSV-2,rash,disease-symptom,Is HSV-2 a disease?,Is rash a symptom?,Is rash a symptom of HSV-2?
+rash,herpes,symptom-disease,Is rash a symptom?,Is herpes a disease?,Is rash a symptom of herpes?
+rash,HSV-2,symptom-disease,Is rash a symptom?,Is HSV-2 a disease?,Is rash a symptom of HSV-2?
+Levofloxacin,cystitis,drug-disease,Is Levofloxacin a drug?,Is cystitis a disease?,Is Levofloxacin used to treat cystitis?
+chronic pancreatitis,dull pain,disease-symptom,Is chronic pancreatitis a disease?,Is dull pain a symptom?,Is dull pain a symptom of chronic pancreatitis?
+chronic pancreatitis,stabbing pain,disease-symptom,Is chronic pancreatitis a disease?,Is stabbing pain a symptom?,Is stabbing pain a symptom of chronic pancreatitis?
+chronic pancreatitis,abdominal pain,disease-symptom,Is chronic pancreatitis a disease?,Is abdominal pain a symptom?,Is abdominal pain a symptom of chronic pancreatitis?
+dull pain,chronic pancreatitis,symptom-disease,Is dull pain a symptom?,Is chronic pancreatitis a disease?,Is dull pain a symptom of chronic pancreatitis?
+abdominal pain,chronic pancreatitis,symptom-disease,Is abdominal pain a symptom?,Is chronic pancreatitis a disease?,Is abdominal pain a symptom of chronic pancreatitis?
+PCOs,irregular periods,disease-symptom,Is PCOs a disease?,Is irregular periods a symptom?,Is irregular periods a symptom of PCOs?
+PCOs,acne,disease-symptom,Is PCOs a disease?,Is acne a symptom?,Is acne a symptom of PCOs?
+PCOs,excess hair growth,disease-symptom,Is PCOs a disease?,Is excess hair growth a symptom?,Is excess hair growth a symptom of PCOs?
+high blood pressure,headache,disease-symptom,Is high blood pressure a disease?,Is headache a symptom?,Is headache a symptom of high blood pressure?
+migraine,vomiting,disease-symptom,Is migraine a disease?,Is vomiting a symptom?,Is vomiting a symptom of migraine?
+headache,high blood pressure,symptom-disease,Is headache a symptom?,Is high blood pressure a disease?,Is headache a symptom of high blood pressure?
+antibiotics,UTI,drug-disease,Is antibiotics a drug?,Is UTI a disease?,Is antibiotics used to treat UTI?
+UTI,back pain,disease-symptom,Is UTI a disease?,Is back pain a symptom?,Is back pain a symptom of UTI?
+UTI,cloudy pee,disease-symptom,Is UTI a disease?,Is cloudy pee a symptom?,Is cloudy pee a symptom of UTI?
+back pain,UTI,symptom-disease,Is back pain a symptom?,Is UTI a disease?,Is back pain a symptom of UTI?
+cloudy pee,UTI,symptom-disease,Is cloudy pee a symptom?,Is UTI a disease?,Is cloudy pee a symptom of UTI?
+migraine,headache,disease-symptom,Is migraine a disease?,Is headache a symptom?,Is headache a symptom of migraine?
+migraine,nausea,disease-symptom,Is migraine a disease?,Is nausea a symptom?,Is nausea a symptom of migraine?
+diarrhea,stomach bug,symptom-disease,Is diarrhea a symptom?,Is stomach bug a disease?,Is diarrhea a symptom of stomach bug?
+headache,migraine,symptom-disease,Is headache a symptom?,Is migraine a disease?,Is headache a symptom of migraine?
+nausea,migraine,symptom-disease,Is nausea a symptom?,Is migraine a disease?,Is nausea a symptom of migraine?
+cancer,pain,disease-symptom,Is cancer a disease?,Is pain a symptom?,Is pain a symptom of cancer?
+cancer,weakness,disease-symptom,Is cancer a disease?,Is weakness a symptom?,Is weakness a symptom of cancer?
+STD,ulcers,disease-symptom,Is STD a disease?,Is ulcers a symptom?,Is ulcers a symptom of STD?
+STD,swollen lymph nodes,disease-symptom,Is STD a disease?,Is swollen lymph nodes a symptom?,Is swollen lymph nodes a symptom of STD?
+STD,pain when peeing,disease-symptom,Is STD a disease?,Is pain when peeing a symptom?,Is pain when peeing a symptom of STD?
+ulcers,STD,symptom-disease,Is ulcers a symptom?,Is STD a disease?,Is ulcers a symptom of STD?
+swollen lymph nodes,STD,symptom-disease,Is swollen lymph nodes a symptom?,Is STD a disease?,Is swollen lymph nodes a symptom of STD?
+pain when peeing,STD,symptom-disease,Is pain when peeing a symptom?,Is STD a disease?,Is pain when peeing a symptom of STD?
+contact dermatitis,rash,disease-symptom,Is contact dermatitis a disease?,Is rash a symptom?,Is rash a symptom of contact dermatitis?
+rash,contact dermatitis,symptom-disease,Is rash a symptom?,Is contact dermatitis a disease?,Is rash a symptom of contact dermatitis?
+stomach bug,vomiting/diarrhea,disease-symptom,Is stomach bug a disease?,Is vomiting/diarrhea a symptom?,Is vomiting/diarrhea a symptom of stomach bug?
+Covid,headaches,disease-symptom,Is Covid a disease?,Is headaches a symptom?,Is headaches a symptom of Covid?
+Covid,fatigue,disease-symptom,Is Covid a disease?,Is fatigue a symptom?,Is fatigue a symptom of Covid?
+Covid,loss of taste,disease-symptom,Is Covid a disease?,Is loss of taste a symptom?,Is loss of taste a symptom of Covid?
+Covid,smell,disease-symptom,Is Covid a disease?,Is smell a symptom?,Is smell a symptom of Covid?
+Covid,scratchy/sore throat,disease-symptom,Is Covid a disease?,Is scratchy/sore throat a symptom?,Is scratchy/sore throat a symptom of Covid?
+irregular bowel movement,constipation,symptom-disease,Is irregular bowel movement a symptom?,Is constipation a disease?,Is irregular bowel movement a symptom of constipation?
+remdesivir,COVID,drug-disease,Is remdesivir a drug?,Is COVID a disease?,Is remdesivir used to treat COVID?
+iron infusions,iron deficiency anemia,drug-disease,Is iron infusions a drug?,Is iron deficiency anemia a disease?,Is iron infusions used to treat iron deficiency anemia?
+anxiety,nervous,disease-symptom,Is anxiety a disease?,Is nervous a symptom?,Is nervous a symptom of anxiety?
+anxiety,panicky,disease-symptom,Is anxiety a disease?,Is panicky a symptom?,Is panicky a symptom of anxiety?
+broken/fractured,pain,disease-symptom,Is broken/fractured a disease?,Is pain a symptom?,Is pain a symptom of broken/fractured?
+broken/fractured,swollen,disease-symptom,Is broken/fractured a disease?,Is swollen a symptom?,Is swollen a symptom of broken/fractured?
+Laryngitis,hoarseness/lost of voice,disease-symptom,Is Laryngitis a disease?,Is hoarseness/lost of voice a symptom?,Is hoarseness/lost of voice a symptom of Laryngitis?
+eosinophilic esophagitis,troubles swallowing,disease-symptom,Is eosinophilic esophagitis a disease?,Is troubles swallowing a symptom?,Is troubles swallowing a symptom of eosinophilic esophagitis?
+diamox,pseudotumor cerebri,drug-disease,Is diamox a drug?,Is pseudotumor cerebri a disease?,Is diamox used to treat pseudotumor cerebri?
+partial numbness,minor nerve damage,symptom-disease,Is partial numbness a symptom?,Is minor nerve damage a disease?,Is partial numbness a symptom of minor nerve damage?
+minor nerve damage,tingling sensation,disease-symptom,Is minor nerve damage a disease?,Is tingling sensation a symptom?,Is tingling sensation a symptom of minor nerve damage?
+Migraine,headache,disease-symptom,Is Migraine a disease?,Is headache a symptom?,Is headache a symptom of Migraine?
+fatigue,Migraine,symptom-disease,Is fatigue a symptom?,Is Migraine a disease?,Is fatigue a symptom of Migraine?
+morphine,complex pelvic pain,drug-disease,Is morphine a drug?,Is complex pelvic pain a disease?,Is morphine used to treat complex pelvic pain?
+morphine,CRPS,drug-disease,Is morphine a drug?,Is CRPS a disease?,Is morphine used to treat CRPS?
+oxy,complex pelvic pain,drug-disease,Is oxy a drug?,Is complex pelvic pain a disease?,Is oxy used to treat complex pelvic pain?
+oxy,CRPS,drug-disease,Is oxy a drug?,Is CRPS a disease?,Is oxy used to treat CRPS?
+complex pelvic pain,painful,disease-symptom,Is complex pelvic pain a disease?,Is painful a symptom?,Is painful a symptom of complex pelvic pain?
+CRPS,painful,disease-symptom,Is CRPS a disease?,Is painful a symptom?,Is painful a symptom of CRPS?
+morphine,pain,drug-disease,Is morphine a drug?,Is pain a disease?,Is morphine used to treat pain?
+Heparin,Heparin-induced thrombocytopenia,drug-disease,Is Heparin a drug?,Is Heparin-induced thrombocytopenia a disease?,Is Heparin used to treat Heparin-induced thrombocytopenia?
+kidney failure,increased creatinine,disease-symptom,Is kidney failure a disease?,Is increased creatinine a symptom?,Is increased creatinine a symptom of kidney failure?
+amoxicillin,infections,drug-disease,Is amoxicillin a drug?,Is infections a disease?,Is amoxicillin used to treat infections?
+herpes,bumps,disease-symptom,Is herpes a disease?,Is bumps a symptom?,Is bumps a symptom of herpes?
+pills,herpes,drug-disease,Is pills a drug?,Is herpes a disease?,Is pills used to treat herpes?
+Vitamin D,vitamin D deficiency,drug-disease,Is Vitamin D a drug?,Is vitamin D deficiency a disease?,Is Vitamin D used to treat vitamin D deficiency?
+migraines,aura,disease-symptom,Is migraines a disease?,Is aura a symptom?,Is aura a symptom of migraines?
+obstructive sleep apnoea,tired,disease-symptom,Is obstructive sleep apnoea a disease?,Is tired a symptom?,Is tired a symptom of obstructive sleep apnoea?
+sumatriptan,migraines,drug-disease,Is sumatriptan a drug?,Is migraines a disease?,Is sumatriptan used to treat migraines?
+torsion,pain,disease-symptom,Is torsion a disease?,Is pain a symptom?,Is pain a symptom of torsion?
+microtorsion,pain,disease-symptom,Is microtorsion a disease?,Is pain a symptom?,Is pain a symptom of microtorsion?
+COVID,fatigue,disease-symptom,Is COVID a disease?,Is fatigue a symptom?,Is fatigue a symptom of COVID?
+dust allergies,burning eyes,disease-symptom,Is dust allergies a disease?,Is burning eyes a symptom?,Is burning eyes a symptom of dust allergies?
+dust allergies,burning sinuses,disease-symptom,Is dust allergies a disease?,Is burning sinuses a symptom?,Is burning sinuses a symptom of dust allergies?
+fatigue,COVID,symptom-disease,Is fatigue a symptom?,Is COVID a disease?,Is fatigue a symptom of COVID?
+Ondansetron,nausea,drug-disease,Is Ondansetron a drug?,Is nausea a disease?,Is Ondansetron used to treat nausea?
+Promethazine,nausea,drug-disease,Is Promethazine a drug?,Is nausea a disease?,Is Promethazine used to treat nausea?
+Plantar Warts,haemorrhage,disease-symptom,Is Plantar Warts a disease?,Is haemorrhage a symptom?,Is haemorrhage a symptom of Plantar Warts?
+molar pregnancy,abdominal pain,disease-symptom,Is molar pregnancy a disease?,Is abdominal pain a symptom?,Is abdominal pain a symptom of molar pregnancy?
+ectopic pregnancy,abdominal pain,disease-symptom,Is ectopic pregnancy a disease?,Is abdominal pain a symptom?,Is abdominal pain a symptom of ectopic pregnancy?
+pregnancy,breast tender,disease-symptom,Is pregnancy a disease?,Is breast tender a symptom?,Is breast tender a symptom of pregnancy?
+abdominal pain,ectopic pregnancy,symptom-disease,Is abdominal pain a symptom?,Is ectopic pregnancy a disease?,Is abdominal pain a symptom of ectopic pregnancy?
+abdominal pain,molar pregnancy,symptom-disease,Is abdominal pain a symptom?,Is molar pregnancy a disease?,Is abdominal pain a symptom of molar pregnancy?
+breast tender,pregnancy,symptom-disease,Is breast tender a symptom?,Is pregnancy a disease?,Is breast tender a symptom of pregnancy?
+hypoglycemia,heart palpitations,disease-symptom,Is hypoglycemia a disease?,Is heart palpitations a symptom?,Is heart palpitations a symptom of hypoglycemia?
+asthma,albuterol,drug-disease,Is asthma a drug?,Is albuterol a disease?,Is asthma used to treat albuterol?
+anxiety,palpitations,disease-symptom,Is anxiety a disease?,Is palpitations a symptom?,Is palpitations a symptom of anxiety?
+dizzy,head injury,symptom-disease,Is dizzy a symptom?,Is head injury a disease?,Is dizzy a symptom of head injury?
+Fibroids,thin endometrium,disease-symptom,Is Fibroids a disease?,Is thin endometrium a symptom?,Is thin endometrium a symptom of Fibroids?
+neomycin ear drops,ear infections,drug-disease,Is neomycin ear drops a drug?,Is ear infections a disease?,Is neomycin ear drops used to treat ear infections?
+hyperthyroidism,sweating,disease-symptom,Is hyperthyroidism a disease?,Is sweating a symptom?,Is sweating a symptom of hyperthyroidism?
+Spironolactone,liver cirrhosis,drug-disease,Is Spironolactone a drug?,Is liver cirrhosis a disease?,Is Spironolactone used to treat liver cirrhosis?
+Bisoprolol,heart problems,drug-disease,Is Bisoprolol a drug?,Is heart problems a disease?,Is Bisoprolol used to treat heart problems?
+Aspirin,heart problems,drug-disease,Is Aspirin a drug?,Is heart problems a disease?,Is Aspirin used to treat heart problems?
+testicular cancer,lump,disease-symptom,Is testicular cancer a disease?,Is lump a symptom?,Is lump a symptom of testicular cancer?
+testicular cancer,pain,disease-symptom,Is testicular cancer a disease?,Is pain a symptom?,Is pain a symptom of testicular cancer?
+pain,testicular cancer,symptom-disease,Is pain a symptom?,Is testicular cancer a disease?,Is pain a symptom of testicular cancer?
+head injury,dizzy,disease-symptom,Is head injury a disease?,Is dizzy a symptom?,Is dizzy a symptom of head injury?
+head injury,head pain,disease-symptom,Is head injury a disease?,Is head pain a symptom?,Is head pain a symptom of head injury?
+dizzy,head injury,symptom-disease,Is dizzy a symptom?,Is head injury a disease?,Is dizzy a symptom of head injury?
+Amlodipine,High blood pressure,drug-disease,Is Amlodipine a drug?,Is High blood pressure a disease?,Is Amlodipine used to treat High blood pressure?
+Paroxetine,Anxiety,drug-disease,Is Paroxetine a drug?,Is Anxiety a disease?,Is Paroxetine used to treat Anxiety?
+Mucormycosis,sinus pain,disease-symptom,Is Mucormycosis a disease?,Is sinus pain a symptom?,Is sinus pain a symptom of Mucormycosis?
+amphotericin B,Mucormycosis,drug-disease,Is amphotericin B a drug?,Is Mucormycosis a disease?,Is amphotericin B used to treat Mucormycosis?
+metformin,PCOS,drug-disease,Is metformin a drug?,Is PCOS a disease?,Is metformin used to treat PCOS?
+propranolol,migraines,drug-disease,Is propranolol a drug?,Is migraines a disease?,Is propranolol used to treat migraines?
+pramipexole,restless legs,drug-disease,Is pramipexole a drug?,Is restless legs a disease?,Is pramipexole used to treat restless legs?
+Vyvanse,ADHD,drug-disease,Is Vyvanse a drug?,Is ADHD a disease?,Is Vyvanse used to treat ADHD?
+citalopram,anxiety,drug-disease,Is citalopram a drug?,Is anxiety a disease?,Is citalopram used to treat anxiety?
+anxiety,headache,disease-symptom,Is anxiety a disease?,Is headache a symptom?,Is headache a symptom of anxiety?
+throat infection,sore throat,disease-symptom,Is throat infection a disease?,Is sore throat a symptom?,Is sore throat a symptom of throat infection?
+eczema,rash,disease-symptom,Is eczema a disease?,Is rash a symptom?,Is rash a symptom of eczema?
+seizure,body shaking,disease-symptom,Is seizure a disease?,Is body shaking a symptom?,Is body shaking a symptom of seizure?
+seizure,loss of consciousness,disease-symptom,Is seizure a disease?,Is loss of consciousness a symptom?,Is loss of consciousness a symptom of seizure?
+heart stopping,coma,disease-symptom,Is heart stopping a disease?,Is coma a symptom?,Is coma a symptom of heart stopping?
+impacted wisdom tooth,tooth pain,disease-symptom,Is impacted wisdom tooth a disease?,Is tooth pain a symptom?,Is tooth pain a symptom of impacted wisdom tooth?
+ibuprofen,tooth pain,drug-disease,Is ibuprofen a drug?,Is tooth pain a disease?,Is ibuprofen used to treat tooth pain?
+albuterol,asthma,drug-disease,Is albuterol a drug?,Is asthma a disease?,Is albuterol used to treat asthma?
+cymbalta,chronic pain,drug-disease,Is cymbalta a drug?,Is chronic pain a disease?,Is cymbalta used to treat chronic pain?
+albendazole,parasite,drug-disease,Is albendazole a drug?,Is parasite a disease?,Is albendazole used to treat parasite?
+parasite,headache,disease-symptom,Is parasite a disease?,Is headache a symptom?,Is headache a symptom of parasite?
+parasite,nauseous,disease-symptom,Is parasite a disease?,Is nauseous a symptom?,Is nauseous a symptom of parasite?
+headache,parasite,symptom-disease,Is headache a symptom?,Is parasite a disease?,Is headache a symptom of parasite?
+nauseous,parasite,symptom-disease,Is nauseous a symptom?,Is parasite a disease?,Is nauseous a symptom of parasite?
+spider bite,redness,disease-symptom,Is spider bite a disease?,Is redness a symptom?,Is redness a symptom of spider bite?
+spider bite,itchy,disease-symptom,Is spider bite a disease?,Is itchy a symptom?,Is itchy a symptom of spider bite?
+constipation,tummy pain,disease-symptom,Is constipation a disease?,Is tummy pain a symptom?,Is tummy pain a symptom of constipation?
+chemical pneumonitis,coughing,disease-symptom,Is chemical pneumonitis a disease?,Is coughing a symptom?,Is coughing a symptom of chemical pneumonitis?
+chemical pneumonitis,upper chest pain,disease-symptom,Is chemical pneumonitis a disease?,Is upper chest pain a symptom?,Is upper chest pain a symptom of chemical pneumonitis?
+acid reflux,post nasal drip,disease-symptom,Is acid reflux a disease?,Is post nasal drip a symptom?,Is post nasal drip a symptom of acid reflux?
+laceration,pain,disease-symptom,Is laceration a disease?,Is pain a symptom?,Is pain a symptom of laceration?
+brain tumour,worst headache,disease-symptom,Is brain tumour a disease?,Is worst headache a symptom?,Is worst headache a symptom of brain tumour?
+brain tumour,throwing up,disease-symptom,Is brain tumour a disease?,Is throwing up a symptom?,Is throwing up a symptom of brain tumour?
+brain tumour,pain/pressure sensation,disease-symptom,Is brain tumour a disease?,Is pain/pressure sensation a symptom?,Is pain/pressure sensation a symptom of brain tumour?
+clinical depression,depressed,disease-symptom,Is clinical depression a disease?,Is depressed a symptom?,Is depressed a symptom of clinical depression?
+clinical depression,apathetic,disease-symptom,Is clinical depression a disease?,Is apathetic a symptom?,Is apathetic a symptom of clinical depression?
+anxiety,brain fog,disease-symptom,Is anxiety a disease?,Is brain fog a symptom?,Is brain fog a symptom of anxiety?
+anxiety,lightheaded,disease-symptom,Is anxiety a disease?,Is lightheaded a symptom?,Is lightheaded a symptom of anxiety?
+silent heart attack,lightheaded,disease-symptom,Is silent heart attack a disease?,Is lightheaded a symptom?,Is lightheaded a symptom of silent heart attack?
+tachycardia,heart rate above 100,disease-symptom,Is tachycardia a disease?,Is heart rate above 100 a symptom?,Is heart rate above 100 a symptom of tachycardia?
+cold,mucus,disease-symptom,Is cold a disease?,Is mucus a symptom?,Is mucus a symptom of cold?
+cold,scratchy throat,disease-symptom,Is cold a disease?,Is scratchy throat a symptom?,Is scratchy throat a symptom of cold?
+obstruction,dilated ureter,disease-symptom,Is obstruction a disease?,Is dilated ureter a symptom?,Is dilated ureter a symptom of obstruction?
+dislocation,pain,disease-symptom,Is dislocation a disease?,Is pain a symptom?,Is pain a symptom of dislocation?
+pneumonia,fever,disease-symptom,Is pneumonia a disease?,Is fever a symptom?,Is fever a symptom of pneumonia?
+pneumonia,coughing,disease-symptom,Is pneumonia a disease?,Is coughing a symptom?,Is coughing a symptom of pneumonia?
+Pantoprazole,esophagitis,drug-disease,Is Pantoprazole a drug?,Is esophagitis a disease?,Is Pantoprazole used to treat esophagitis?
+Pantoprazole,mild reactive gastropathy,drug-disease,Is Pantoprazole a drug?,Is mild reactive gastropathy a disease?,Is Pantoprazole used to treat mild reactive gastropathy?
+esophagitis,heartburn,disease-symptom,Is esophagitis a disease?,Is heartburn a symptom?,Is heartburn a symptom of esophagitis?
+mild reactive gastropathy,stomach aches,disease-symptom,Is mild reactive gastropathy a disease?,Is stomach aches a symptom?,Is stomach aches a symptom of mild reactive gastropathy?
+heartburn,esophagitis,symptom-disease,Is heartburn a symptom?,Is esophagitis a disease?,Is heartburn a symptom of esophagitis?
+stomach aches,mild reactive gastropathy,symptom-disease,Is stomach aches a symptom?,Is mild reactive gastropathy a disease?,Is stomach aches a symptom of mild reactive gastropathy?
+necrosis,pain,disease-symptom,Is necrosis a disease?,Is pain a symptom?,Is pain a symptom of necrosis?
+atenolol,anxiety,drug-disease,Is atenolol a drug?,Is anxiety a disease?,Is atenolol used to treat anxiety?
+anxiety,heart rate,disease-symptom,Is anxiety a disease?,Is heart rate a symptom?,Is heart rate a symptom of anxiety?
+heart rate,anxiety,symptom-disease,Is heart rate a symptom?,Is anxiety a disease?,Is heart rate a symptom of anxiety?
+pneumonia,inflammation,disease-symptom,Is pneumonia a disease?,Is inflammation a symptom?,Is inflammation a symptom of pneumonia?
+medication,high blood pressure,drug-disease,Is medication a drug?,Is high blood pressure a disease?,Is medication used to treat high blood pressure?
+worms,itchy anus,disease-symptom,Is worms a disease?,Is itchy anus a symptom?,Is itchy anus a symptom of worms?
+diarrhea,undigested food,disease-symptom,Is diarrhea a disease?,Is undigested food a symptom?,Is undigested food a symptom of diarrhea?
+tendonapathy,pain,disease-symptom,Is tendonapathy a disease?,Is pain a symptom?,Is pain a symptom of tendonapathy?
+salicylic acid,foot wart,drug-disease,Is salicylic acid a drug?,Is foot wart a disease?,Is salicylic acid used to treat foot wart?
+HPV foot wart,pain,disease-symptom,Is HPV foot wart a disease?,Is pain a symptom?,Is pain a symptom of HPV foot wart?
+Sudden hearing loss,vertigo,disease-symptom,Is Sudden hearing loss a disease?,Is vertigo a symptom?,Is vertigo a symptom of Sudden hearing loss?
+Sudden hearing loss,ache,disease-symptom,Is Sudden hearing loss a disease?,Is ache a symptom?,Is ache a symptom of Sudden hearing loss?
+vertigo,Sudden hearing loss,symptom-disease,Is vertigo a symptom?,Is Sudden hearing loss a disease?,Is vertigo a symptom of Sudden hearing loss?
+antibiotics,UTI,drug-disease,Is antibiotics a drug?,Is UTI a disease?,Is antibiotics used to treat UTI?
+hyperthyroidism,vocal problems,disease-symptom,Is hyperthyroidism a disease?,Is vocal problems a symptom?,Is vocal problems a symptom of hyperthyroidism?
+Flagyl,appendicitis,drug-disease,Is Flagyl a drug?,Is appendicitis a disease?,Is Flagyl used to treat appendicitis?
+co-ciprofloxacin,appendicitis,drug-disease,Is co-ciprofloxacin a drug?,Is appendicitis a disease?,Is co-ciprofloxacin used to treat appendicitis?
+appendicitis,abdominal discomfort,disease-symptom,Is appendicitis a disease?,Is abdominal discomfort a symptom?,Is abdominal discomfort a symptom of appendicitis?
+appendicitis,fever,disease-symptom,Is appendicitis a disease?,Is fever a symptom?,Is fever a symptom of appendicitis?
+abdominal discomfort,appendicitis,symptom-disease,Is abdominal discomfort a symptom?,Is appendicitis a disease?,Is abdominal discomfort a symptom of appendicitis?
+fever,appendicitis,symptom-disease,Is fever a symptom?,Is appendicitis a disease?,Is fever a symptom of appendicitis?
+Hematoma,swelling,disease-symptom,Is Hematoma a disease?,Is swelling a symptom?,Is swelling a symptom of Hematoma?
+Hematoma,pain,disease-symptom,Is Hematoma a disease?,Is pain a symptom?,Is pain a symptom of Hematoma?
+Hematoma,burning,disease-symptom,Is Hematoma a disease?,Is burning a symptom?,Is burning a symptom of Hematoma?
+COVID vaccine,COVID,drug-disease,Is COVID vaccine a drug?,Is COVID a disease?,Is COVID vaccine used to treat COVID?
+allergic reaction,shallow breath,disease-symptom,Is allergic reaction a disease?,Is shallow breath a symptom?,Is shallow breath a symptom of allergic reaction?
+allergic reaction,throat closing,disease-symptom,Is allergic reaction a disease?,Is throat closing a symptom?,Is throat closing a symptom of allergic reaction?
+allergic reaction,nose tingling,disease-symptom,Is allergic reaction a disease?,Is nose tingling a symptom?,Is nose tingling a symptom of allergic reaction?
+shallow breath,allergic reaction,symptom-disease,Is shallow breath a symptom?,Is allergic reaction a disease?,Is shallow breath a symptom of allergic reaction?
+throat closing,allergic reaction,symptom-disease,Is throat closing a symptom?,Is allergic reaction a disease?,Is throat closing a symptom of allergic reaction?
+nose tingling,allergic reaction,symptom-disease,Is nose tingling a symptom?,Is allergic reaction a disease?,Is nose tingling a symptom of allergic reaction?
+antifungal cream,rash,drug-disease,Is antifungal cream a drug?,Is rash a disease?,Is antifungal cream used to treat rash?
+rash,flake of skin,disease-symptom,Is rash a disease?,Is flake of skin a symptom?,Is flake of skin a symptom of rash?
+motion sickness,nausea,disease-symptom,Is motion sickness a disease?,Is nausea a symptom?,Is nausea a symptom of motion sickness?
+general anxiety,nausea,disease-symptom,Is general anxiety a disease?,Is nausea a symptom?,Is nausea a symptom of general anxiety?
+lexapro,insomnia,drug-disease,Is lexapro a drug?,Is insomnia a disease?,Is lexapro used to treat insomnia?
+amoxicillin,strep,drug-disease,Is amoxicillin a drug?,Is strep a disease?,Is amoxicillin used to treat strep?
+strep,fever,disease-symptom,Is strep a disease?,Is fever a symptom?,Is fever a symptom of strep?
+fever,strep,symptom-disease,Is fever a symptom?,Is strep a disease?,Is fever a symptom of strep?
+medication,chlamydia,drug-disease,Is medication a drug?,Is chlamydia a disease?,Is medication used to treat chlamydia?
+antidepressants,depression,drug-disease,Is antidepressants a drug?,Is depression a disease?,Is antidepressants used to treat depression?
+gastroparesis,regurgitate stomach,disease-symptom,Is gastroparesis a disease?,Is regurgitate stomach a symptom?,Is regurgitate stomach a symptom of gastroparesis?
+gastroparesis,I burp,disease-symptom,Is gastroparesis a disease?,Is I burp a symptom?,Is I burp a symptom of gastroparesis?
+sertraline,gastroparesis,drug-disease,Is sertraline a drug?,Is gastroparesis a disease?,Is sertraline used to treat gastroparesis?
+Cyst/lump,painful,disease-symptom,Is Cyst/lump a disease?,Is painful a symptom?,Is painful a symptom of Cyst/lump?
+Anoxic brain injury,brain damage,disease-symptom,Is Anoxic brain injury a disease?,Is brain damage a symptom?,Is brain damage a symptom of Anoxic brain injury?
+pantoprazole,acid reflux,drug-disease,Is pantoprazole a drug?,Is acid reflux a disease?,Is pantoprazole used to treat acid reflux?
+hyponatremia,headache,disease-symptom,Is hyponatremia a disease?,Is headache a symptom?,Is headache a symptom of hyponatremia?
+multiple sclerosis,optic neuritis,disease-symptom,Is multiple sclerosis a disease?,Is optic neuritis a symptom?,Is optic neuritis a symptom of multiple sclerosis?
+multiple sclerosis,muscle weakness,disease-symptom,Is multiple sclerosis a disease?,Is muscle weakness a symptom?,Is muscle weakness a symptom of multiple sclerosis?
+multiple sclerosis,gait abnormalities,disease-symptom,Is multiple sclerosis a disease?,Is gait abnormalities a symptom?,Is gait abnormalities a symptom of multiple sclerosis?
+optic neuritis,multiple sclerosis,symptom-disease,Is optic neuritis a symptom?,Is multiple sclerosis a disease?,Is optic neuritis a symptom of multiple sclerosis?
+muscle weakness,multiple sclerosis,symptom-disease,Is muscle weakness a symptom?,Is multiple sclerosis a disease?,Is muscle weakness a symptom of multiple sclerosis?
+gait abnormalities,multiple sclerosis,symptom-disease,Is gait abnormalities a symptom?,Is multiple sclerosis a disease?,Is gait abnormalities a symptom of multiple sclerosis?
+carbamazepine,trigeminal neuralgia,drug-disease,Is carbamazepine a drug?,Is trigeminal neuralgia a disease?,Is carbamazepine used to treat trigeminal neuralgia?
+trigeminal neuralgia,extreme pain,disease-symptom,Is trigeminal neuralgia a disease?,Is extreme pain a symptom?,Is extreme pain a symptom of trigeminal neuralgia?
+trigeminal neuralgia,sharp pains in my face,disease-symptom,Is trigeminal neuralgia a disease?,Is sharp pains in my face a symptom?,Is sharp pains in my face a symptom of trigeminal neuralgia?
+panic attack,chest pains,disease-symptom,Is panic attack a disease?,Is chest pains a symptom?,Is chest pains a symptom of panic attack?
+panic attack,tightness,disease-symptom,Is panic attack a disease?,Is tightness a symptom?,Is tightness a symptom of panic attack?
+Topamax,migraine,drug-disease,Is Topamax a drug?,Is migraine a disease?,Is Topamax used to treat migraine?
+epileptic seizure,muscles,disease-symptom,Is epileptic seizure a disease?,Is muscles a symptom?,Is muscles a symptom of epileptic seizure?
+migraine,nausea,disease-symptom,Is migraine a disease?,Is nausea a symptom?,Is nausea a symptom of migraine?
+prozac,mood swings,drug-disease,Is prozac a drug?,Is mood swings a disease?,Is prozac used to treat mood swings?
+Metronidazole,ANUG,drug-disease,Is Metronidazole a drug?,Is ANUG a disease?,Is Metronidazole used to treat ANUG?
+Difflam,ANUG,drug-disease,Is Difflam a drug?,Is ANUG a disease?,Is Difflam used to treat ANUG?
+ANUG,gum pain,disease-symptom,Is ANUG a disease?,Is gum pain a symptom?,Is gum pain a symptom of ANUG?
+pain,ANUG,symptom-disease,Is pain a symptom?,Is ANUG a disease?,Is pain a symptom of ANUG?
+Irregular periods,very light spotting,disease-symptom,Is Irregular periods a disease?,Is very light spotting a symptom?,Is very light spotting a symptom of Irregular periods?
+venlafaxine,depression,drug-disease,Is venlafaxine a drug?,Is depression a disease?,Is venlafaxine used to treat depression?
+venlafaxine,anxiety,drug-disease,Is venlafaxine a drug?,Is anxiety a disease?,Is venlafaxine used to treat anxiety?
+Bells Palsy,tingling,disease-symptom,Is Bells Palsy a disease?,Is tingling a symptom?,Is tingling a symptom of Bells Palsy?
+Menieres,ear,disease-symptom,Is Menieres a disease?,Is ear a symptom?,Is ear a symptom of Menieres?
+steroids,Bells Palsy,drug-disease,Is steroids a drug?,Is Bells Palsy a disease?,Is steroids used to treat Bells Palsy?
+COVID,aches,disease-symptom,Is COVID a disease?,Is aches a symptom?,Is aches a symptom of COVID?
+COVID,fatigue,disease-symptom,Is COVID a disease?,Is fatigue a symptom?,Is fatigue a symptom of COVID?
+COVID,weakness,disease-symptom,Is COVID a disease?,Is weakness a symptom?,Is weakness a symptom of COVID?
+COVID,sore throat,disease-symptom,Is COVID a disease?,Is sore throat a symptom?,Is sore throat a symptom of COVID?
+COVID,chest congestion,disease-symptom,Is COVID a disease?,Is chest congestion a symptom?,Is chest congestion a symptom of COVID?
+Herpes,sores,disease-symptom,Is Herpes a disease?,Is sores a symptom?,Is sores a symptom of Herpes?
+post-viral cough,lingering cough,disease-symptom,Is post-viral cough a disease?,Is lingering cough a symptom?,Is lingering cough a symptom of post-viral cough?
+montelukast,post-viral cough,drug-disease,Is montelukast a drug?,Is post-viral cough a disease?,Is montelukast used to treat post-viral cough?
+cough,post-viral cough,symptom-disease,Is cough a symptom?,Is post-viral cough a disease?,Is cough a symptom of post-viral cough?
+norethindrone-ethinyl estradiol-iron MG-MCG tablet,hair loss,drug-disease,Is norethindrone-ethinyl estradiol-iron MG-MCG tablet a drug?,Is hair loss a disease?,Is norethindrone-ethinyl estradiol-iron MG-MCG tablet used to treat hair loss?
+weight loss,dry skin,symptom-disease,Is weight loss a symptom?,Is dry skin a disease?,Is weight loss a symptom of dry skin?
+Ehlers-Danlos,joint pains,disease-symptom,Is Ehlers-Danlos a disease?,Is joint pains a symptom?,Is joint pains a symptom of Ehlers-Danlos?
+Ehlers-Danlos,stiffness,disease-symptom,Is Ehlers-Danlos a disease?,Is stiffness a symptom?,Is stiffness a symptom of Ehlers-Danlos?
+ibuprofen,joint pains,drug-disease,Is ibuprofen a drug?,Is joint pains a disease?,Is ibuprofen used to treat joint pains?
+diclofenac,joint pains,drug-disease,Is diclofenac a drug?,Is joint pains a disease?,Is diclofenac used to treat joint pains?
+topiramate,chronic migraines,drug-disease,Is topiramate a drug?,Is chronic migraines a disease?,Is topiramate used to treat chronic migraines?
+PCOS,irregular periods,disease-symptom,Is PCOS a disease?,Is irregular periods a symptom?,Is irregular periods a symptom of PCOS?
+PCOS,acne,disease-symptom,Is PCOS a disease?,Is acne a symptom?,Is acne a symptom of PCOS?
+cerebrovascular accident,mental status change,disease-symptom,Is cerebrovascular accident a disease?,Is mental status change a symptom?,Is mental status change a symptom of cerebrovascular accident?
+tumor,Right upper quadrant pain,disease-symptom,Is tumor a disease?,Is Right upper quadrant pain a symptom?,Is Right upper quadrant pain a symptom of tumor?
+Right upper quadrant pain,tumor,symptom-disease,Is Right upper quadrant pain a symptom?,Is tumor a disease?,Is Right upper quadrant pain a symptom of tumor?
+Klonopin,CNS depression,drug-disease,Is Klonopin a drug?,Is CNS depression a disease?,Is Klonopin used to treat CNS depression?
+alcohol,CNS depression,drug-disease,Is alcohol a drug?,Is CNS depression a disease?,Is alcohol used to treat CNS depression?
+CNS depression,respiratory depression,disease-symptom,Is CNS depression a disease?,Is respiratory depression a symptom?,Is respiratory depression a symptom of CNS depression?
+CNS depression,sedation,disease-symptom,Is CNS depression a disease?,Is sedation a symptom?,Is sedation a symptom of CNS depression?
+Celiacs,diarrhea,disease-symptom,Is Celiacs a disease?,Is diarrhea a symptom?,Is diarrhea a symptom of Celiacs?
+IBS,diarrhea,disease-symptom,Is IBS a disease?,Is diarrhea a symptom?,Is diarrhea a symptom of IBS?
+pancreatic cancer,steatorrhea,disease-symptom,Is pancreatic cancer a disease?,Is steatorrhea a symptom?,Is steatorrhea a symptom of pancreatic cancer?
+Hives,rash,disease-symptom,Is Hives a disease?,Is rash a symptom?,Is rash a symptom of Hives?
+hydrocephalus,headaches,disease-symptom,Is hydrocephalus a disease?,Is headaches a symptom?,Is headaches a symptom of hydrocephalus?
+hydrocephalus,loses the ability to move the left side of his body,disease-symptom,Is hydrocephalus a disease?,Is loses the ability to move the left side of his body a symptom?,Is loses the ability to move the left side of his body a symptom of hydrocephalus?
+infection,blood in ejaculate,disease-symptom,Is infection a disease?,Is blood in ejaculate a symptom?,Is blood in ejaculate a symptom of infection?
+plaquenil,undifferentiated connective tissue disease,drug-disease,Is plaquenil a drug?,Is undifferentiated connective tissue disease a disease?,Is plaquenil used to treat undifferentiated connective tissue disease?
+Paroxysmal Nocturnal Hemoglobinuria,blood clot,disease-symptom,Is Paroxysmal Nocturnal Hemoglobinuria a disease?,Is blood clot a symptom?,Is blood clot a symptom of Paroxysmal Nocturnal Hemoglobinuria?
+bone disease,elevated ALP,disease-symptom,Is bone disease a disease?,Is elevated ALP a symptom?,Is elevated ALP a symptom of bone disease?
+bad cold,blocked nose,disease-symptom,Is bad cold a disease?,Is blocked nose a symptom?,Is blocked nose a symptom of bad cold?
+tregretol,trigeminus neuralgia,drug-disease,Is tregretol a drug?,Is trigeminus neuralgia a disease?,Is tregretol used to treat trigeminus neuralgia?
+trigeminus neuralgia,pain,disease-symptom,Is trigeminus neuralgia a disease?,Is pain a symptom?,Is pain a symptom of trigeminus neuralgia?
+headache,trigeminus neuralgia,symptom-disease,Is headache a symptom?,Is trigeminus neuralgia a disease?,Is headache a symptom of trigeminus neuralgia?
+celexa,anxiety,drug-disease,Is celexa a drug?,Is anxiety a disease?,Is celexa used to treat anxiety?
+Adderall,ADHD,drug-disease,Is Adderall a drug?,Is ADHD a disease?,Is Adderall used to treat ADHD?
+kidney stones,potassium citrate,drug-disease,Is kidney stones a drug?,Is potassium citrate a disease?,Is kidney stones used to treat potassium citrate?
+Penicillin,strep throat,drug-disease,Is Penicillin a drug?,Is strep throat a disease?,Is Penicillin used to treat strep throat?
+Clarithromycin,strep throat,drug-disease,Is Clarithromycin a drug?,Is strep throat a disease?,Is Clarithromycin used to treat strep throat?
+strep throat,sore throat,disease-symptom,Is strep throat a disease?,Is sore throat a symptom?,Is sore throat a symptom of strep throat?
+strep throat,fevers,disease-symptom,Is strep throat a disease?,Is fevers a symptom?,Is fevers a symptom of strep throat?
+sore throat,strep throat,symptom-disease,Is sore throat a symptom?,Is strep throat a disease?,Is sore throat a symptom of strep throat?
+fevers,strep throat,symptom-disease,Is fevers a symptom?,Is strep throat a disease?,Is fevers a symptom of strep throat?
+Gilbert's,indirect bilirubin,disease-symptom,Is Gilbert's a disease?,Is indirect bilirubin a symptom?,Is indirect bilirubin a symptom of Gilbert's?
+stomach ulcer,epigastric pain,disease-symptom,Is stomach ulcer a disease?,Is epigastric pain a symptom?,Is epigastric pain a symptom of stomach ulcer?
+sprain,swelling,disease-symptom,Is sprain a disease?,Is swelling a symptom?,Is swelling a symptom of sprain?
+swelling,sprain,symptom-disease,Is swelling a symptom?,Is sprain a disease?,Is swelling a symptom of sprain?
+Idiopathic Intracranial Hypertension,Optic Nerve Swelling,disease-symptom,Is Idiopathic Intracranial Hypertension a disease?,Is Optic Nerve Swelling a symptom?,Is Optic Nerve Swelling a symptom of Idiopathic Intracranial Hypertension?
+Polycystic-Ovarian Disease,High Testosterone Levels,disease-symptom,Is Polycystic-Ovarian Disease a disease?,Is High Testosterone Levels a symptom?,Is High Testosterone Levels a symptom of Polycystic-Ovarian Disease?
+Isogalen,pimples,drug-disease,Is Isogalen a drug?,Is pimples a disease?,Is Isogalen used to treat pimples?
+gastritis,throwing up red blood,disease-symptom,Is gastritis a disease?,Is throwing up red blood a symptom?,Is throwing up red blood a symptom of gastritis?
+gastritis,stomach pain,disease-symptom,Is gastritis a disease?,Is stomach pain a symptom?,Is stomach pain a symptom of gastritis?
+throwing up red blood,gastritis,symptom-disease,Is throwing up red blood a symptom?,Is gastritis a disease?,Is throwing up red blood a symptom of gastritis?
+stomach pain,gastritis,symptom-disease,Is stomach pain a symptom?,Is gastritis a disease?,Is stomach pain a symptom of gastritis?
+Omeprazole,gastritis,drug-disease,Is Omeprazole a drug?,Is gastritis a disease?,Is Omeprazole used to treat gastritis?
+Omeprazole,ulcers,drug-disease,Is Omeprazole a drug?,Is ulcers a disease?,Is Omeprazole used to treat ulcers?
+Omeprazole,GERD,drug-disease,Is Omeprazole a drug?,Is GERD a disease?,Is Omeprazole used to treat GERD?
+Acetaminophen,pain,drug-disease,Is Acetaminophen a drug?,Is pain a disease?,Is Acetaminophen used to treat pain?
+neurological disorder,choking,disease-symptom,Is neurological disorder a disease?,Is choking a symptom?,Is choking a symptom of neurological disorder?
+heat exhaustion,fainting,disease-symptom,Is heat exhaustion a disease?,Is fainting a symptom?,Is fainting a symptom of heat exhaustion?
+Paracetamol,fever,drug-disease,Is Paracetamol a drug?,Is fever a disease?,Is Paracetamol used to treat fever?
+amoxicillin,ear infection,drug-disease,Is amoxicillin a drug?,Is ear infection a disease?,Is amoxicillin used to treat ear infection?
+fluticasone,sinus inflammation,drug-disease,Is fluticasone a drug?,Is sinus inflammation a disease?,Is fluticasone used to treat sinus inflammation?
+UTI,disconfort,disease-symptom,Is UTI a disease?,Is disconfort a symptom?,Is disconfort a symptom of UTI?
+Food poisoning,nausea,disease-symptom,Is Food poisoning a disease?,Is nausea a symptom?,Is nausea a symptom of Food poisoning?
+salmonella,nausea,disease-symptom,Is salmonella a disease?,Is nausea a symptom?,Is nausea a symptom of salmonella?
+ibuprofen,headaches,drug-disease,Is ibuprofen a drug?,Is headaches a disease?,Is ibuprofen used to treat headaches?
+Vyvanse,ADHD,drug-disease,Is Vyvanse a drug?,Is ADHD a disease?,Is Vyvanse used to treat ADHD?
+hernia,bulge,disease-symptom,Is hernia a disease?,Is bulge a symptom?,Is bulge a symptom of hernia?
+hernia,pain,disease-symptom,Is hernia a disease?,Is pain a symptom?,Is pain a symptom of hernia?
+pain,hernia,symptom-disease,Is pain a symptom?,Is hernia a disease?,Is pain a symptom of hernia?
+Acetaminophen,cold,drug-disease,Is Acetaminophen a drug?,Is cold a disease?,Is Acetaminophen used to treat cold?
+ibuprofen,cold,drug-disease,Is ibuprofen a drug?,Is cold a disease?,Is ibuprofen used to treat cold?
+Spinal Tb,back pain,disease-symptom,Is Spinal Tb a disease?,Is back pain a symptom?,Is back pain a symptom of Spinal Tb?
+intracranial hypertension,headache,disease-symptom,Is intracranial hypertension a disease?,Is headache a symptom?,Is headache a symptom of intracranial hypertension?
+intracranial hypertension,visual disturbance,disease-symptom,Is intracranial hypertension a disease?,Is visual disturbance a symptom?,Is visual disturbance a symptom of intracranial hypertension?
+headache,intracranial hypertension,symptom-disease,Is headache a symptom?,Is intracranial hypertension a disease?,Is headache a symptom of intracranial hypertension?
+visual disturbance,intracranial hypertension,symptom-disease,Is visual disturbance a symptom?,Is intracranial hypertension a disease?,Is visual disturbance a symptom of intracranial hypertension?
+Losartan,hypertension,drug-disease,Is Losartan a drug?,Is hypertension a disease?,Is Losartan used to treat hypertension?
+amoxicillin,ear infection,drug-disease,Is amoxicillin a drug?,Is ear infection a disease?,Is amoxicillin used to treat ear infection?
+Bactrim,UTI,drug-disease,Is Bactrim a drug?,Is UTI a disease?,Is Bactrim used to treat UTI?
+Ceftriaxone,UTI,drug-disease,Is Ceftriaxone a drug?,Is UTI a disease?,Is Ceftriaxone used to treat UTI?
+kidney infection,abdominal pain,disease-symptom,Is kidney infection a disease?,Is abdominal pain a symptom?,Is abdominal pain a symptom of kidney infection?
+UTI,abdominal pain,disease-symptom,Is UTI a disease?,Is abdominal pain a symptom?,Is abdominal pain a symptom of UTI?
+UTI,painful,disease-symptom,Is UTI a disease?,Is painful a symptom?,Is painful a symptom of UTI?
+anxiety,erection,disease-symptom,Is anxiety a disease?,Is erection a symptom?,Is erection a symptom of anxiety?
+erection,anxiety,symptom-disease,Is erection a symptom?,Is anxiety a disease?,Is erection a symptom of anxiety?
+epilepsy,seizures,disease-symptom,Is epilepsy a disease?,Is seizures a symptom?,Is seizures a symptom of epilepsy?
+Public lice,itching,disease-symptom,Is Public lice a disease?,Is itching a symptom?,Is itching a symptom of Public lice?
+endometriosis,pain,disease-symptom,Is endometriosis a disease?,Is pain a symptom?,Is pain a symptom of endometriosis?
+endometriosis,cramping,disease-symptom,Is endometriosis a disease?,Is cramping a symptom?,Is cramping a symptom of endometriosis?
+pain,endometriosis,symptom-disease,Is pain a symptom?,Is endometriosis a disease?,Is pain a symptom of endometriosis?
+cramping,endometriosis,symptom-disease,Is cramping a symptom?,Is endometriosis a disease?,Is cramping a symptom of endometriosis?
+antibiotics,bronchitis,drug-disease,Is antibiotics a drug?,Is bronchitis a disease?,Is antibiotics used to treat bronchitis?
+bronchitis,cough,disease-symptom,Is bronchitis a disease?,Is cough a symptom?,Is cough a symptom of bronchitis?
+bronchitis,wheezing,disease-symptom,Is bronchitis a disease?,Is wheezing a symptom?,Is wheezing a symptom of bronchitis?
+cough,bronchitis,symptom-disease,Is cough a symptom?,Is bronchitis a disease?,Is cough a symptom of bronchitis?
+wheezing,bronchitis,symptom-disease,Is wheezing a symptom?,Is bronchitis a disease?,Is wheezing a symptom of bronchitis?
+sore throat,flu,symptom-disease,Is sore throat a symptom?,Is flu a disease?,Is sore throat a symptom of flu?
+Subluxed shoulder,sore,disease-symptom,Is Subluxed shoulder a disease?,Is sore a symptom?,Is sore a symptom of Subluxed shoulder?
+Vertigo,spinning,disease-symptom,Is Vertigo a disease?,Is spinning a symptom?,Is spinning a symptom of Vertigo?
+Epigastric pain,indigestion,symptom-disease,Is Epigastric pain a symptom?,Is indigestion a disease?,Is Epigastric pain a symptom of indigestion?
+indigestion,Epigastric pain,disease-symptom,Is indigestion a disease?,Is Epigastric pain a symptom?,Is Epigastric pain a symptom of indigestion?
+chills,disease,symptom-disease,Is chills a symptom?,Is disease a disease?,Is chills a symptom of disease?
+food poisoning,vomiting,disease-symptom,Is food poisoning a disease?,Is vomiting a symptom?,Is vomiting a symptom of food poisoning?
+food poisoning,diarrhea,disease-symptom,Is food poisoning a disease?,Is diarrhea a symptom?,Is diarrhea a symptom of food poisoning?
+food poisoning,stomach pain,disease-symptom,Is food poisoning a disease?,Is stomach pain a symptom?,Is stomach pain a symptom of food poisoning?
+vomiting,food poisoning,symptom-disease,Is vomiting a symptom?,Is food poisoning a disease?,Is vomiting a symptom of food poisoning?
+diarrhea,food poisoning,symptom-disease,Is diarrhea a symptom?,Is food poisoning a disease?,Is diarrhea a symptom of food poisoning?
+stomach pain,food poisoning,symptom-disease,Is stomach pain a symptom?,Is food poisoning a disease?,Is stomach pain a symptom of food poisoning?
+hypothyroidism,armour thyroid,drug-disease,Is hypothyroidism a drug?,Is armour thyroid a disease?,Is hypothyroidism used to treat armour thyroid?
+pancreatic cancer,back pain,disease-symptom,Is pancreatic cancer a disease?,Is back pain a symptom?,Is back pain a symptom of pancreatic cancer?
+pancreatic cyst,pain,disease-symptom,Is pancreatic cyst a disease?,Is pain a symptom?,Is pain a symptom of pancreatic cyst?
+cellulitis,pain,disease-symptom,Is cellulitis a disease?,Is pain a symptom?,Is pain a symptom of cellulitis?
+cellulitis,red spots,disease-symptom,Is cellulitis a disease?,Is red spots a symptom?,Is red spots a symptom of cellulitis?
+antibiotics,cellulitis,drug-disease,Is antibiotics a drug?,Is cellulitis a disease?,Is antibiotics used to treat cellulitis?
+sore throat,infection,symptom-disease,Is sore throat a symptom?,Is infection a disease?,Is sore throat a symptom of infection?
+cough,infection,symptom-disease,Is cough a symptom?,Is infection a disease?,Is cough a symptom of infection?
+chills,infection,symptom-disease,Is chills a symptom?,Is infection a disease?,Is chills a symptom of infection?
+abrasions,bleeding,disease-symptom,Is abrasions a disease?,Is bleeding a symptom?,Is bleeding a symptom of abrasions?
+abrasions,pain,disease-symptom,Is abrasions a disease?,Is pain a symptom?,Is pain a symptom of abrasions?
+gastritis,stomach pain,disease-symptom,Is gastritis a disease?,Is stomach pain a symptom?,Is stomach pain a symptom of gastritis?
+pain,gallstone,symptom-disease,Is pain a symptom?,Is gallstone a disease?,Is pain a symptom of gallstone?
+Tramcinolone,rash,drug-disease,Is Tramcinolone a drug?,Is rash a disease?,Is Tramcinolone used to treat rash?
+anxiety,chest pain,disease-symptom,Is anxiety a disease?,Is chest pain a symptom?,Is chest pain a symptom of anxiety?
+anxiety,heart palpitations,disease-symptom,Is anxiety a disease?,Is heart palpitations a symptom?,Is heart palpitations a symptom of anxiety?
+migraines,blurry vision,disease-symptom,Is migraines a disease?,Is blurry vision a symptom?,Is blurry vision a symptom of migraines?
+sertaline,anxiety,drug-disease,Is sertaline a drug?,Is anxiety a disease?,Is sertaline used to treat anxiety?
+antibiotic,allergic reaction,drug-disease,Is antibiotic a drug?,Is allergic reaction a disease?,Is antibiotic used to treat allergic reaction?
+rash,itchy,disease-symptom,Is rash a disease?,Is itchy a symptom?,Is itchy a symptom of rash?
+congenital rubella syndrome,hearing loss,disease-symptom,Is congenital rubella syndrome a disease?,Is hearing loss a symptom?,Is hearing loss a symptom of congenital rubella syndrome?
+hearing loss,congenital rubella syndrome,symptom-disease,Is hearing loss a symptom?,Is congenital rubella syndrome a disease?,Is hearing loss a symptom of congenital rubella syndrome?
+Fever,strep throat,symptom-disease,Is Fever a symptom?,Is strep throat a disease?,Is Fever a symptom of strep throat?
+Chills,strep throat,symptom-disease,Is Chills a symptom?,Is strep throat a disease?,Is Chills a symptom of strep throat?
+Painful swallowing,strep throat,symptom-disease,Is Painful swallowing a symptom?,Is strep throat a disease?,Is Painful swallowing a symptom of strep throat?
+Paracetamol,Fever,drug-disease,Is Paracetamol a drug?,Is Fever a disease?,Is Paracetamol used to treat Fever?
+pancreatitis,discomfort,disease-symptom,Is pancreatitis a disease?,Is discomfort a symptom?,Is discomfort a symptom of pancreatitis?
+duodenitis,discomfort,disease-symptom,Is duodenitis a disease?,Is discomfort a symptom?,Is discomfort a symptom of duodenitis?
+Ativan,panic attacks,drug-disease,Is Ativan a drug?,Is panic attacks a disease?,Is Ativan used to treat panic attacks?
+social anxiety,panic attacks,disease-symptom,Is social anxiety a disease?,Is panic attacks a symptom?,Is panic attacks a symptom of social anxiety?
+palpitations,heart disease,symptom-disease,Is palpitations a symptom?,Is heart disease a disease?,Is palpitations a symptom of heart disease?
+cefdinir,ear infection,drug-disease,Is cefdinir a drug?,Is ear infection a disease?,Is cefdinir used to treat ear infection?
+rabies vaccine,rabies,drug-disease,Is rabies vaccine a drug?,Is rabies a disease?,Is rabies vaccine used to treat rabies?
+scabies,itching,disease-symptom,Is scabies a disease?,Is itching a symptom?,Is itching a symptom of scabies?
+slipped disk,chronic pain,disease-symptom,Is slipped disk a disease?,Is chronic pain a symptom?,Is chronic pain a symptom of slipped disk?
+sinus infection,Loss of smell,disease-symptom,Is sinus infection a disease?,Is Loss of smell a symptom?,Is Loss of smell a symptom of sinus infection?
+sinus infection,taste,disease-symptom,Is sinus infection a disease?,Is taste a symptom?,Is taste a symptom of sinus infection?
+amoxicillin,strep,drug-disease,Is amoxicillin a drug?,Is strep a disease?,Is amoxicillin used to treat strep?
+strep,throat symptoms,disease-symptom,Is strep a disease?,Is throat symptoms a symptom?,Is throat symptoms a symptom of strep?
+strep,fatigue,disease-symptom,Is strep a disease?,Is fatigue a symptom?,Is fatigue a symptom of strep?
+chronic tonsillitis,pain,disease-symptom,Is chronic tonsillitis a disease?,Is pain a symptom?,Is pain a symptom of chronic tonsillitis?
+abcess,pain,disease-symptom,Is abcess a disease?,Is pain a symptom?,Is pain a symptom of abcess?
+fatigue,strep,symptom-disease,Is fatigue a symptom?,Is strep a disease?,Is fatigue a symptom of strep?
+viral infection,lymphocytes,disease-symptom,Is viral infection a disease?,Is lymphocytes a symptom?,Is lymphocytes a symptom of viral infection?
+pancreatitis,abdominal pain,disease-symptom,Is pancreatitis a disease?,Is abdominal pain a symptom?,Is abdominal pain a symptom of pancreatitis?
+diabetes,frequent urination,disease-symptom,Is diabetes a disease?,Is frequent urination a symptom?,Is frequent urination a symptom of diabetes?
+diabetes,excessive thirst,disease-symptom,Is diabetes a disease?,Is excessive thirst a symptom?,Is excessive thirst a symptom of diabetes?
+hypothyroidism,fatigue,disease-symptom,Is hypothyroidism a disease?,Is fatigue a symptom?,Is fatigue a symptom of hypothyroidism?
+hypothyroidism,dry skin,disease-symptom,Is hypothyroidism a disease?,Is dry skin a symptom?,Is dry skin a symptom of hypothyroidism?
+hypothyroidism,thinning hair,disease-symptom,Is hypothyroidism a disease?,Is thinning hair a symptom?,Is thinning hair a symptom of hypothyroidism?
+hypothyroidism,weight gain,disease-symptom,Is hypothyroidism a disease?,Is weight gain a symptom?,Is weight gain a symptom of hypothyroidism?
+AMVASC,hypertensive,drug-disease,Is AMVASC a drug?,Is hypertensive a disease?,Is AMVASC used to treat hypertensive?
+hypertensive,headaches,disease-symptom,Is hypertensive a disease?,Is headaches a symptom?,Is headaches a symptom of hypertensive?
+hypertensive,palpitations,disease-symptom,Is hypertensive a disease?,Is palpitations a symptom?,Is palpitations a symptom of hypertensive?
+hypertensive,vomiting,disease-symptom,Is hypertensive a disease?,Is vomiting a symptom?,Is vomiting a symptom of hypertensive?
+palpitations,hypertensive,symptom-disease,Is palpitations a symptom?,Is hypertensive a disease?,Is palpitations a symptom of hypertensive?
+headaches,hypertensive,symptom-disease,Is headaches a symptom?,Is hypertensive a disease?,Is headaches a symptom of hypertensive?
+vomiting,hypertensive,symptom-disease,Is vomiting a symptom?,Is hypertensive a disease?,Is vomiting a symptom of hypertensive?
+insulin,diabetic,drug-disease,Is insulin a drug?,Is diabetic a disease?,Is insulin used to treat diabetic?
+Plavix,peripheral artery disease,drug-disease,Is Plavix a drug?,Is peripheral artery disease a disease?,Is Plavix used to treat peripheral artery disease?
+atenolol,high blood pressure,drug-disease,Is atenolol a drug?,Is high blood pressure a disease?,Is atenolol used to treat high blood pressure?
+peripheral artery disease,leg pain,disease-symptom,Is peripheral artery disease a disease?,Is leg pain a symptom?,Is leg pain a symptom of peripheral artery disease?
+insulin,type 1 diabetes,drug-disease,Is insulin a drug?,Is type 1 diabetes a disease?,Is insulin used to treat type 1 diabetes?
+rash,contact dermatitis,symptom-disease,Is rash a symptom?,Is contact dermatitis a disease?,Is rash a symptom of contact dermatitis?
+advair,asthma,drug-disease,Is advair a drug?,Is asthma a disease?,Is advair used to treat asthma?
+stomach cancer,heartburn,disease-symptom,Is stomach cancer a disease?,Is heartburn a symptom?,Is heartburn a symptom of stomach cancer?
+heartburn,stomach cancer,symptom-disease,Is heartburn a symptom?,Is stomach cancer a disease?,Is heartburn a symptom of stomach cancer?
+antacids,heartburn,drug-disease,Is antacids a drug?,Is heartburn a disease?,Is antacids used to treat heartburn?
+adenomyosis,pain,disease-symptom,Is adenomyosis a disease?,Is pain a symptom?,Is pain a symptom of adenomyosis?
+endometriosis,pain,disease-symptom,Is endometriosis a disease?,Is pain a symptom?,Is pain a symptom of endometriosis?
+anxiety,insomnia,disease-symptom,Is anxiety a disease?,Is insomnia a symptom?,Is insomnia a symptom of anxiety?
+pain,adenomyosis,symptom-disease,Is pain a symptom?,Is adenomyosis a disease?,Is pain a symptom of adenomyosis?
+pain,endometriosis,symptom-disease,Is pain a symptom?,Is endometriosis a disease?,Is pain a symptom of endometriosis?
+insomnia,anxiety,symptom-disease,Is insomnia a symptom?,Is anxiety a disease?,Is insomnia a symptom of anxiety?
+bradycardia,resting heart rate,disease-symptom,Is bradycardia a disease?,Is resting heart rate a symptom?,Is resting heart rate a symptom of bradycardia?
+appendicitis,pain,disease-symptom,Is appendicitis a disease?,Is pain a symptom?,Is pain a symptom of appendicitis?
+appendicitis,tender,disease-symptom,Is appendicitis a disease?,Is tender a symptom?,Is tender a symptom of appendicitis?
+panic,GAD,symptom-disease,Is panic a symptom?,Is GAD a disease?,Is panic a symptom of GAD?
+GERD,inflammation,disease-symptom,Is GERD a disease?,Is inflammation a symptom?,Is inflammation a symptom of GERD?
+GERD,swallowing,disease-symptom,Is GERD a disease?,Is swallowing a symptom?,Is swallowing a symptom of GERD?
+pantoprazole,reflux,drug-disease,Is pantoprazole a drug?,Is reflux a disease?,Is pantoprazole used to treat reflux?
+steroid creams,fungal infections,drug-disease,Is steroid creams a drug?,Is fungal infections a disease?,Is steroid creams used to treat fungal infections?
+fungal infections,rashes,disease-symptom,Is fungal infections a disease?,Is rashes a symptom?,Is rashes a symptom of fungal infections?
+itch,fungal infections,symptom-disease,Is itch a symptom?,Is fungal infections a disease?,Is itch a symptom of fungal infections?
+kyleena,pain,drug-disease,Is kyleena a drug?,Is pain a disease?,Is kyleena used to treat pain?
+HSV 2,outbreak,disease-symptom,Is HSV 2 a disease?,Is outbreak a symptom?,Is outbreak a symptom of HSV 2?
+allergies,Nose gets clogged,disease-symptom,Is allergies a disease?,Is Nose gets clogged a symptom?,Is Nose gets clogged a symptom of allergies?
+allergies,sneezing,disease-symptom,Is allergies a disease?,Is sneezing a symptom?,Is sneezing a symptom of allergies?
+Afrin,allergies,drug-disease,Is Afrin a drug?,Is allergies a disease?,Is Afrin used to treat allergies?
+rosacea,redness,disease-symptom,Is rosacea a disease?,Is redness a symptom?,Is redness a symptom of rosacea?
+eczema,itch,disease-symptom,Is eczema a disease?,Is itch a symptom?,Is itch a symptom of eczema?
+itch,eczema,symptom-disease,Is itch a symptom?,Is eczema a disease?,Is itch a symptom of eczema?
+neosporin,pimple,drug-disease,Is neosporin a drug?,Is pimple a disease?,Is neosporin used to treat pimple?
+antibiotic,UTI,drug-disease,Is antibiotic a drug?,Is UTI a disease?,Is antibiotic used to treat UTI?
+trimalleolar fracture,pain,disease-symptom,Is trimalleolar fracture a disease?,Is pain a symptom?,Is pain a symptom of trimalleolar fracture?
+Prazosin(Minipress,PTSD,drug-disease,Is Prazosin(Minipress a drug?,Is PTSD a disease?,Is Prazosin(Minipress used to treat PTSD?
+Sertraline,PTSD,drug-disease,Is Sertraline a drug?,Is PTSD a disease?,Is Sertraline used to treat PTSD?
+asthma,wheezing,disease-symptom,Is asthma a disease?,Is wheezing a symptom?,Is wheezing a symptom of asthma?
+Cipro,UTI,drug-disease,Is Cipro a drug?,Is UTI a disease?,Is Cipro used to treat UTI?
+UTI,burning when urinating,disease-symptom,Is UTI a disease?,Is burning when urinating a symptom?,Is burning when urinating a symptom of UTI?
+UTI,increased urgency,disease-symptom,Is UTI a disease?,Is increased urgency a symptom?,Is increased urgency a symptom of UTI?
+UTI,increased frequency,disease-symptom,Is UTI a disease?,Is increased frequency a symptom?,Is increased frequency a symptom of UTI?
+rotator cuff tear,shoulder pain,disease-symptom,Is rotator cuff tear a disease?,Is shoulder pain a symptom?,Is shoulder pain a symptom of rotator cuff tear?
+shoulder pain,rotator cuff tear,symptom-disease,Is shoulder pain a symptom?,Is rotator cuff tear a disease?,Is shoulder pain a symptom of rotator cuff tear?
+Fowler’s Syndrome,urinary retention,disease-symptom,Is Fowler’s Syndrome a disease?,Is urinary retention a symptom?,Is urinary retention a symptom of Fowler’s Syndrome?
+urinary retention,Fowler’s Syndrome,symptom-disease,Is urinary retention a symptom?,Is Fowler’s Syndrome a disease?,Is urinary retention a symptom of Fowler’s Syndrome?
+infection,swollen nodes,disease-symptom,Is infection a disease?,Is swollen nodes a symptom?,Is swollen nodes a symptom of infection?
+Ritalin,ADHD,drug-disease,Is Ritalin a drug?,Is ADHD a disease?,Is Ritalin used to treat ADHD?
+chronic constipation,difficulty going to the bathroom,disease-symptom,Is chronic constipation a disease?,Is difficulty going to the bathroom a symptom?,Is difficulty going to the bathroom a symptom of chronic constipation?
+difficulty going to the bathroom,chronic constipation,symptom-disease,Is difficulty going to the bathroom a symptom?,Is chronic constipation a disease?,Is difficulty going to the bathroom a symptom of chronic constipation?
+fibroids,cramps heavy,disease-symptom,Is fibroids a disease?,Is cramps heavy a symptom?,Is cramps heavy a symptom of fibroids?
+high blood pressure,headache,disease-symptom,Is high blood pressure a disease?,Is headache a symptom?,Is headache a symptom of high blood pressure?
+amoxicillin,strep,drug-disease,Is amoxicillin a drug?,Is strep a disease?,Is amoxicillin used to treat strep?
+strep,sore throat,disease-symptom,Is strep a disease?,Is sore throat a symptom?,Is sore throat a symptom of strep?
+ibuprofen,fever,drug-disease,Is ibuprofen a drug?,Is fever a disease?,Is ibuprofen used to treat fever?
+tylenol,fever,drug-disease,Is tylenol a drug?,Is fever a disease?,Is tylenol used to treat fever?
+asthma,cough,disease-symptom,Is asthma a disease?,Is cough a symptom?,Is cough a symptom of asthma?
+cough,asthma,symptom-disease,Is cough a symptom?,Is asthma a disease?,Is cough a symptom of asthma?
+fluticasone,asthma,drug-disease,Is fluticasone a drug?,Is asthma a disease?,Is fluticasone used to treat asthma?
+salbutamol,asthma,drug-disease,Is salbutamol a drug?,Is asthma a disease?,Is salbutamol used to treat asthma?
+asthma,wheeze,disease-symptom,Is asthma a disease?,Is wheeze a symptom?,Is wheeze a symptom of asthma?
+asthma,cough,disease-symptom,Is asthma a disease?,Is cough a symptom?,Is cough a symptom of asthma?
+chest virus,cough,disease-symptom,Is chest virus a disease?,Is cough a symptom?,Is cough a symptom of chest virus?
+chest virus,body aches,disease-symptom,Is chest virus a disease?,Is body aches a symptom?,Is body aches a symptom of chest virus?
+Metformin,Type 2 Diabetes,drug-disease,Is Metformin a drug?,Is Type 2 Diabetes a disease?,Is Metformin used to treat Type 2 Diabetes?
+Sumatriptan,Chronic Migraines,drug-disease,Is Sumatriptan a drug?,Is Chronic Migraines a disease?,Is Sumatriptan used to treat Chronic Migraines?
+Type 2 Diabetes,fatigue,disease-symptom,Is Type 2 Diabetes a disease?,Is fatigue a symptom?,Is fatigue a symptom of Type 2 Diabetes?
+Chronic Migraines,fatigue,disease-symptom,Is Chronic Migraines a disease?,Is fatigue a symptom?,Is fatigue a symptom of Chronic Migraines?
+pneumonia,coughing,disease-symptom,Is pneumonia a disease?,Is coughing a symptom?,Is coughing a symptom of pneumonia?
+pneumonia,shortness of breath,disease-symptom,Is pneumonia a disease?,Is shortness of breath a symptom?,Is shortness of breath a symptom of pneumonia?
+Viral Conjunctivitis,red,disease-symptom,Is Viral Conjunctivitis a disease?,Is red a symptom?,Is red a symptom of Viral Conjunctivitis?
+Viral Conjunctivitis,discharge,disease-symptom,Is Viral Conjunctivitis a disease?,Is discharge a symptom?,Is discharge a symptom of Viral Conjunctivitis?
+red,Viral Conjunctivitis,symptom-disease,Is red a symptom?,Is Viral Conjunctivitis a disease?,Is red a symptom of Viral Conjunctivitis?
+discharge,Viral Conjunctivitis,symptom-disease,Is discharge a symptom?,Is Viral Conjunctivitis a disease?,Is discharge a symptom of Viral Conjunctivitis?
+PMS,Irritability,disease-symptom,Is PMS a disease?,Is Irritability a symptom?,Is Irritability a symptom of PMS?
+PMS,depressed mood,disease-symptom,Is PMS a disease?,Is depressed mood a symptom?,Is depressed mood a symptom of PMS?
+PMS,increased hunger,disease-symptom,Is PMS a disease?,Is increased hunger a symptom?,Is increased hunger a symptom of PMS?
+PMS,weight gain,disease-symptom,Is PMS a disease?,Is weight gain a symptom?,Is weight gain a symptom of PMS?
+PMS,fatigue,disease-symptom,Is PMS a disease?,Is fatigue a symptom?,Is fatigue a symptom of PMS?
+ovarian cysts,interperiod bleeding,disease-symptom,Is ovarian cysts a disease?,Is interperiod bleeding a symptom?,Is interperiod bleeding a symptom of ovarian cysts?
+ovarian cysts,painful ruptures,disease-symptom,Is ovarian cysts a disease?,Is painful ruptures a symptom?,Is painful ruptures a symptom of ovarian cysts?
+labetalol,hypertension,drug-disease,Is labetalol a drug?,Is hypertension a disease?,Is labetalol used to treat hypertension?
+Famotidine,vomiting,drug-disease,Is Famotidine a drug?,Is vomiting a disease?,Is Famotidine used to treat vomiting?
+Prilosec,vomiting,drug-disease,Is Prilosec a drug?,Is vomiting a disease?,Is Prilosec used to treat vomiting?
+Cyclical Vomiting,vomiting,disease-symptom,Is Cyclical Vomiting a disease?,Is vomiting a symptom?,Is vomiting a symptom of Cyclical Vomiting?
+Cyclical Vomiting,nausea,disease-symptom,Is Cyclical Vomiting a disease?,Is nausea a symptom?,Is nausea a symptom of Cyclical Vomiting?
+vomiting,Cyclical Vomiting,symptom-disease,Is vomiting a symptom?,Is Cyclical Vomiting a disease?,Is vomiting a symptom of Cyclical Vomiting?
+nausea,Cyclical Vomiting,symptom-disease,Is nausea a symptom?,Is Cyclical Vomiting a disease?,Is nausea a symptom of Cyclical Vomiting?
+steroid cream,skin condition,drug-disease,Is steroid cream a drug?,Is skin condition a disease?,Is steroid cream used to treat skin condition?
+skin condition,Redness,disease-symptom,Is skin condition a disease?,Is Redness a symptom?,Is Redness a symptom of skin condition?
+skin condition,Itchiness,disease-symptom,Is skin condition a disease?,Is Itchiness a symptom?,Is Itchiness a symptom of skin condition?
+Itchiness,skin condition,symptom-disease,Is Itchiness a symptom?,Is skin condition a disease?,Is Itchiness a symptom of skin condition?
+Redness,skin condition,symptom-disease,Is Redness a symptom?,Is skin condition a disease?,Is Redness a symptom of skin condition?
+allergic reactions,itchy,disease-symptom,Is allergic reactions a disease?,Is itchy a symptom?,Is itchy a symptom of allergic reactions?
+bronchitis,antibiotics,drug-disease,Is bronchitis a drug?,Is antibiotics a disease?,Is bronchitis used to treat antibiotics?
+Sulfa Drugs,allergic reactions,drug-disease,Is Sulfa Drugs a drug?,Is allergic reactions a disease?,Is Sulfa Drugs used to treat allergic reactions?
+Crohn's disease,pain,disease-symptom,Is Crohn's disease a disease?,Is pain a symptom?,Is pain a symptom of Crohn's disease?
+Endometriosis,pain,disease-symptom,Is Endometriosis a disease?,Is pain a symptom?,Is pain a symptom of Endometriosis?
+seronegative rheumatoid arthritis,joints problem,disease-symptom,Is seronegative rheumatoid arthritis a disease?,Is joints problem a symptom?,Is joints problem a symptom of seronegative rheumatoid arthritis?
+mosquito bites,itchy,disease-symptom,Is mosquito bites a disease?,Is itchy a symptom?,Is itchy a symptom of mosquito bites?
+Betamethasone,Skin lesions,drug-disease,Is Betamethasone a drug?,Is Skin lesions a disease?,Is Betamethasone used to treat Skin lesions?
+Skin lesions,itchy,disease-symptom,Is Skin lesions a disease?,Is itchy a symptom?,Is itchy a symptom of Skin lesions?
+Skin lesions,bleed,disease-symptom,Is Skin lesions a disease?,Is bleed a symptom?,Is bleed a symptom of Skin lesions?
+rabies vaccine,rabies,drug-disease,Is rabies vaccine a drug?,Is rabies a disease?,Is rabies vaccine used to treat rabies?
+hantaviruses,fever,disease-symptom,Is hantaviruses a disease?,Is fever a symptom?,Is fever a symptom of hantaviruses?
+hantaviruses,fatigue,disease-symptom,Is hantaviruses a disease?,Is fatigue a symptom?,Is fatigue a symptom of hantaviruses?
+hantaviruses,muscle aches,disease-symptom,Is hantaviruses a disease?,Is muscle aches a symptom?,Is muscle aches a symptom of hantaviruses?
+hantaviruses,shortness of breath,disease-symptom,Is hantaviruses a disease?,Is shortness of breath a symptom?,Is shortness of breath a symptom of hantaviruses?
+hemorrhoid,blood,disease-symptom,Is hemorrhoid a disease?,Is blood a symptom?,Is blood a symptom of hemorrhoid?
+Adderall,ADHD,drug-disease,Is Adderall a drug?,Is ADHD a disease?,Is Adderall used to treat ADHD?
+Wellbutrin,depression,drug-disease,Is Wellbutrin a drug?,Is depression a disease?,Is Wellbutrin used to treat depression?
+famotidine,GERD,drug-disease,Is famotidine a drug?,Is GERD a disease?,Is famotidine used to treat GERD?
+untreated hypothyroidism,fatigue,disease-symptom,Is untreated hypothyroidism a disease?,Is fatigue a symptom?,Is fatigue a symptom of untreated hypothyroidism?
+anxiety,fatigue,disease-symptom,Is anxiety a disease?,Is fatigue a symptom?,Is fatigue a symptom of anxiety?
+asthma,shortness of breath,disease-symptom,Is asthma a disease?,Is shortness of breath a symptom?,Is shortness of breath a symptom of asthma?
+anxiety,chest thumpy feelings,disease-symptom,Is anxiety a disease?,Is chest thumpy feelings a symptom?,Is chest thumpy feelings a symptom of anxiety?
+Amoxicillin-Pot Clavulanate,wound infection,drug-disease,Is Amoxicillin-Pot Clavulanate a drug?,Is wound infection a disease?,Is Amoxicillin-Pot Clavulanate used to treat wound infection?
+red streak,wound infection,symptom-disease,Is red streak a symptom?,Is wound infection a disease?,Is red streak a symptom of wound infection?
+fever,wound infection,symptom-disease,Is fever a symptom?,Is wound infection a disease?,Is fever a symptom of wound infection?
+nausea,wound infection,symptom-disease,Is nausea a symptom?,Is wound infection a disease?,Is nausea a symptom of wound infection?
+chemo/radiation,cancer,drug-disease,Is chemo/radiation a drug?,Is cancer a disease?,Is chemo/radiation used to treat cancer?
+pulmonary tuberculosis,loss of appetite,disease-symptom,Is pulmonary tuberculosis a disease?,Is loss of appetite a symptom?,Is loss of appetite a symptom of pulmonary tuberculosis?
+pulmonary tuberculosis,weight loss,disease-symptom,Is pulmonary tuberculosis a disease?,Is weight loss a symptom?,Is weight loss a symptom of pulmonary tuberculosis?
+pulmonary tuberculosis,tired,disease-symptom,Is pulmonary tuberculosis a disease?,Is tired a symptom?,Is tired a symptom of pulmonary tuberculosis?
+pulmonary tuberculosis,cough,disease-symptom,Is pulmonary tuberculosis a disease?,Is cough a symptom?,Is cough a symptom of pulmonary tuberculosis?
+pulmonary tuberculosis,blood,disease-symptom,Is pulmonary tuberculosis a disease?,Is blood a symptom?,Is blood a symptom of pulmonary tuberculosis?
+pulmonary tuberculosis,night sweats,disease-symptom,Is pulmonary tuberculosis a disease?,Is night sweats a symptom?,Is night sweats a symptom of pulmonary tuberculosis?
+Finasteride,Androgenic Alopecia,drug-disease,Is Finasteride a drug?,Is Androgenic Alopecia a disease?,Is Finasteride used to treat Androgenic Alopecia?
+Finasteride,erectile dysfunction,drug-disease,Is Finasteride a drug?,Is erectile dysfunction a disease?,Is Finasteride used to treat erectile dysfunction?
+Cellulitis infection,fever,disease-symptom,Is Cellulitis infection a disease?,Is fever a symptom?,Is fever a symptom of Cellulitis infection?
+Cellulitis infection,ankle swelling,disease-symptom,Is Cellulitis infection a disease?,Is ankle swelling a symptom?,Is ankle swelling a symptom of Cellulitis infection?
+Cellulitis infection,redness,disease-symptom,Is Cellulitis infection a disease?,Is redness a symptom?,Is redness a symptom of Cellulitis infection?
+Cellulitis infection,pain,disease-symptom,Is Cellulitis infection a disease?,Is pain a symptom?,Is pain a symptom of Cellulitis infection?
+Paracetamol,fever,drug-disease,Is Paracetamol a drug?,Is fever a disease?,Is Paracetamol used to treat fever?
+low magnesium,twitchy muscles,disease-symptom,Is low magnesium a disease?,Is twitchy muscles a symptom?,Is twitchy muscles a symptom of low magnesium?
+low magnesium,hair loss,disease-symptom,Is low magnesium a disease?,Is hair loss a symptom?,Is hair loss a symptom of low magnesium?
+low magnesium,anxiety,disease-symptom,Is low magnesium a disease?,Is anxiety a symptom?,Is anxiety a symptom of low magnesium?
+low magnesium,mental fatigue,disease-symptom,Is low magnesium a disease?,Is mental fatigue a symptom?,Is mental fatigue a symptom of low magnesium?
+Allergic reaction,Rash keeps,disease-symptom,Is Allergic reaction a disease?,Is Rash keeps a symptom?,Is Rash keeps a symptom of Allergic reaction?
+Multiple sclerosis,muscle aches,disease-symptom,Is Multiple sclerosis a disease?,Is muscle aches a symptom?,Is muscle aches a symptom of Multiple sclerosis?
+Miscarriage,Missing Period,disease-symptom,Is Miscarriage a disease?,Is Missing Period a symptom?,Is Missing Period a symptom of Miscarriage?
+Lamictal,Bipolar 2,drug-disease,Is Lamictal a drug?,Is Bipolar 2 a disease?,Is Lamictal used to treat Bipolar 2?
+blood cancers,night sweats,disease-symptom,Is blood cancers a disease?,Is night sweats a symptom?,Is night sweats a symptom of blood cancers?
+blood cancers,weight loss,disease-symptom,Is blood cancers a disease?,Is weight loss a symptom?,Is weight loss a symptom of blood cancers?
+blood cancers,fatigue,disease-symptom,Is blood cancers a disease?,Is fatigue a symptom?,Is fatigue a symptom of blood cancers?
+Abdominal Aorta Aneurysm,throbbing/pulsing,disease-symptom,Is Abdominal Aorta Aneurysm a disease?,Is throbbing/pulsing a symptom?,Is throbbing/pulsing a symptom of Abdominal Aorta Aneurysm?
+Abdominal Aorta Aneurysm,pain,disease-symptom,Is Abdominal Aorta Aneurysm a disease?,Is pain a symptom?,Is pain a symptom of Abdominal Aorta Aneurysm?
+dermatitis,dry,disease-symptom,Is dermatitis a disease?,Is dry a symptom?,Is dry a symptom of dermatitis?
+dermatitis,flaky,disease-symptom,Is dermatitis a disease?,Is flaky a symptom?,Is flaky a symptom of dermatitis?
+dermatitis,red flush,disease-symptom,Is dermatitis a disease?,Is red flush a symptom?,Is red flush a symptom of dermatitis?
+acne spots,acne,symptom-disease,Is acne spots a symptom?,Is acne a disease?,Is acne spots a symptom of acne?
+pimple-like spots,acne,symptom-disease,Is pimple-like spots a symptom?,Is acne a disease?,Is pimple-like spots a symptom of acne?
+BPPV,vertigo,disease-symptom,Is BPPV a disease?,Is vertigo a symptom?,Is vertigo a symptom of BPPV?
+vertigo,BPPV,symptom-disease,Is vertigo a symptom?,Is BPPV a disease?,Is vertigo a symptom of BPPV?
+gastroparesis,abnormally low glucose,disease-symptom,Is gastroparesis a disease?,Is abnormally low glucose a symptom?,Is abnormally low glucose a symptom of gastroparesis?
+gastroparesis,abnormally high glucose,disease-symptom,Is gastroparesis a disease?,Is abnormally high glucose a symptom?,Is abnormally high glucose a symptom of gastroparesis?
+glucagon,abnormally low glucose,drug-disease,Is glucagon a drug?,Is abnormally low glucose a disease?,Is glucagon used to treat abnormally low glucose?
+SOD,abdominal pain,disease-symptom,Is SOD a disease?,Is abdominal pain a symptom?,Is abdominal pain a symptom of SOD?
+attack,SOD,symptom-disease,Is attack a symptom?,Is SOD a disease?,Is attack a symptom of SOD?
+IBS-D,loose stools,disease-symptom,Is IBS-D a disease?,Is loose stools a symptom?,Is loose stools a symptom of IBS-D?
+IBS,abdominal pain,disease-symptom,Is IBS a disease?,Is abdominal pain a symptom?,Is abdominal pain a symptom of IBS?
+citalopram,anxiety,drug-disease,Is citalopram a drug?,Is anxiety a disease?,Is citalopram used to treat anxiety?
+POTS,vertigo,disease-symptom,Is POTS a disease?,Is vertigo a symptom?,Is vertigo a symptom of POTS?
+POTS,dizziness,disease-symptom,Is POTS a disease?,Is dizziness a symptom?,Is dizziness a symptom of POTS?
+POTS,tachycardia,disease-symptom,Is POTS a disease?,Is tachycardia a symptom?,Is tachycardia a symptom of POTS?
+low blood pressure,dizziness,disease-symptom,Is low blood pressure a disease?,Is dizziness a symptom?,Is dizziness a symptom of low blood pressure?
+low blood pressure,vertigo,disease-symptom,Is low blood pressure a disease?,Is vertigo a symptom?,Is vertigo a symptom of low blood pressure?
+sodium tablets,POTS,drug-disease,Is sodium tablets a drug?,Is POTS a disease?,Is sodium tablets used to treat POTS?
+anxiety,dizziness,disease-symptom,Is anxiety a disease?,Is dizziness a symptom?,Is dizziness a symptom of anxiety?
+tachycardia,POTS,symptom-disease,Is tachycardia a symptom?,Is POTS a disease?,Is tachycardia a symptom of POTS?
+Tuberous sclerosis,seizures,disease-symptom,Is Tuberous sclerosis a disease?,Is seizures a symptom?,Is seizures a symptom of Tuberous sclerosis?
+autism,making own words,disease-symptom,Is autism a disease?,Is making own words a symptom?,Is making own words a symptom of autism?
+anxiety,heart races,disease-symptom,Is anxiety a disease?,Is heart races a symptom?,Is heart races a symptom of anxiety?
+Sunburn,swollen,disease-symptom,Is Sunburn a disease?,Is swollen a symptom?,Is swollen a symptom of Sunburn?
+Low magnesium,cramp,disease-symptom,Is Low magnesium a disease?,Is cramp a symptom?,Is cramp a symptom of Low magnesium?
+Low potassium,cramp,disease-symptom,Is Low potassium a disease?,Is cramp a symptom?,Is cramp a symptom of Low potassium?
+depression,suicidal,disease-symptom,Is depression a disease?,Is suicidal a symptom?,Is suicidal a symptom of depression?
+prozac,depression,drug-disease,Is prozac a drug?,Is depression a disease?,Is prozac used to treat depression?
+wellbutrin,depression,drug-disease,Is wellbutrin a drug?,Is depression a disease?,Is wellbutrin used to treat depression?
+risperidone,OCD,drug-disease,Is risperidone a drug?,Is OCD a disease?,Is risperidone used to treat OCD?
+Prednisone,Extreme Anxiety,drug-disease,Is Prednisone a drug?,Is Extreme Anxiety a disease?,Is Prednisone used to treat Extreme Anxiety?
+bupropion,MDD,drug-disease,Is bupropion a drug?,Is MDD a disease?,Is bupropion used to treat MDD?
+trazodone,insomnia,drug-disease,Is trazodone a drug?,Is insomnia a disease?,Is trazodone used to treat insomnia?
+hair loss,bupropion,drug-disease,Is hair loss a drug?,Is bupropion a disease?,Is hair loss used to treat bupropion?
+testosterone shots,low testosterone,drug-disease,Is testosterone shots a drug?,Is low testosterone a disease?,Is testosterone shots used to treat low testosterone?
+smoking,cancer,drug-disease,Is smoking a drug?,Is cancer a disease?,Is smoking used to treat cancer?
+cold,stuffy nose,disease-symptom,Is cold a disease?,Is stuffy nose a symptom?,Is stuffy nose a symptom of cold?
+stuffy nose,cold,symptom-disease,Is stuffy nose a symptom?,Is cold a disease?,Is stuffy nose a symptom of cold?
+Ventricular septal defect,murmur,disease-symptom,Is Ventricular septal defect a disease?,Is murmur a symptom?,Is murmur a symptom of Ventricular septal defect?
+type 2 diabetes,difficult to control blood sugar,disease-symptom,Is type 2 diabetes a disease?,Is difficult to control blood sugar a symptom?,Is difficult to control blood sugar a symptom of type 2 diabetes?
+eczema,nail deformity,disease-symptom,Is eczema a disease?,Is nail deformity a symptom?,Is nail deformity a symptom of eczema?
+Metoprolol,aortic valve insufficiency,drug-disease,Is Metoprolol a drug?,Is aortic valve insufficiency a disease?,Is Metoprolol used to treat aortic valve insufficiency?
+aortic valve insufficiency,tired,disease-symptom,Is aortic valve insufficiency a disease?,Is tired a symptom?,Is tired a symptom of aortic valve insufficiency?
+aortic valve insufficiency,dizziness,disease-symptom,Is aortic valve insufficiency a disease?,Is dizziness a symptom?,Is dizziness a symptom of aortic valve insufficiency?
+cold,sore throat,disease-symptom,Is cold a disease?,Is sore throat a symptom?,Is sore throat a symptom of cold?
+cold,tiredness,disease-symptom,Is cold a disease?,Is tiredness a symptom?,Is tiredness a symptom of cold?
+cold,weakness,disease-symptom,Is cold a disease?,Is weakness a symptom?,Is weakness a symptom of cold?
+carpal tunnel,numb hands,disease-symptom,Is carpal tunnel a disease?,Is numb hands a symptom?,Is numb hands a symptom of carpal tunnel?
+carpal tunnel,painful hands,disease-symptom,Is carpal tunnel a disease?,Is painful hands a symptom?,Is painful hands a symptom of carpal tunnel?
+carpal tunnel,weak hands,disease-symptom,Is carpal tunnel a disease?,Is weak hands a symptom?,Is weak hands a symptom of carpal tunnel?
+E. coli,diarrhea,disease-symptom,Is E. coli a disease?,Is diarrhea a symptom?,Is diarrhea a symptom of E. coli?
+E. coli,stomach cramps,disease-symptom,Is E. coli a disease?,Is stomach cramps a symptom?,Is stomach cramps a symptom of E. coli?
+prostate cancer,urinates frequently,disease-symptom,Is prostate cancer a disease?,Is urinates frequently a symptom?,Is urinates frequently a symptom of prostate cancer?
+Ganglion cyst,painful,disease-symptom,Is Ganglion cyst a disease?,Is painful a symptom?,Is painful a symptom of Ganglion cyst?
+subungal melanoma,freckle,disease-symptom,Is subungal melanoma a disease?,Is freckle a symptom?,Is freckle a symptom of subungal melanoma?
+lung cancer,chest pain,disease-symptom,Is lung cancer a disease?,Is chest pain a symptom?,Is chest pain a symptom of lung cancer?
+hypertension,palpitations,disease-symptom,Is hypertension a disease?,Is palpitations a symptom?,Is palpitations a symptom of hypertension?
+hypertension,nausea,disease-symptom,Is hypertension a disease?,Is nausea a symptom?,Is nausea a symptom of hypertension?
+anxiety,hyperventilating,disease-symptom,Is anxiety a disease?,Is hyperventilating a symptom?,Is hyperventilating a symptom of anxiety?
+anxiety,vomiting,disease-symptom,Is anxiety a disease?,Is vomiting a symptom?,Is vomiting a symptom of anxiety?
+thalassemia minor,microcytosis,disease-symptom,Is thalassemia minor a disease?,Is microcytosis a symptom?,Is microcytosis a symptom of thalassemia minor?
+thalassemia minor,anisocytosis,disease-symptom,Is thalassemia minor a disease?,Is anisocytosis a symptom?,Is anisocytosis a symptom of thalassemia minor?
+thalassemia minor,poikilocytosis,disease-symptom,Is thalassemia minor a disease?,Is poikilocytosis a symptom?,Is poikilocytosis a symptom of thalassemia minor?
+thalassemia minor,polychromasia,disease-symptom,Is thalassemia minor a disease?,Is polychromasia a symptom?,Is polychromasia a symptom of thalassemia minor?
+thalassemia minor,hypochromasia,disease-symptom,Is thalassemia minor a disease?,Is hypochromasia a symptom?,Is hypochromasia a symptom of thalassemia minor?
+iron overload,enlarged spleen,disease-symptom,Is iron overload a disease?,Is enlarged spleen a symptom?,Is enlarged spleen a symptom of iron overload?
+iron overload,liver damage,disease-symptom,Is iron overload a disease?,Is liver damage a symptom?,Is liver damage a symptom of iron overload?
+POTS,dizzy,disease-symptom,Is POTS a disease?,Is dizzy a symptom?,Is dizzy a symptom of POTS?
+Petechiae,thrombocytopenia,symptom-disease,Is Petechiae a symptom?,Is thrombocytopenia a disease?,Is Petechiae a symptom of thrombocytopenia?
+late stage liver failure,encephalopathy,disease-symptom,Is late stage liver failure a disease?,Is encephalopathy a symptom?,Is encephalopathy a symptom of late stage liver failure?
+encephalopathy,late stage liver failure,symptom-disease,Is encephalopathy a symptom?,Is late stage liver failure a disease?,Is encephalopathy a symptom of late stage liver failure?
+diabetes,pain,disease-symptom,Is diabetes a disease?,Is pain a symptom?,Is pain a symptom of diabetes?
+fibromyalgia,pain,disease-symptom,Is fibromyalgia a disease?,Is pain a symptom?,Is pain a symptom of fibromyalgia?
+Vertigo,dizzy,disease-symptom,Is Vertigo a disease?,Is dizzy a symptom?,Is dizzy a symptom of Vertigo?
+concussion,headaches,disease-symptom,Is concussion a disease?,Is headaches a symptom?,Is headaches a symptom of concussion?
+concussion,tired,disease-symptom,Is concussion a disease?,Is tired a symptom?,Is tired a symptom of concussion?
+concussion,can't sleep,disease-symptom,Is concussion a disease?,Is can't sleep a symptom?,Is can't sleep a symptom of concussion?
+Marfans,exceptionally tall,disease-symptom,Is Marfans a disease?,Is exceptionally tall a symptom?,Is exceptionally tall a symptom of Marfans?
+Marfans,hyperflexible joints,disease-symptom,Is Marfans a disease?,Is hyperflexible joints a symptom?,Is hyperflexible joints a symptom of Marfans?
+Marfans,indented chest,disease-symptom,Is Marfans a disease?,Is indented chest a symptom?,Is indented chest a symptom of Marfans?
+methamphetamine,hair loss,drug-disease,Is methamphetamine a drug?,Is hair loss a disease?,Is methamphetamine used to treat hair loss?
+telogen effluvium,hair loss,disease-symptom,Is telogen effluvium a disease?,Is hair loss a symptom?,Is hair loss a symptom of telogen effluvium?
+shedding hair,telogen effluvium,symptom-disease,Is shedding hair a symptom?,Is telogen effluvium a disease?,Is shedding hair a symptom of telogen effluvium?
+Metformin,Type 2 Diabetes,drug-disease,Is Metformin a drug?,Is Type 2 Diabetes a disease?,Is Metformin used to treat Type 2 Diabetes?
+Type 2 Diabetes,headaches,disease-symptom,Is Type 2 Diabetes a disease?,Is headaches a symptom?,Is headaches a symptom of Type 2 Diabetes?
+Severely Underactive Thyroid,tiredness,disease-symptom,Is Severely Underactive Thyroid a disease?,Is tiredness a symptom?,Is tiredness a symptom of Severely Underactive Thyroid?
+POTS,shortness of breath,disease-symptom,Is POTS a disease?,Is shortness of breath a symptom?,Is shortness of breath a symptom of POTS?
+POTS,heart rate skyrockets,disease-symptom,Is POTS a disease?,Is heart rate skyrockets a symptom?,Is heart rate skyrockets a symptom of POTS?
+anxiety,no appetite,disease-symptom,Is anxiety a disease?,Is no appetite a symptom?,Is no appetite a symptom of anxiety?
+Synthroid,subclinical hypothyroidism,drug-disease,Is Synthroid a drug?,Is subclinical hypothyroidism a disease?,Is Synthroid used to treat subclinical hypothyroidism?
+gestational diabetes,high fasting glucose,disease-symptom,Is gestational diabetes a disease?,Is high fasting glucose a symptom?,Is high fasting glucose a symptom of gestational diabetes?
+type 2 diabetes,high fasting glucose,disease-symptom,Is type 2 diabetes a disease?,Is high fasting glucose a symptom?,Is high fasting glucose a symptom of type 2 diabetes?
+doxycycline,cellulitis,drug-disease,Is doxycycline a drug?,Is cellulitis a disease?,Is doxycycline used to treat cellulitis?
+cellulitis,rash,disease-symptom,Is cellulitis a disease?,Is rash a symptom?,Is rash a symptom of cellulitis?
+cellulitis,fever,disease-symptom,Is cellulitis a disease?,Is fever a symptom?,Is fever a symptom of cellulitis?
+fever,infection,symptom-disease,Is fever a symptom?,Is infection a disease?,Is fever a symptom of infection?
+dry drowning,coughing,disease-symptom,Is dry drowning a disease?,Is coughing a symptom?,Is coughing a symptom of dry drowning?
+isopubic synchondrosis,limp,disease-symptom,Is isopubic synchondrosis a disease?,Is limp a symptom?,Is limp a symptom of isopubic synchondrosis?
+Vitamin D,low vitamin D level,drug-disease,Is Vitamin D a drug?,Is low vitamin D level a disease?,Is Vitamin D used to treat low vitamin D level?
+muscle endurance fatigue,low vitamin D level,symptom-disease,Is muscle endurance fatigue a symptom?,Is low vitamin D level a disease?,Is muscle endurance fatigue a symptom of low vitamin D level?
+Seasonal Affective Disorder,loss of energy,disease-symptom,Is Seasonal Affective Disorder a disease?,Is loss of energy a symptom?,Is loss of energy a symptom of Seasonal Affective Disorder?
+Seasonal Affective Disorder,low motivation,disease-symptom,Is Seasonal Affective Disorder a disease?,Is low motivation a symptom?,Is low motivation a symptom of Seasonal Affective Disorder?
+flu,dull headache,disease-symptom,Is flu a disease?,Is dull headache a symptom?,Is dull headache a symptom of flu?
+brain tumor,headache,disease-symptom,Is brain tumor a disease?,Is headache a symptom?,Is headache a symptom of brain tumor?
+antibiotics,infection,drug-disease,Is antibiotics a drug?,Is infection a disease?,Is antibiotics used to treat infection?
+Nysta,Oral thrush,drug-disease,Is Nysta a drug?,Is Oral thrush a disease?,Is Nysta used to treat Oral thrush?
+Oral thrush,white tongue,disease-symptom,Is Oral thrush a disease?,Is white tongue a symptom?,Is white tongue a symptom of Oral thrush?
+Oral thrush,swollen tongue,disease-symptom,Is Oral thrush a disease?,Is swollen tongue a symptom?,Is swollen tongue a symptom of Oral thrush?
+cellulitis,sore,disease-symptom,Is cellulitis a disease?,Is sore a symptom?,Is sore a symptom of cellulitis?
+cellulitis,redness,disease-symptom,Is cellulitis a disease?,Is redness a symptom?,Is redness a symptom of cellulitis?
+antibiotics,cellulitis,drug-disease,Is antibiotics a drug?,Is cellulitis a disease?,Is antibiotics used to treat cellulitis?
+Propranolol,essential tremor,drug-disease,Is Propranolol a drug?,Is essential tremor a disease?,Is Propranolol used to treat essential tremor?
+essential tremor,tremor,disease-symptom,Is essential tremor a disease?,Is tremor a symptom?,Is tremor a symptom of essential tremor?
+tremor,essential tremor,symptom-disease,Is tremor a symptom?,Is essential tremor a disease?,Is tremor a symptom of essential tremor?
+diarrhea,liquid stool,disease-symptom,Is diarrhea a disease?,Is liquid stool a symptom?,Is liquid stool a symptom of diarrhea?
+multiple sclerosis,chronic constipation,disease-symptom,Is multiple sclerosis a disease?,Is chronic constipation a symptom?,Is chronic constipation a symptom of multiple sclerosis?
+Linzess,chronic constipation,drug-disease,Is Linzess a drug?,Is chronic constipation a disease?,Is Linzess used to treat chronic constipation?
+rabies vaccination,rabies,drug-disease,Is rabies vaccination a drug?,Is rabies a disease?,Is rabies vaccination used to treat rabies?
+Luvox,depression,drug-disease,Is Luvox a drug?,Is depression a disease?,Is Luvox used to treat depression?
+broken bone,throbbing,disease-symptom,Is broken bone a disease?,Is throbbing a symptom?,Is throbbing a symptom of broken bone?
+PEP,HIV,drug-disease,Is PEP a drug?,Is HIV a disease?,Is PEP used to treat HIV?
+Torn Ankle,pain,disease-symptom,Is Torn Ankle a disease?,Is pain a symptom?,Is pain a symptom of Torn Ankle?
+antibiotics,giardia,drug-disease,Is antibiotics a drug?,Is giardia a disease?,Is antibiotics used to treat giardia?
+alcoholic,withdrawals,disease-symptom,Is alcoholic a disease?,Is withdrawals a symptom?,Is withdrawals a symptom of alcoholic?
+withdrawals,alcoholic,symptom-disease,Is withdrawals a symptom?,Is alcoholic a disease?,Is withdrawals a symptom of alcoholic?
+heat exhaustion,sweating,disease-symptom,Is heat exhaustion a disease?,Is sweating a symptom?,Is sweating a symptom of heat exhaustion?
+anxiety,chest pain daily,disease-symptom,Is anxiety a disease?,Is chest pain daily a symptom?,Is chest pain daily a symptom of anxiety?
+enalapril,blood pressure,drug-disease,Is enalapril a drug?,Is blood pressure a disease?,Is enalapril used to treat blood pressure?
+Polycystic kidney disease,pain,disease-symptom,Is Polycystic kidney disease a disease?,Is pain a symptom?,Is pain a symptom of Polycystic kidney disease?
+muscle strain,chest pain,disease-symptom,Is muscle strain a disease?,Is chest pain a symptom?,Is chest pain a symptom of muscle strain?
+chest pain,cardiac/respiratory issues,symptom-disease,Is chest pain a symptom?,Is cardiac/respiratory issues a disease?,Is chest pain a symptom of cardiac/respiratory issues?
+Reynaud syndrome,cold fingers,disease-symptom,Is Reynaud syndrome a disease?,Is cold fingers a symptom?,Is cold fingers a symptom of Reynaud syndrome?
+kidney injury,dark urine,disease-symptom,Is kidney injury a disease?,Is dark urine a symptom?,Is dark urine a symptom of kidney injury?
+rhabdomyolysis,muscle pain,disease-symptom,Is rhabdomyolysis a disease?,Is muscle pain a symptom?,Is muscle pain a symptom of rhabdomyolysis?
+rhabdomyolysis,weakness,disease-symptom,Is rhabdomyolysis a disease?,Is weakness a symptom?,Is weakness a symptom of rhabdomyolysis?
+blister,puffy squishy,disease-symptom,Is blister a disease?,Is puffy squishy a symptom?,Is puffy squishy a symptom of blister?
+Pepsid,heartburn,drug-disease,Is Pepsid a drug?,Is heartburn a disease?,Is Pepsid used to treat heartburn?
+ectopic heartbeat,bizarre heartbeat,disease-symptom,Is ectopic heartbeat a disease?,Is bizarre heartbeat a symptom?,Is bizarre heartbeat a symptom of ectopic heartbeat?
+teatree oil,rash,drug-disease,Is teatree oil a drug?,Is rash a disease?,Is teatree oil used to treat rash?
+asthma,wheezing,disease-symptom,Is asthma a disease?,Is wheezing a symptom?,Is wheezing a symptom of asthma?
+tachycardia,Pots,symptom-disease,Is tachycardia a symptom?,Is Pots a disease?,Is tachycardia a symptom of Pots?
+tachycardia,Anxiety,symptom-disease,Is tachycardia a symptom?,Is Anxiety a disease?,Is tachycardia a symptom of Anxiety?
+Diazepam,Anxiety,drug-disease,Is Diazepam a drug?,Is Anxiety a disease?,Is Diazepam used to treat Anxiety?
+Levothyroxine,Hashimotos hypothyroidism,drug-disease,Is Levothyroxine a drug?,Is Hashimotos hypothyroidism a disease?,Is Levothyroxine used to treat Hashimotos hypothyroidism?
+diabetes,frequent urination,disease-symptom,Is diabetes a disease?,Is frequent urination a symptom?,Is frequent urination a symptom of diabetes?
+diabetes,increased thirst,disease-symptom,Is diabetes a disease?,Is increased thirst a symptom?,Is increased thirst a symptom of diabetes?
+diabetes,itchy skin,disease-symptom,Is diabetes a disease?,Is itchy skin a symptom?,Is itchy skin a symptom of diabetes?
+Mirikizumab,psoriasis,drug-disease,Is Mirikizumab a drug?,Is psoriasis a disease?,Is Mirikizumab used to treat psoriasis?
+Cefalexin,osteomyelitis,drug-disease,Is Cefalexin a drug?,Is osteomyelitis a disease?,Is Cefalexin used to treat osteomyelitis?
+Perindopril/Amlodopine,high blood pressure,drug-disease,Is Perindopril/Amlodopine a drug?,Is high blood pressure a disease?,Is Perindopril/Amlodopine used to treat high blood pressure?
+hydralazine hydrochloride,high blood pressure,drug-disease,Is hydralazine hydrochloride a drug?,Is high blood pressure a disease?,Is hydralazine hydrochloride used to treat high blood pressure?
+indapamide hemihydrate,high blood pressure,drug-disease,Is indapamide hemihydrate a drug?,Is high blood pressure a disease?,Is indapamide hemihydrate used to treat high blood pressure?
+Pityriasis Rosea,flat rash,disease-symptom,Is Pityriasis Rosea a disease?,Is flat rash a symptom?,Is flat rash a symptom of Pityriasis Rosea?
+Pityriasis Rosea,reddish rash,disease-symptom,Is Pityriasis Rosea a disease?,Is reddish rash a symptom?,Is reddish rash a symptom of Pityriasis Rosea?
+cephalexin,kidney infection,drug-disease,Is cephalexin a drug?,Is kidney infection a disease?,Is cephalexin used to treat kidney infection?
+kidney infection,malaise,disease-symptom,Is kidney infection a disease?,Is malaise a symptom?,Is malaise a symptom of kidney infection?
+kidney infection,dizziness,disease-symptom,Is kidney infection a disease?,Is dizziness a symptom?,Is dizziness a symptom of kidney infection?
+kidney infection,nausea,disease-symptom,Is kidney infection a disease?,Is nausea a symptom?,Is nausea a symptom of kidney infection?
+kidney infection,hot flashes,disease-symptom,Is kidney infection a disease?,Is hot flashes a symptom?,Is hot flashes a symptom of kidney infection?
+kidney infection,pain,disease-symptom,Is kidney infection a disease?,Is pain a symptom?,Is pain a symptom of kidney infection?
+azithromycin,nodular acne,drug-disease,Is azithromycin a drug?,Is nodular acne a disease?,Is azithromycin used to treat nodular acne?
+isotretinoin,nodular acne,drug-disease,Is isotretinoin a drug?,Is nodular acne a disease?,Is isotretinoin used to treat nodular acne?
+abscess,pus,disease-symptom,Is abscess a disease?,Is pus a symptom?,Is pus a symptom of abscess?
+ear infection,sharp pain,disease-symptom,Is ear infection a disease?,Is sharp pain a symptom?,Is sharp pain a symptom of ear infection?
+ear infection drops,ear infection,drug-disease,Is ear infection drops a drug?,Is ear infection a disease?,Is ear infection drops used to treat ear infection?
+Amoxicillin,otitis media,drug-disease,Is Amoxicillin a drug?,Is otitis media a disease?,Is Amoxicillin used to treat otitis media?
+otitis media,muffled feeling,disease-symptom,Is otitis media a disease?,Is muffled feeling a symptom?,Is muffled feeling a symptom of otitis media?
+otitis media,tinnitus,disease-symptom,Is otitis media a disease?,Is tinnitus a symptom?,Is tinnitus a symptom of otitis media?
+ear infection,ear fullness,disease-symptom,Is ear infection a disease?,Is ear fullness a symptom?,Is ear fullness a symptom of ear infection?
+ear infection,muffled feeling,disease-symptom,Is ear infection a disease?,Is muffled feeling a symptom?,Is muffled feeling a symptom of ear infection?
+ear infection,tinnitus,disease-symptom,Is ear infection a disease?,Is tinnitus a symptom?,Is tinnitus a symptom of ear infection?
+intussusception,stomach pain,disease-symptom,Is intussusception a disease?,Is stomach pain a symptom?,Is stomach pain a symptom of intussusception?
+sepsis,multiple organ failure,disease-symptom,Is sepsis a disease?,Is multiple organ failure a symptom?,Is multiple organ failure a symptom of sepsis?
+stomach pain,intussusception,symptom-disease,Is stomach pain a symptom?,Is intussusception a disease?,Is stomach pain a symptom of intussusception?
+Epigastric hernia,pain,disease-symptom,Is Epigastric hernia a disease?,Is pain a symptom?,Is pain a symptom of Epigastric hernia?
+antibiotics,strep throat,drug-disease,Is antibiotics a drug?,Is strep throat a disease?,Is antibiotics used to treat strep throat?
+strep throat,nasty look in throat,disease-symptom,Is strep throat a disease?,Is nasty look in throat a symptom?,Is nasty look in throat a symptom of strep throat?
+ingrown hair,itchiness,disease-symptom,Is ingrown hair a disease?,Is itchiness a symptom?,Is itchiness a symptom of ingrown hair?
+ingrown hair,extreme pain,disease-symptom,Is ingrown hair a disease?,Is extreme pain a symptom?,Is extreme pain a symptom of ingrown hair?
+ingrown/infected hair,red blotches,disease-symptom,Is ingrown/infected hair a disease?,Is red blotches a symptom?,Is red blotches a symptom of ingrown/infected hair?
+hydrocortisone,itchiness,drug-disease,Is hydrocortisone a drug?,Is itchiness a disease?,Is hydrocortisone used to treat itchiness?
+Neoparin,blood clots,drug-disease,Is Neoparin a drug?,Is blood clots a disease?,Is Neoparin used to treat blood clots?
+Strep throat,sore throat,disease-symptom,Is Strep throat a disease?,Is sore throat a symptom?,Is sore throat a symptom of Strep throat?
+Strep throat,difficulty swallowing,disease-symptom,Is Strep throat a disease?,Is difficulty swallowing a symptom?,Is difficulty swallowing a symptom of Strep throat?
+azithromycin,Strep throat,drug-disease,Is azithromycin a drug?,Is Strep throat a disease?,Is azithromycin used to treat Strep throat?
+urethritis,sharp pain,disease-symptom,Is urethritis a disease?,Is sharp pain a symptom?,Is sharp pain a symptom of urethritis?
+urethritis,discharge,disease-symptom,Is urethritis a disease?,Is discharge a symptom?,Is discharge a symptom of urethritis?
+sharp pain,urethritis,symptom-disease,Is sharp pain a symptom?,Is urethritis a disease?,Is sharp pain a symptom of urethritis?
+discharge,urethritis,symptom-disease,Is discharge a symptom?,Is urethritis a disease?,Is discharge a symptom of urethritis?
+labral tear,aching,disease-symptom,Is labral tear a disease?,Is aching a symptom?,Is aching a symptom of labral tear?
+osteoarthritis,grinding,disease-symptom,Is osteoarthritis a disease?,Is grinding a symptom?,Is grinding a symptom of osteoarthritis?
+osteoarthritis,popping noises,disease-symptom,Is osteoarthritis a disease?,Is popping noises a symptom?,Is popping noises a symptom of osteoarthritis?
+osteoarthritis,pain,disease-symptom,Is osteoarthritis a disease?,Is pain a symptom?,Is pain a symptom of osteoarthritis?
+steroid shot,osteoarthritis,drug-disease,Is steroid shot a drug?,Is osteoarthritis a disease?,Is steroid shot used to treat osteoarthritis?
+shock,sweating,disease-symptom,Is shock a disease?,Is sweating a symptom?,Is sweating a symptom of shock?
+Concerta,ADD,drug-disease,Is Concerta a drug?,Is ADD a disease?,Is Concerta used to treat ADD?
+diaphragmatic rupture,difficulty breathing,disease-symptom,Is diaphragmatic rupture a disease?,Is difficulty breathing a symptom?,Is difficulty breathing a symptom of diaphragmatic rupture?
+melanoma,Small black line,disease-symptom,Is melanoma a disease?,Is Small black line a symptom?,Is Small black line a symptom of melanoma?
+ostheoarthrosis,knee pain,disease-symptom,Is ostheoarthrosis a disease?,Is knee pain a symptom?,Is knee pain a symptom of ostheoarthrosis?
+Lymphoma,swollen lymph nodes,disease-symptom,Is Lymphoma a disease?,Is swollen lymph nodes a symptom?,Is swollen lymph nodes a symptom of Lymphoma?
+Lymphoma,malaise,disease-symptom,Is Lymphoma a disease?,Is malaise a symptom?,Is malaise a symptom of Lymphoma?
+Lymphoma,fatigue,disease-symptom,Is Lymphoma a disease?,Is fatigue a symptom?,Is fatigue a symptom of Lymphoma?
+major depressive disorder,delusions,disease-symptom,Is major depressive disorder a disease?,Is delusions a symptom?,Is delusions a symptom of major depressive disorder?
+generalized anxiety disorder,anxious,disease-symptom,Is generalized anxiety disorder a disease?,Is anxious a symptom?,Is anxious a symptom of generalized anxiety disorder?
+PTSD,anxiety,disease-symptom,Is PTSD a disease?,Is anxiety a symptom?,Is anxiety a symptom of PTSD?
+PTSD,fear,disease-symptom,Is PTSD a disease?,Is fear a symptom?,Is fear a symptom of PTSD?
+cold,rash,disease-symptom,Is cold a disease?,Is rash a symptom?,Is rash a symptom of cold?
+flu,rash,disease-symptom,Is flu a disease?,Is rash a symptom?,Is rash a symptom of flu?
+skin disease,itchy,disease-symptom,Is skin disease a disease?,Is itchy a symptom?,Is itchy a symptom of skin disease?
+herniated abdominal wall,abdominal bulge,disease-symptom,Is herniated abdominal wall a disease?,Is abdominal bulge a symptom?,Is abdominal bulge a symptom of herniated abdominal wall?
+gastric cancer,blood loss,disease-symptom,Is gastric cancer a disease?,Is blood loss a symptom?,Is blood loss a symptom of gastric cancer?
+gastric cancer,started vomiting,disease-symptom,Is gastric cancer a disease?,Is started vomiting a symptom?,Is started vomiting a symptom of gastric cancer?
+Cephalexin,UTI,drug-disease,Is Cephalexin a drug?,Is UTI a disease?,Is Cephalexin used to treat UTI?
+gallstones,pain,disease-symptom,Is gallstones a disease?,Is pain a symptom?,Is pain a symptom of gallstones?
+acid reflux,indigestion,disease-symptom,Is acid reflux a disease?,Is indigestion a symptom?,Is indigestion a symptom of acid reflux?
+pain,gallstones,symptom-disease,Is pain a symptom?,Is gallstones a disease?,Is pain a symptom of gallstones?
+Dalacin,staph infection,drug-disease,Is Dalacin a drug?,Is staph infection a disease?,Is Dalacin used to treat staph infection?
+staph infection,red dots,disease-symptom,Is staph infection a disease?,Is red dots a symptom?,Is red dots a symptom of staph infection?
+staph infection,Wounds,disease-symptom,Is staph infection a disease?,Is Wounds a symptom?,Is Wounds a symptom of staph infection?
+Liver Haemongioma,bloating,disease-symptom,Is Liver Haemongioma a disease?,Is bloating a symptom?,Is bloating a symptom of Liver Haemongioma?
+Liver Haemongioma,pain,disease-symptom,Is Liver Haemongioma a disease?,Is pain a symptom?,Is pain a symptom of Liver Haemongioma?
+clindamycin,strep,drug-disease,Is clindamycin a drug?,Is strep a disease?,Is clindamycin used to treat strep?
+azithromycin,strep,drug-disease,Is azithromycin a drug?,Is strep a disease?,Is azithromycin used to treat strep?
+strep,sore throat,disease-symptom,Is strep a disease?,Is sore throat a symptom?,Is sore throat a symptom of strep?
+sore throat,strep,symptom-disease,Is sore throat a symptom?,Is strep a disease?,Is sore throat a symptom of strep?
+hemmorrhoid,bleeding,disease-symptom,Is hemmorrhoid a disease?,Is bleeding a symptom?,Is bleeding a symptom of hemmorrhoid?
+anemic,extreme fatigue,disease-symptom,Is anemic a disease?,Is extreme fatigue a symptom?,Is extreme fatigue a symptom of anemic?
+Propranolol,performance anxiety,drug-disease,Is Propranolol a drug?,Is performance anxiety a disease?,Is Propranolol used to treat performance anxiety?
+anxiety,fight or flight response,disease-symptom,Is anxiety a disease?,Is fight or flight response a symptom?,Is fight or flight response a symptom of anxiety?
+penicillin,Allergic reaction,drug-disease,Is penicillin a drug?,Is Allergic reaction a disease?,Is penicillin used to treat Allergic reaction?
+Allergic reaction,rash,disease-symptom,Is Allergic reaction a disease?,Is rash a symptom?,Is rash a symptom of Allergic reaction?
+rash,Allergic reaction,symptom-disease,Is rash a symptom?,Is Allergic reaction a disease?,Is rash a symptom of Allergic reaction?
+UTI,fever,disease-symptom,Is UTI a disease?,Is fever a symptom?,Is fever a symptom of UTI?
+UTI,lower back pain,disease-symptom,Is UTI a disease?,Is lower back pain a symptom?,Is lower back pain a symptom of UTI?
+amoxicillin,ear infections,drug-disease,Is amoxicillin a drug?,Is ear infections a disease?,Is amoxicillin used to treat ear infections?
+C. Diff,diarrhea,disease-symptom,Is C. Diff a disease?,Is diarrhea a symptom?,Is diarrhea a symptom of C. Diff?
+ear infections,swollen,disease-symptom,Is ear infections a disease?,Is swollen a symptom?,Is swollen a symptom of ear infections?
+lupus,photosensitive,disease-symptom,Is lupus a disease?,Is photosensitive a symptom?,Is photosensitive a symptom of lupus?
+hemmorhoids,tears,disease-symptom,Is hemmorhoids a disease?,Is tears a symptom?,Is tears a symptom of hemmorhoids?
+Lupus,rash,disease-symptom,Is Lupus a disease?,Is rash a symptom?,Is rash a symptom of Lupus?
+rash,Lupus,symptom-disease,Is rash a symptom?,Is Lupus a disease?,Is rash a symptom of Lupus?
+fever,mystery sickness,symptom-disease,Is fever a symptom?,Is mystery sickness a disease?,Is fever a symptom of mystery sickness?
+headache,mystery sickness,symptom-disease,Is headache a symptom?,Is mystery sickness a disease?,Is headache a symptom of mystery sickness?
+stupor,mystery sickness,symptom-disease,Is stupor a symptom?,Is mystery sickness a disease?,Is stupor a symptom of mystery sickness?
+body chills,mystery sickness,symptom-disease,Is body chills a symptom?,Is mystery sickness a disease?,Is body chills a symptom of mystery sickness?
+vertigo,mystery sickness,symptom-disease,Is vertigo a symptom?,Is mystery sickness a disease?,Is vertigo a symptom of mystery sickness?
+Tylenol,fever,drug-disease,Is Tylenol a drug?,Is fever a disease?,Is Tylenol used to treat fever?
+Tylenol,headache,drug-disease,Is Tylenol a drug?,Is headache a disease?,Is Tylenol used to treat headache?
+cancer,lump,disease-symptom,Is cancer a disease?,Is lump a symptom?,Is lump a symptom of cancer?
+cirrhosis,splenomegaly,disease-symptom,Is cirrhosis a disease?,Is splenomegaly a symptom?,Is splenomegaly a symptom of cirrhosis?
+small burn,pain,disease-symptom,Is small burn a disease?,Is pain a symptom?,Is pain a symptom of small burn?
+vertebral compression fracture,pain,disease-symptom,Is vertebral compression fracture a disease?,Is pain a symptom?,Is pain a symptom of vertebral compression fracture?
+anbesol liquid,ulcer,drug-disease,Is anbesol liquid a drug?,Is ulcer a disease?,Is anbesol liquid used to treat ulcer?
+ulcer,pain,disease-symptom,Is ulcer a disease?,Is pain a symptom?,Is pain a symptom of ulcer?
+depression,cutting,disease-symptom,Is depression a disease?,Is cutting a symptom?,Is cutting a symptom of depression?
+Midazolam,seizure,drug-disease,Is Midazolam a drug?,Is seizure a disease?,Is Midazolam used to treat seizure?
+edema,cardiac-type issues,symptom-disease,Is edema a symptom?,Is cardiac-type issues a disease?,Is edema a symptom of cardiac-type issues?
+cyanosis,cardiac-type issues,symptom-disease,Is cyanosis a symptom?,Is cardiac-type issues a disease?,Is cyanosis a symptom of cardiac-type issues?
+fatigue,cardiac-type issues,symptom-disease,Is fatigue a symptom?,Is cardiac-type issues a disease?,Is fatigue a symptom of cardiac-type issues?
+lightheadedness,cardiac-type issues,symptom-disease,Is lightheadedness a symptom?,Is cardiac-type issues a disease?,Is lightheadedness a symptom of cardiac-type issues?
+overactive bladder,urges,disease-symptom,Is overactive bladder a disease?,Is urges a symptom?,Is urges a symptom of overactive bladder?
+Venlafaxine,GAD,drug-disease,Is Venlafaxine a drug?,Is GAD a disease?,Is Venlafaxine used to treat GAD?
+Tramadol,fibromyalgia,drug-disease,Is Tramadol a drug?,Is fibromyalgia a disease?,Is Tramadol used to treat fibromyalgia?
+sleep apnea,fatigued,disease-symptom,Is sleep apnea a disease?,Is fatigued a symptom?,Is fatigued a symptom of sleep apnea?
+sleep apnea,daytime sleepiness,disease-symptom,Is sleep apnea a disease?,Is daytime sleepiness a symptom?,Is daytime sleepiness a symptom of sleep apnea?
+POTS,lightheadedness/dizzy spells,disease-symptom,Is POTS a disease?,Is lightheadedness/dizzy spells a symptom?,Is lightheadedness/dizzy spells a symptom of POTS?
+endometriosis,pain,disease-symptom,Is endometriosis a disease?,Is pain a symptom?,Is pain a symptom of endometriosis?
+cannabis hyperemesis syndrome,nausea,disease-symptom,Is cannabis hyperemesis syndrome a disease?,Is nausea a symptom?,Is nausea a symptom of cannabis hyperemesis syndrome?
+cannabis hyperemesis syndrome,dry heaving,disease-symptom,Is cannabis hyperemesis syndrome a disease?,Is dry heaving a symptom?,Is dry heaving a symptom of cannabis hyperemesis syndrome?
+zofran,nausea,drug-disease,Is zofran a drug?,Is nausea a disease?,Is zofran used to treat nausea?
+Omeprazole,ulcer,drug-disease,Is Omeprazole a drug?,Is ulcer a disease?,Is Omeprazole used to treat ulcer?
+IBS,diarrhea,disease-symptom,Is IBS a disease?,Is diarrhea a symptom?,Is diarrhea a symptom of IBS?
+PCOS,cysts,disease-symptom,Is PCOS a disease?,Is cysts a symptom?,Is cysts a symptom of PCOS?
+PCOS,testosterone elevation,disease-symptom,Is PCOS a disease?,Is testosterone elevation a symptom?,Is testosterone elevation a symptom of PCOS?
+PCOS,period absence,disease-symptom,Is PCOS a disease?,Is period absence a symptom?,Is period absence a symptom of PCOS?
+whiplash,stiff,disease-symptom,Is whiplash a disease?,Is stiff a symptom?,Is stiff a symptom of whiplash?
+whiplash,painful,disease-symptom,Is whiplash a disease?,Is painful a symptom?,Is painful a symptom of whiplash?
+bruising,smashed finger,symptom-disease,Is bruising a symptom?,Is smashed finger a disease?,Is bruising a symptom of smashed finger?
+swelling,smashed finger,symptom-disease,Is swelling a symptom?,Is smashed finger a disease?,Is swelling a symptom of smashed finger?
+pain,smashed finger,symptom-disease,Is pain a symptom?,Is smashed finger a disease?,Is pain a symptom of smashed finger?
+Brown Recluse Bite,dark red color,disease-symptom,Is Brown Recluse Bite a disease?,Is dark red color a symptom?,Is dark red color a symptom of Brown Recluse Bite?
+Brown Recluse Bite,scab,disease-symptom,Is Brown Recluse Bite a disease?,Is scab a symptom?,Is scab a symptom of Brown Recluse Bite?
+chest pain,heart attack,symptom-disease,Is chest pain a symptom?,Is heart attack a disease?,Is chest pain a symptom of heart attack?
+shortness of breath,heart failure,symptom-disease,Is shortness of breath a symptom?,Is heart failure a disease?,Is shortness of breath a symptom of heart failure?
+aspirin,heart attack,drug-disease,Is aspirin a drug?,Is heart attack a disease?,Is aspirin used to treat heart attack?
+infection,low WBC,disease-symptom,Is infection a disease?,Is low WBC a symptom?,Is low WBC a symptom of infection?
+Kidney infection,antibiotics,drug-disease,Is Kidney infection a drug?,Is antibiotics a disease?,Is Kidney infection used to treat antibiotics?
+Kidney infection,Fever,disease-symptom,Is Kidney infection a disease?,Is Fever a symptom?,Is Fever a symptom of Kidney infection?
+UTI,burning urination,disease-symptom,Is UTI a disease?,Is burning urination a symptom?,Is burning urination a symptom of UTI?
+UTI,pain,disease-symptom,Is UTI a disease?,Is pain a symptom?,Is pain a symptom of UTI?
+UTI,low grade fever,disease-symptom,Is UTI a disease?,Is low grade fever a symptom?,Is low grade fever a symptom of UTI?
+burning urination,UTI,symptom-disease,Is burning urination a symptom?,Is UTI a disease?,Is burning urination a symptom of UTI?
+pain,UTI,symptom-disease,Is pain a symptom?,Is UTI a disease?,Is pain a symptom of UTI?
+low grade fever,UTI,symptom-disease,Is low grade fever a symptom?,Is UTI a disease?,Is low grade fever a symptom of UTI?
+heart attack,chest pain,disease-symptom,Is heart attack a disease?,Is chest pain a symptom?,Is chest pain a symptom of heart attack?
+heart attack,jaw pain,disease-symptom,Is heart attack a disease?,Is jaw pain a symptom?,Is jaw pain a symptom of heart attack?
+chest pain,heart attack,symptom-disease,Is chest pain a symptom?,Is heart attack a disease?,Is chest pain a symptom of heart attack?
+jaw pain,heart attack,symptom-disease,Is jaw pain a symptom?,Is heart attack a disease?,Is jaw pain a symptom of heart attack?
+Humira,Crohn's disease,drug-disease,Is Humira a drug?,Is Crohn's disease a disease?,Is Humira used to treat Crohn's disease?
+Crohn's disease,mouth ulcers,disease-symptom,Is Crohn's disease a disease?,Is mouth ulcers a symptom?,Is mouth ulcers a symptom of Crohn's disease?
+Crohn's Disease,swollen lips,disease-symptom,Is Crohn's Disease a disease?,Is swollen lips a symptom?,Is swollen lips a symptom of Crohn's Disease?
+Orofacial Granulomatosis,swollen lips,disease-symptom,Is Orofacial Granulomatosis a disease?,Is swollen lips a symptom?,Is swollen lips a symptom of Orofacial Granulomatosis?
+Humira,Crohn's Disease,drug-disease,Is Humira a drug?,Is Crohn's Disease a disease?,Is Humira used to treat Crohn's Disease?
+Steroid injections,Orofacial Granulomatosis,drug-disease,Is Steroid injections a drug?,Is Orofacial Granulomatosis a disease?,Is Steroid injections used to treat Orofacial Granulomatosis?
+Antibiotics,Orofacial Granulomatosis,drug-disease,Is Antibiotics a drug?,Is Orofacial Granulomatosis a disease?,Is Antibiotics used to treat Orofacial Granulomatosis?
+pcos,cysts,disease-symptom,Is pcos a disease?,Is cysts a symptom?,Is cysts a symptom of pcos?
+metformin,pcos,drug-disease,Is metformin a drug?,Is pcos a disease?,Is metformin used to treat pcos?
+adderall,adhd,drug-disease,Is adderall a drug?,Is adhd a disease?,Is adderall used to treat adhd?
+xanax,anxiety,drug-disease,Is xanax a drug?,Is anxiety a disease?,Is xanax used to treat anxiety?
+rizatriptan,migraines,drug-disease,Is rizatriptan a drug?,Is migraines a disease?,Is rizatriptan used to treat migraines?
+metaxalone,back pain,drug-disease,Is metaxalone a drug?,Is back pain a disease?,Is metaxalone used to treat back pain?
+rash,itchy,disease-symptom,Is rash a disease?,Is itchy a symptom?,Is itchy a symptom of rash?
+anxiety,erection,disease-symptom,Is anxiety a disease?,Is erection a symptom?,Is erection a symptom of anxiety?
+radiculopathy,pain,disease-symptom,Is radiculopathy a disease?,Is pain a symptom?,Is pain a symptom of radiculopathy?
+radiculopathy,weakness,disease-symptom,Is radiculopathy a disease?,Is weakness a symptom?,Is weakness a symptom of radiculopathy?
+radiculopathy,numbness,disease-symptom,Is radiculopathy a disease?,Is numbness a symptom?,Is numbness a symptom of radiculopathy?
+myelopathy,exaggerated knee reflexes,disease-symptom,Is myelopathy a disease?,Is exaggerated knee reflexes a symptom?,Is exaggerated knee reflexes a symptom of myelopathy?
+pelvic cramps,cervical disease,symptom-disease,Is pelvic cramps a symptom?,Is cervical disease a disease?,Is pelvic cramps a symptom of cervical disease?
+random spotting,cervical disease,symptom-disease,Is random spotting a symptom?,Is cervical disease a disease?,Is random spotting a symptom of cervical disease?
+painful intercourse,cervical disease,symptom-disease,Is painful intercourse a symptom?,Is cervical disease a disease?,Is painful intercourse a symptom of cervical disease?
+tender cervix,cervical disease,symptom-disease,Is tender cervix a symptom?,Is cervical disease a disease?,Is tender cervix a symptom of cervical disease?
+tinnitus,ringing,disease-symptom,Is tinnitus a disease?,Is ringing a symptom?,Is ringing a symptom of tinnitus?
+Flu,fever,disease-symptom,Is Flu a disease?,Is fever a symptom?,Is fever a symptom of Flu?
+Flu,cough,disease-symptom,Is Flu a disease?,Is cough a symptom?,Is cough a symptom of Flu?
+Viral myositis,painful lower legs,disease-symptom,Is Viral myositis a disease?,Is painful lower legs a symptom?,Is painful lower legs a symptom of Viral myositis?
+Sertraline,depression,drug-disease,Is Sertraline a drug?,Is depression a disease?,Is Sertraline used to treat depression?
+sexual dysfunction,sexual fluid,disease-symptom,Is sexual dysfunction a disease?,Is sexual fluid a symptom?,Is sexual fluid a symptom of sexual dysfunction?
+Clotrimazole,jock itch,drug-disease,Is Clotrimazole a drug?,Is jock itch a disease?,Is Clotrimazole used to treat jock itch?
+depression,motivation issues,disease-symptom,Is depression a disease?,Is motivation issues a symptom?,Is motivation issues a symptom of depression?
+chemo,Hodgkin cancer,drug-disease,Is chemo a drug?,Is Hodgkin cancer a disease?,Is chemo used to treat Hodgkin cancer?
+steroids,allergic reactions,drug-disease,Is steroids a drug?,Is allergic reactions a disease?,Is steroids used to treat allergic reactions?
+allergic reactions,hives,disease-symptom,Is allergic reactions a disease?,Is hives a symptom?,Is hives a symptom of allergic reactions?
+allergic reactions,swelling,disease-symptom,Is allergic reactions a disease?,Is swelling a symptom?,Is swelling a symptom of allergic reactions?
+allergic reactions,tongue swells,disease-symptom,Is allergic reactions a disease?,Is tongue swells a symptom?,Is tongue swells a symptom of allergic reactions?
+allergic reactions,throat closed,disease-symptom,Is allergic reactions a disease?,Is throat closed a symptom?,Is throat closed a symptom of allergic reactions?
+seizure,lamotrigine,drug-disease,Is seizure a drug?,Is lamotrigine a disease?,Is seizure used to treat lamotrigine?
+hives,allergic reactions,symptom-disease,Is hives a symptom?,Is allergic reactions a disease?,Is hives a symptom of allergic reactions?
+drug,HBP,drug-disease,Is drug a drug?,Is HBP a disease?,Is drug used to treat HBP?
+Doxycycline,Hidradenitis Suppurativa,drug-disease,Is Doxycycline a drug?,Is Hidradenitis Suppurativa a disease?,Is Doxycycline used to treat Hidradenitis Suppurativa?
+Adalimumab,Hidradenitis Suppurativa,drug-disease,Is Adalimumab a drug?,Is Hidradenitis Suppurativa a disease?,Is Adalimumab used to treat Hidradenitis Suppurativa?
+flu,cough,disease-symptom,Is flu a disease?,Is cough a symptom?,Is cough a symptom of flu?
+dry cough,flu,symptom-disease,Is dry cough a symptom?,Is flu a disease?,Is dry cough a symptom of flu?
+heart arrhythmia,heart rate,disease-symptom,Is heart arrhythmia a disease?,Is heart rate a symptom?,Is heart rate a symptom of heart arrhythmia?
+infections,pain,disease-symptom,Is infections a disease?,Is pain a symptom?,Is pain a symptom of infections?
+corticosteroids,toxicity,drug-disease,Is corticosteroids a drug?,Is toxicity a disease?,Is corticosteroids used to treat toxicity?
+headaches,cervical spine spondylitic change,symptom-disease,Is headaches a symptom?,Is cervical spine spondylitic change a disease?,Is headaches a symptom of cervical spine spondylitic change?
+UTI,pain,disease-symptom,Is UTI a disease?,Is pain a symptom?,Is pain a symptom of UTI?
+kidney stone,pain,disease-symptom,Is kidney stone a disease?,Is pain a symptom?,Is pain a symptom of kidney stone?
+autonomic neuropathy,night sweats,disease-symptom,Is autonomic neuropathy a disease?,Is night sweats a symptom?,Is night sweats a symptom of autonomic neuropathy?
+pneumonia,haziness in lung,disease-symptom,Is pneumonia a disease?,Is haziness in lung a symptom?,Is haziness in lung a symptom of pneumonia?
+Risperidone,MDD,drug-disease,Is Risperidone a drug?,Is MDD a disease?,Is Risperidone used to treat MDD?
+Mirtazapine,MDD,drug-disease,Is Mirtazapine a drug?,Is MDD a disease?,Is Mirtazapine used to treat MDD?
+Hydroxyzine,GAD,drug-disease,Is Hydroxyzine a drug?,Is GAD a disease?,Is Hydroxyzine used to treat GAD?
+Seizures,convulsions,disease-symptom,Is Seizures a disease?,Is convulsions a symptom?,Is convulsions a symptom of Seizures?
+hep b vaccine,hep b,drug-disease,Is hep b vaccine a drug?,Is hep b a disease?,Is hep b vaccine used to treat hep b?
+pantoprazole,acid reflux,drug-disease,Is pantoprazole a drug?,Is acid reflux a disease?,Is pantoprazole used to treat acid reflux?
+acid reflux,chronic pharyngitis,disease-symptom,Is acid reflux a disease?,Is chronic pharyngitis a symptom?,Is chronic pharyngitis a symptom of acid reflux?
+GERD,cough,disease-symptom,Is GERD a disease?,Is cough a symptom?,Is cough a symptom of GERD?
+burn,painful,disease-symptom,Is burn a disease?,Is painful a symptom?,Is painful a symptom of burn?
+burn,swelling,disease-symptom,Is burn a disease?,Is swelling a symptom?,Is swelling a symptom of burn?
+bacterial meningitis,headache,disease-symptom,Is bacterial meningitis a disease?,Is headache a symptom?,Is headache a symptom of bacterial meningitis?
+bacterial meningitis,vomiting,disease-symptom,Is bacterial meningitis a disease?,Is vomiting a symptom?,Is vomiting a symptom of bacterial meningitis?
+headache,bacterial meningitis,symptom-disease,Is headache a symptom?,Is bacterial meningitis a disease?,Is headache a symptom of bacterial meningitis?
+vomiting,bacterial meningitis,symptom-disease,Is vomiting a symptom?,Is bacterial meningitis a disease?,Is vomiting a symptom of bacterial meningitis?
+ceftriaxone,bacterial meningitis,drug-disease,Is ceftriaxone a drug?,Is bacterial meningitis a disease?,Is ceftriaxone used to treat bacterial meningitis?
+multiple myeloma,pain,disease-symptom,Is multiple myeloma a disease?,Is pain a symptom?,Is pain a symptom of multiple myeloma?
+acid reflux,burning throat,disease-symptom,Is acid reflux a disease?,Is burning throat a symptom?,Is burning throat a symptom of acid reflux?
+high blood pressure,heart racing,disease-symptom,Is high blood pressure a disease?,Is heart racing a symptom?,Is heart racing a symptom of high blood pressure?
+vocal cord damage,voice gets hoarse,disease-symptom,Is vocal cord damage a disease?,Is voice gets hoarse a symptom?,Is voice gets hoarse a symptom of vocal cord damage?
+alcoholic,seizure,disease-symptom,Is alcoholic a disease?,Is seizure a symptom?,Is seizure a symptom of alcoholic?
+neurological condition,nerve pain,disease-symptom,Is neurological condition a disease?,Is nerve pain a symptom?,Is nerve pain a symptom of neurological condition?
+nerve pain,neurological condition,symptom-disease,Is nerve pain a symptom?,Is neurological condition a disease?,Is nerve pain a symptom of neurological condition?
+neurological condition,migraines,disease-symptom,Is neurological condition a disease?,Is migraines a symptom?,Is migraines a symptom of neurological condition?
+migraines,neurological condition,symptom-disease,Is migraines a symptom?,Is neurological condition a disease?,Is migraines a symptom of neurological condition?
+UTI,kidney pain,disease-symptom,Is UTI a disease?,Is kidney pain a symptom?,Is kidney pain a symptom of UTI?
+kidney infection,kidney pain,disease-symptom,Is kidney infection a disease?,Is kidney pain a symptom?,Is kidney pain a symptom of kidney infection?
+kidney cancer,kidney pain,disease-symptom,Is kidney cancer a disease?,Is kidney pain a symptom?,Is kidney pain a symptom of kidney cancer?
+Burning,UTI,symptom-disease,Is Burning a symptom?,Is UTI a disease?,Is Burning a symptom of UTI?
+nausea,kidney infection,symptom-disease,Is nausea a symptom?,Is kidney infection a disease?,Is nausea a symptom of kidney infection?
+ciprofloxacin,UTI,drug-disease,Is ciprofloxacin a drug?,Is UTI a disease?,Is ciprofloxacin used to treat UTI?
+prostatitis,urine,disease-symptom,Is prostatitis a disease?,Is urine a symptom?,Is urine a symptom of prostatitis?
+melanoma,mole,disease-symptom,Is melanoma a disease?,Is mole a symptom?,Is mole a symptom of melanoma?
+pneumonia,crackling,disease-symptom,Is pneumonia a disease?,Is crackling a symptom?,Is crackling a symptom of pneumonia?
+viral pneumonia,cough,disease-symptom,Is viral pneumonia a disease?,Is cough a symptom?,Is cough a symptom of viral pneumonia?
+fever,pneumonia,symptom-disease,Is fever a symptom?,Is pneumonia a disease?,Is fever a symptom of pneumonia?
+cough,pneumonia,symptom-disease,Is cough a symptom?,Is pneumonia a disease?,Is cough a symptom of pneumonia?
+Cellulitis,pain,disease-symptom,Is Cellulitis a disease?,Is pain a symptom?,Is pain a symptom of Cellulitis?
+Cellulitis,fever,disease-symptom,Is Cellulitis a disease?,Is fever a symptom?,Is fever a symptom of Cellulitis?
+sore,vulvitis,symptom-disease,Is sore a symptom?,Is vulvitis a disease?,Is sore a symptom of vulvitis?
+swollen vulva,vulvitis,symptom-disease,Is swollen vulva a symptom?,Is vulvitis a disease?,Is swollen vulva a symptom of vulvitis?
+pain,vulvitis,symptom-disease,Is pain a symptom?,Is vulvitis a disease?,Is pain a symptom of vulvitis?
+dermatitis,rash,disease-symptom,Is dermatitis a disease?,Is rash a symptom?,Is rash a symptom of dermatitis?
+escitalopram,GAD,drug-disease,Is escitalopram a drug?,Is GAD a disease?,Is escitalopram used to treat GAD?
+anterolisthesis,back pain,disease-symptom,Is anterolisthesis a disease?,Is back pain a symptom?,Is back pain a symptom of anterolisthesis?
+osteoarthritis,pain,disease-symptom,Is osteoarthritis a disease?,Is pain a symptom?,Is pain a symptom of osteoarthritis?
+nerve damage,constant nerve pain,disease-symptom,Is nerve damage a disease?,Is constant nerve pain a symptom?,Is constant nerve pain a symptom of nerve damage?
+fractures,pain,disease-symptom,Is fractures a disease?,Is pain a symptom?,Is pain a symptom of fractures?
+torn ligaments,pain,disease-symptom,Is torn ligaments a disease?,Is pain a symptom?,Is pain a symptom of torn ligaments?
+Progesterone only pill,continuous bleeding,drug-disease,Is Progesterone only pill a drug?,Is continuous bleeding a disease?,Is Progesterone only pill used to treat continuous bleeding?
+cramps,Progesterone only pill,drug-disease,Is cramps a drug?,Is Progesterone only pill a disease?,Is cramps used to treat Progesterone only pill?
+HIV,symptoms,disease-symptom,Is HIV a disease?,Is symptoms a symptom?,Is symptoms a symptom of HIV?
+iron deficiency anemia,low MCV,disease-symptom,Is iron deficiency anemia a disease?,Is low MCV a symptom?,Is low MCV a symptom of iron deficiency anemia?
+iron deficiency anemia,low MCH,disease-symptom,Is iron deficiency anemia a disease?,Is low MCH a symptom?,Is low MCH a symptom of iron deficiency anemia?
+iron deficiency anemia,low MCHC,disease-symptom,Is iron deficiency anemia a disease?,Is low MCHC a symptom?,Is low MCHC a symptom of iron deficiency anemia?
+iron deficiency anemia,high RDW,disease-symptom,Is iron deficiency anemia a disease?,Is high RDW a symptom?,Is high RDW a symptom of iron deficiency anemia?
+Fenofibrate,triglycerides,drug-disease,Is Fenofibrate a drug?,Is triglycerides a disease?,Is Fenofibrate used to treat triglycerides?
+Rosuvastatin,triglycerides,drug-disease,Is Rosuvastatin a drug?,Is triglycerides a disease?,Is Rosuvastatin used to treat triglycerides?
+Omega 3,triglycerides,drug-disease,Is Omega 3 a drug?,Is triglycerides a disease?,Is Omega 3 used to treat triglycerides?
+Triamcinolone,rash,drug-disease,Is Triamcinolone a drug?,Is rash a disease?,Is Triamcinolone used to treat rash?
+COVID,Rash,disease-symptom,Is COVID a disease?,Is Rash a symptom?,Is Rash a symptom of COVID?
+Rash,COVID,symptom-disease,Is Rash a symptom?,Is COVID a disease?,Is Rash a symptom of COVID?
+levothyroxine,hypothyroidism,drug-disease,Is levothyroxine a drug?,Is hypothyroidism a disease?,Is levothyroxine used to treat hypothyroidism?
+anemia,extreme fatigue,disease-symptom,Is anemia a disease?,Is extreme fatigue a symptom?,Is extreme fatigue a symptom of anemia?
+tachycardia,anemia,symptom-disease,Is tachycardia a symptom?,Is anemia a disease?,Is tachycardia a symptom of anemia?
+shortness of breath,anemia,symptom-disease,Is shortness of breath a symptom?,Is anemia a disease?,Is shortness of breath a symptom of anemia?
+Spiriva Respimat,Asthma,drug-disease,Is Spiriva Respimat a drug?,Is Asthma a disease?,Is Spiriva Respimat used to treat Asthma?
+Symbicort,Asthma,drug-disease,Is Symbicort a drug?,Is Asthma a disease?,Is Symbicort used to treat Asthma?
+Asthma,cough,disease-symptom,Is Asthma a disease?,Is cough a symptom?,Is cough a symptom of Asthma?
+Asthma,wheeze,disease-symptom,Is Asthma a disease?,Is wheeze a symptom?,Is wheeze a symptom of Asthma?
+Asthma,chest tightness,disease-symptom,Is Asthma a disease?,Is chest tightness a symptom?,Is chest tightness a symptom of Asthma?
+whiplash,neck pain,disease-symptom,Is whiplash a disease?,Is neck pain a symptom?,Is neck pain a symptom of whiplash?
+Nexplanon,anxiety,drug-disease,Is Nexplanon a drug?,Is anxiety a disease?,Is Nexplanon used to treat anxiety?
+ovarian cyst,pelvic pain,disease-symptom,Is ovarian cyst a disease?,Is pelvic pain a symptom?,Is pelvic pain a symptom of ovarian cyst?
+ovarian cyst,abdominal pain,disease-symptom,Is ovarian cyst a disease?,Is abdominal pain a symptom?,Is abdominal pain a symptom of ovarian cyst?
+PCOS,irregular periods,disease-symptom,Is PCOS a disease?,Is irregular periods a symptom?,Is irregular periods a symptom of PCOS?
+Pelvic Inflammatory Disease,pelvic pain,disease-symptom,Is Pelvic Inflammatory Disease a disease?,Is pelvic pain a symptom?,Is pelvic pain a symptom of Pelvic Inflammatory Disease?
+balanitis,itching,disease-symptom,Is balanitis a disease?,Is itching a symptom?,Is itching a symptom of balanitis?
+balanitis,inflaming,disease-symptom,Is balanitis a disease?,Is inflaming a symptom?,Is inflaming a symptom of balanitis?
+UTI,painful urination,disease-symptom,Is UTI a disease?,Is painful urination a symptom?,Is painful urination a symptom of UTI?
+UTI,blood in urine,disease-symptom,Is UTI a disease?,Is blood in urine a symptom?,Is blood in urine a symptom of UTI?
+UTI,frequency,disease-symptom,Is UTI a disease?,Is frequency a symptom?,Is frequency a symptom of UTI?
+painful urination,UTI,symptom-disease,Is painful urination a symptom?,Is UTI a disease?,Is painful urination a symptom of UTI?
+blood in urine,UTI,symptom-disease,Is blood in urine a symptom?,Is UTI a disease?,Is blood in urine a symptom of UTI?
+frequency,UTI,symptom-disease,Is frequency a symptom?,Is UTI a disease?,Is frequency a symptom of UTI?
+Duodenitis,Bloating/Discomfort,disease-symptom,Is Duodenitis a disease?,Is Bloating/Discomfort a symptom?,Is Bloating/Discomfort a symptom of Duodenitis?
+infection,painful,disease-symptom,Is infection a disease?,Is painful a symptom?,Is painful a symptom of infection?
+flu,muscle aches,disease-symptom,Is flu a disease?,Is muscle aches a symptom?,Is muscle aches a symptom of flu?
+flu,chills,disease-symptom,Is flu a disease?,Is chills a symptom?,Is chills a symptom of flu?
+COVID,shortness of breath,disease-symptom,Is COVID a disease?,Is shortness of breath a symptom?,Is shortness of breath a symptom of COVID?
+flu shot,side effects,drug-disease,Is flu shot a drug?,Is side effects a disease?,Is flu shot used to treat side effects?
+SOB,asthma,symptom-disease,Is SOB a symptom?,Is asthma a disease?,Is SOB a symptom of asthma?
+SOB,GERD,symptom-disease,Is SOB a symptom?,Is GERD a disease?,Is SOB a symptom of GERD?
+bilateral pneumothorax,shortness of breath,disease-symptom,Is bilateral pneumothorax a disease?,Is shortness of breath a symptom?,Is shortness of breath a symptom of bilateral pneumothorax?
+bilateral pneumothorax,chest pain,disease-symptom,Is bilateral pneumothorax a disease?,Is chest pain a symptom?,Is chest pain a symptom of bilateral pneumothorax?
+throat cancer,lump,disease-symptom,Is throat cancer a disease?,Is lump a symptom?,Is lump a symptom of throat cancer?
+oral cancer,white patch,disease-symptom,Is oral cancer a disease?,Is white patch a symptom?,Is white patch a symptom of oral cancer?
+nail fungus,thickened nail,disease-symptom,Is nail fungus a disease?,Is thickened nail a symptom?,Is thickened nail a symptom of nail fungus?
+Hypothyroidism,tired,disease-symptom,Is Hypothyroidism a disease?,Is tired a symptom?,Is tired a symptom of Hypothyroidism?
+Hypothyroidism,gaining weight,disease-symptom,Is Hypothyroidism a disease?,Is gaining weight a symptom?,Is gaining weight a symptom of Hypothyroidism?
+Hypothyroidism,dry skin,disease-symptom,Is Hypothyroidism a disease?,Is dry skin a symptom?,Is dry skin a symptom of Hypothyroidism?
+Hypothyroidism,constipation,disease-symptom,Is Hypothyroidism a disease?,Is constipation a symptom?,Is constipation a symptom of Hypothyroidism?
+Hypothyroidism,hair changes,disease-symptom,Is Hypothyroidism a disease?,Is hair changes a symptom?,Is hair changes a symptom of Hypothyroidism?
+Lupus (SLE),fatigue,disease-symptom,Is Lupus (SLE) a disease?,Is fatigue a symptom?,Is fatigue a symptom of Lupus (SLE)?
+chronic fatigue syndrome,fatigue,disease-symptom,Is chronic fatigue syndrome a disease?,Is fatigue a symptom?,Is fatigue a symptom of chronic fatigue syndrome?
+Mydayis,ADHD,drug-disease,Is Mydayis a drug?,Is ADHD a disease?,Is Mydayis used to treat ADHD?
+Wellbutrin,depression,drug-disease,Is Wellbutrin a drug?,Is depression a disease?,Is Wellbutrin used to treat depression?
+Adderall,ADHD,drug-disease,Is Adderall a drug?,Is ADHD a disease?,Is Adderall used to treat ADHD?
+Eustachian Tube Dysfunction,symptoms,disease-symptom,Is Eustachian Tube Dysfunction a disease?,Is symptoms a symptom?,Is symptoms a symptom of Eustachian Tube Dysfunction?
+fluconazole,thrush,drug-disease,Is fluconazole a drug?,Is thrush a disease?,Is fluconazole used to treat thrush?
+thrush,discharge,disease-symptom,Is thrush a disease?,Is discharge a symptom?,Is discharge a symptom of thrush?
+oral estradiol,blood clotting,drug-disease,Is oral estradiol a drug?,Is blood clotting a disease?,Is oral estradiol used to treat blood clotting?
+oral estradiol,gallstones,drug-disease,Is oral estradiol a drug?,Is gallstones a disease?,Is oral estradiol used to treat gallstones?
+chronic disc disease,back pain,disease-symptom,Is chronic disc disease a disease?,Is back pain a symptom?,Is back pain a symptom of chronic disc disease?
+arthritis,back pain,disease-symptom,Is arthritis a disease?,Is back pain a symptom?,Is back pain a symptom of arthritis?
+Celebrex,neck pain,drug-disease,Is Celebrex a drug?,Is neck pain a disease?,Is Celebrex used to treat neck pain?
+Cymbalta,nerve pain,drug-disease,Is Cymbalta a drug?,Is nerve pain a disease?,Is Cymbalta used to treat nerve pain?
+neck pain,headache,disease-symptom,Is neck pain a disease?,Is headache a symptom?,Is headache a symptom of neck pain?
+neck tension,neck trauma,symptom-disease,Is neck tension a symptom?,Is neck trauma a disease?,Is neck tension a symptom of neck trauma?
+food poisoning,diarrhea,disease-symptom,Is food poisoning a disease?,Is diarrhea a symptom?,Is diarrhea a symptom of food poisoning?
+food poisoning,vomit,disease-symptom,Is food poisoning a disease?,Is vomit a symptom?,Is vomit a symptom of food poisoning?
+dizzy,food poisoning,symptom-disease,Is dizzy a symptom?,Is food poisoning a disease?,Is dizzy a symptom of food poisoning?
+dehydration,creatinine,disease-symptom,Is dehydration a disease?,Is creatinine a symptom?,Is creatinine a symptom of dehydration?
+Tachycardia,Tachy/Brady syndrome,symptom-disease,Is Tachycardia a symptom?,Is Tachy/Brady syndrome a disease?,Is Tachycardia a symptom of Tachy/Brady syndrome?
+Bradycardia,Tachy/Brady syndrome,symptom-disease,Is Bradycardia a symptom?,Is Tachy/Brady syndrome a disease?,Is Bradycardia a symptom of Tachy/Brady syndrome?
+Atrial fibrillation,Palpitations,disease-symptom,Is Atrial fibrillation a disease?,Is Palpitations a symptom?,Is Palpitations a symptom of Atrial fibrillation?
+Heart attack,Chest pain,disease-symptom,Is Heart attack a disease?,Is Chest pain a symptom?,Is Chest pain a symptom of Heart attack?
+pheochromocytoma,facial flushing,disease-symptom,Is pheochromocytoma a disease?,Is facial flushing a symptom?,Is facial flushing a symptom of pheochromocytoma?
+antimalarial medication,Malaria,drug-disease,Is antimalarial medication a drug?,Is Malaria a disease?,Is antimalarial medication used to treat Malaria?
+hemorrhoids,bright red blood,disease-symptom,Is hemorrhoids a disease?,Is bright red blood a symptom?,Is bright red blood a symptom of hemorrhoids?
+Metoprolol Tartrate,High Blood Pressure,drug-disease,Is Metoprolol Tartrate a drug?,Is High Blood Pressure a disease?,Is Metoprolol Tartrate used to treat High Blood Pressure?
+Amlodopine,High Blood Pressure,drug-disease,Is Amlodopine a drug?,Is High Blood Pressure a disease?,Is Amlodopine used to treat High Blood Pressure?
+Spironolactone,High Blood Pressure,drug-disease,Is Spironolactone a drug?,Is High Blood Pressure a disease?,Is Spironolactone used to treat High Blood Pressure?
+High Blood Pressure,chest pains,disease-symptom,Is High Blood Pressure a disease?,Is chest pains a symptom?,Is chest pains a symptom of High Blood Pressure?
+Pericarditis,chest pains,disease-symptom,Is Pericarditis a disease?,Is chest pains a symptom?,Is chest pains a symptom of Pericarditis?
+chest pains,Pericarditis,symptom-disease,Is chest pains a symptom?,Is Pericarditis a disease?,Is chest pains a symptom of Pericarditis?
+dermatitis,red scaly circle,disease-symptom,Is dermatitis a disease?,Is red scaly circle a symptom?,Is red scaly circle a symptom of dermatitis?
+Nail fungus,Terbinafine,drug-disease,Is Nail fungus a drug?,Is Terbinafine a disease?,Is Nail fungus used to treat Terbinafine?
+Nail fungus,Itraconazole,drug-disease,Is Nail fungus a drug?,Is Itraconazole a disease?,Is Nail fungus used to treat Itraconazole?
+Helicobacter pylori infection,Amoxicillin,drug-disease,Is Helicobacter pylori infection a drug?,Is Amoxicillin a disease?,Is Helicobacter pylori infection used to treat Amoxicillin?
+Helicobacter pylori infection,Clarithromycin,drug-disease,Is Helicobacter pylori infection a drug?,Is Clarithromycin a disease?,Is Helicobacter pylori infection used to treat Clarithromycin?
+Helicobacter pylori infection,Pantoprazole,drug-disease,Is Helicobacter pylori infection a drug?,Is Pantoprazole a disease?,Is Helicobacter pylori infection used to treat Pantoprazole?
+premature ovarian failure,fatigue,disease-symptom,Is premature ovarian failure a disease?,Is fatigue a symptom?,Is fatigue a symptom of premature ovarian failure?
+interstitial cystitis,bladder spasms,disease-symptom,Is interstitial cystitis a disease?,Is bladder spasms a symptom?,Is bladder spasms a symptom of interstitial cystitis?
+iritis,inflammation,disease-symptom,Is iritis a disease?,Is inflammation a symptom?,Is inflammation a symptom of iritis?
+inflammatory arthritis,joint pain,disease-symptom,Is inflammatory arthritis a disease?,Is joint pain a symptom?,Is joint pain a symptom of inflammatory arthritis?
+PCOS,acne,disease-symptom,Is PCOS a disease?,Is acne a symptom?,Is acne a symptom of PCOS?
+Prednisone,inflammatory arthritis,drug-disease,Is Prednisone a drug?,Is inflammatory arthritis a disease?,Is Prednisone used to treat inflammatory arthritis?
+strep,sore throat,disease-symptom,Is strep a disease?,Is sore throat a symptom?,Is sore throat a symptom of strep?
+cocaine,sinus issues,drug-disease,Is cocaine a drug?,Is sinus issues a disease?,Is cocaine used to treat sinus issues?
+cocaine,chest pain,drug-disease,Is cocaine a drug?,Is chest pain a disease?,Is cocaine used to treat chest pain?
+chest pain,cocaine,symptom-disease,Is chest pain a symptom?,Is cocaine a disease?,Is chest pain a symptom of cocaine?
+tingling,cocaine,symptom-disease,Is tingling a symptom?,Is cocaine a disease?,Is tingling a symptom of cocaine?
+Enantyum,tendonitis,drug-disease,Is Enantyum a drug?,Is tendonitis a disease?,Is Enantyum used to treat tendonitis?
+tendonitis,pain,disease-symptom,Is tendonitis a disease?,Is pain a symptom?,Is pain a symptom of tendonitis?
+viral pneumonia,fever,disease-symptom,Is viral pneumonia a disease?,Is fever a symptom?,Is fever a symptom of viral pneumonia?
+runny nose,viral pneumonia,symptom-disease,Is runny nose a symptom?,Is viral pneumonia a disease?,Is runny nose a symptom of viral pneumonia?
+pneumonia,fever,disease-symptom,Is pneumonia a disease?,Is fever a symptom?,Is fever a symptom of pneumonia?
+pneumonia,fatigue,disease-symptom,Is pneumonia a disease?,Is fatigue a symptom?,Is fatigue a symptom of pneumonia?
+fever,pneumonia,symptom-disease,Is fever a symptom?,Is pneumonia a disease?,Is fever a symptom of pneumonia?
+Advair,pneumonia,drug-disease,Is Advair a drug?,Is pneumonia a disease?,Is Advair used to treat pneumonia?
+Azithromax,pneumonia,drug-disease,Is Azithromax a drug?,Is pneumonia a disease?,Is Azithromax used to treat pneumonia?
+ceftin,pneumonia,drug-disease,Is ceftin a drug?,Is pneumonia a disease?,Is ceftin used to treat pneumonia?
+flu,fever,disease-symptom,Is flu a disease?,Is fever a symptom?,Is fever a symptom of flu?
+fever,flu,symptom-disease,Is fever a symptom?,Is flu a disease?,Is fever a symptom of flu?
+arrhythmia,chest pain,disease-symptom,Is arrhythmia a disease?,Is chest pain a symptom?,Is chest pain a symptom of arrhythmia?
+arrhythmia,exhaustion,disease-symptom,Is arrhythmia a disease?,Is exhaustion a symptom?,Is exhaustion a symptom of arrhythmia?
+arrhythmia,irregular beats,disease-symptom,Is arrhythmia a disease?,Is irregular beats a symptom?,Is irregular beats a symptom of arrhythmia?
+arrhythmia,sore chest,disease-symptom,Is arrhythmia a disease?,Is sore chest a symptom?,Is sore chest a symptom of arrhythmia?
+arrhythmia,pain,disease-symptom,Is arrhythmia a disease?,Is pain a symptom?,Is pain a symptom of arrhythmia?
+arrhythmia,falling asleep difficulty,disease-symptom,Is arrhythmia a disease?,Is falling asleep difficulty a symptom?,Is falling asleep difficulty a symptom of arrhythmia?
+Depressive Disorder,forgetting things,disease-symptom,Is Depressive Disorder a disease?,Is forgetting things a symptom?,Is forgetting things a symptom of Depressive Disorder?
+Anxiety Disorder,headaches,disease-symptom,Is Anxiety Disorder a disease?,Is headaches a symptom?,Is headaches a symptom of Anxiety Disorder?
+Depression,forgetting things,disease-symptom,Is Depression a disease?,Is forgetting things a symptom?,Is forgetting things a symptom of Depression?
+gastroparesis,vomiting,disease-symptom,Is gastroparesis a disease?,Is vomiting a symptom?,Is vomiting a symptom of gastroparesis?
+gastroparesis,weight loss,disease-symptom,Is gastroparesis a disease?,Is weight loss a symptom?,Is weight loss a symptom of gastroparesis?
+IBS-C,constipation,disease-symptom,Is IBS-C a disease?,Is constipation a symptom?,Is constipation a symptom of IBS-C?
+HIV,rash on neck,disease-symptom,Is HIV a disease?,Is rash on neck a symptom?,Is rash on neck a symptom of HIV?
+HIV,diarrhea,disease-symptom,Is HIV a disease?,Is diarrhea a symptom?,Is diarrhea a symptom of HIV?
+HIV,joint pain,disease-symptom,Is HIV a disease?,Is joint pain a symptom?,Is joint pain a symptom of HIV?
+Bactrim,staph infection,drug-disease,Is Bactrim a drug?,Is staph infection a disease?,Is Bactrim used to treat staph infection?
+mupirocin,staph infection,drug-disease,Is mupirocin a drug?,Is staph infection a disease?,Is mupirocin used to treat staph infection?
+Parkinson’s,Tremors,disease-symptom,Is Parkinson’s a disease?,Is Tremors a symptom?,Is Tremors a symptom of Parkinson’s?
+Depression,Anxiety,disease-symptom,Is Depression a disease?,Is Anxiety a symptom?,Is Anxiety a symptom of Depression?
+Zoloft,anxiety,drug-disease,Is Zoloft a drug?,Is anxiety a disease?,Is Zoloft used to treat anxiety?
+lexapro,anxiety,drug-disease,Is lexapro a drug?,Is anxiety a disease?,Is lexapro used to treat anxiety?
+Ativan,anxiety,drug-disease,Is Ativan a drug?,Is anxiety a disease?,Is Ativan used to treat anxiety?
+Flomax,prostate issues,drug-disease,Is Flomax a drug?,Is prostate issues a disease?,Is Flomax used to treat prostate issues?
+tularemia,symptoms,disease-symptom,Is tularemia a disease?,Is symptoms a symptom?,Is symptoms a symptom of tularemia?
+acetaminophen,pain,drug-disease,Is acetaminophen a drug?,Is pain a disease?,Is acetaminophen used to treat pain?
+broken ribs,pain,disease-symptom,Is broken ribs a disease?,Is pain a symptom?,Is pain a symptom of broken ribs?
+bruised ribs,pain,disease-symptom,Is bruised ribs a disease?,Is pain a symptom?,Is pain a symptom of bruised ribs?
+PMS,cramps,disease-symptom,Is PMS a disease?,Is cramps a symptom?,Is cramps a symptom of PMS?
+vitamin D deficiency,tetany seizures,disease-symptom,Is vitamin D deficiency a disease?,Is tetany seizures a symptom?,Is tetany seizures a symptom of vitamin D deficiency?
+tetany seizures,vitamin D deficiency,symptom-disease,Is tetany seizures a symptom?,Is vitamin D deficiency a disease?,Is tetany seizures a symptom of vitamin D deficiency?
+subchorionic hematoma,bleeding,disease-symptom,Is subchorionic hematoma a disease?,Is bleeding a symptom?,Is bleeding a symptom of subchorionic hematoma?
+fractured,slight pain,disease-symptom,Is fractured a disease?,Is slight pain a symptom?,Is slight pain a symptom of fractured?
+DVT,leg swelling,disease-symptom,Is DVT a disease?,Is leg swelling a symptom?,Is leg swelling a symptom of DVT?
+Colorectal cancer,narrow stool,disease-symptom,Is Colorectal cancer a disease?,Is narrow stool a symptom?,Is narrow stool a symptom of Colorectal cancer?
+Colorectal cancer,occasional blood/red streaks,disease-symptom,Is Colorectal cancer a disease?,Is occasional blood/red streaks a symptom?,Is occasional blood/red streaks a symptom of Colorectal cancer?
+Colorectal cancer,constipation,disease-symptom,Is Colorectal cancer a disease?,Is constipation a symptom?,Is constipation a symptom of Colorectal cancer?
+Colorectal cancer,fatigue,disease-symptom,Is Colorectal cancer a disease?,Is fatigue a symptom?,Is fatigue a symptom of Colorectal cancer?
+valproic acid,seizures,drug-disease,Is valproic acid a drug?,Is seizures a disease?,Is valproic acid used to treat seizures?
+ibuprofen,patella femoral syndrome,drug-disease,Is ibuprofen a drug?,Is patella femoral syndrome a disease?,Is ibuprofen used to treat patella femoral syndrome?
+Aleve,patella femoral syndrome,drug-disease,Is Aleve a drug?,Is patella femoral syndrome a disease?,Is Aleve used to treat patella femoral syndrome?
+patella femoral syndrome,constant pain,disease-symptom,Is patella femoral syndrome a disease?,Is constant pain a symptom?,Is constant pain a symptom of patella femoral syndrome?
+hives,itchy,disease-symptom,Is hives a disease?,Is itchy a symptom?,Is itchy a symptom of hives?
+Zyrtec,hives,drug-disease,Is Zyrtec a drug?,Is hives a disease?,Is Zyrtec used to treat hives?
+Cortisone cream,hives,drug-disease,Is Cortisone cream a drug?,Is hives a disease?,Is Cortisone cream used to treat hives?
+Bendryl,hives,drug-disease,Is Bendryl a drug?,Is hives a disease?,Is Bendryl used to treat hives?
+Benedryl cream,hives,drug-disease,Is Benedryl cream a drug?,Is hives a disease?,Is Benedryl cream used to treat hives?
+Calamine lotion,hives,drug-disease,Is Calamine lotion a drug?,Is hives a disease?,Is Calamine lotion used to treat hives?
+doxycycline,STD,drug-disease,Is doxycycline a drug?,Is STD a disease?,Is doxycycline used to treat STD?

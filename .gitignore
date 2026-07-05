@@ -10,8 +10,6 @@
 **/.ipynb_checkpoints/
 
 # Data files (too large for GitHub)
-data/
-*.csv
 
 # Python cache
 __pycache__/
