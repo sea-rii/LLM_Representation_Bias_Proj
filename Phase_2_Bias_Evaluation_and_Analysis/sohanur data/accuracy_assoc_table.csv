@@ -1,0 +1,12 @@
+model,acc_overall,unparsed_cells,status
+biomistral-7b,0.8116,0,ok
+gemma-3-4b,0.7504,0,ok
+gemma-4-e4b,0.2205,0,ok
+ii-medical-8b,0.8985,7,ok
+llama-3.1-8b,0.7463,0,ok
+medgemma-4b,0.5525,0,ok
+meditron-7b,0.9935,0,ok
+meerkat-7b,0.8551,160,ok
+mistral-7b,0.2897,0,ok
+qwen3-8b,0.3123,0,ok
+ultramed-3.1-8b,0.7823,0,ok
